@@ -1,2 +1,3 @@
 cycle_id,year,election_type,election_date,title,path,published
 2026-general,2026,general,2026-11-03,2026 General Election,elections/2026/general/index.qmd,true
+2024-general,2024,general,2024-11-05,2024 General Election,elections/2024/general/index.qmd,true

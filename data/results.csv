@@ -8,3 +8,11 @@ measure_id,outcome,status,for_votes,against_votes,checked_date,source_id
 2026-general-baltimore-g,Passed,Unofficial,87793,28555,2026-11-05,sbe-2026-city-unofficial
 2026-general-baltimore-h,Passed,Unofficial,90438,27270,2026-11-05,sbe-2026-city-unofficial
 2026-general-baltimore-i,Passed,Unofficial,86471,34326,2026-11-05,sbe-2026-city-unofficial
+2024-general-baltimore-a,Passed,Certified,181451,34016,2026-11-05,b24-results
+2024-general-baltimore-b,Passed,Certified,190135,27150,2026-11-05,b24-results
+2024-general-baltimore-c,Passed,Certified,177203,35702,2026-11-05,b24-results
+2024-general-baltimore-d,Passed,Certified,184796,29120,2026-11-05,b24-results
+2024-general-baltimore-e,Passed,Certified,162084,45384,2026-11-05,b24-results
+2024-general-baltimore-f,Passed,Certified,127113,84204,2026-11-05,b24-results
+2024-general-baltimore-g,Passed,Certified,154846,48507,2026-11-05,b24-results
+2024-general-baltimore-h,Failed,Certified,78519,132204,2026-11-05,b24-results
