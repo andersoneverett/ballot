@@ -46,6 +46,8 @@ write_redirects <- function(root = "docs", data_root = "data") {
     if (nrow(match) == 1L) {
       destination(paste0("measures/", mapping$old_id[i], ".html"),
         match$guide_path, root)
+    } else if (startsWith(mapping$measure_id[i], "2026-general-md-")) {
+      destination(paste0("measures/", mapping$old_id[i], ".html"), "index.html", root)
     }
   }
   destination("guide/index.html", "elections/2026/general/index.html", root)

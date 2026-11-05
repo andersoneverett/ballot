@@ -56,7 +56,7 @@ featured_election <- function() {
   d <- published_elections()
   if (!nrow(d)) return(invisible(NULL))
   x <- d[1, ]; m <- read_data("measures"); count <- sum(m$cycle_id == x$cycle_id)
-  cat(sprintf('<section class="featured-guide" aria-label="Current election guide"><p class="section-label">Election guide</p><h2><a href="%s">%s</a></h2><p>%s ballot questions. Plain-language explanations, official wording, and certified results.</p><a class="guide-button" href="%s">Explore the guide <span aria-hidden="true">→</span></a></section>\n', html_escape(html_path(x$path)), html_escape(x$title), count, html_escape(html_path(x$path))))
+  cat(sprintf('<section class="featured-guide" aria-label="Current Election Guide"><p class="section-label">Election Guide</p><h2><a href="%s">%s</a></h2><p>%s Baltimore City ballot questions. Plain-language explanations, official wording, and certified results.</p><a class="guide-button" href="%s">Explore The Guide <span aria-hidden="true">→</span></a></section>\n', html_escape(html_path(x$path)), html_escape(x$title), count, html_escape(html_path(x$path))))
 }
 election_index <- function() {
   d <- published_elections()
@@ -64,7 +64,7 @@ election_index <- function() {
   cat('<ul class="cycle-list">')
   for (i in seq_len(nrow(d))) {
     x <- d[i, ]; path <- sub("^elections/", "", html_path(x$path))
-    cat(sprintf('<li><h2><a href="%s">%s</a></h2><p>Baltimore City &amp; Maryland statewide questions</p></li>', html_escape(path), html_escape(x$title)))
+    cat(sprintf('<li><h2><a href="%s">%s</a></h2><p>Baltimore City Ballot Questions</p></li>', html_escape(path), html_escape(x$title)))
   }
   cat('</ul>\n')
 }
