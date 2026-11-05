@@ -17,7 +17,7 @@ Results are entered manually. There is no API or scheduled retrieval. Unofficial
 
 1. Inspect the source and register its URL, publisher, and actual access date in data/sources.csv.
 2. Enter or update the measure's row. An outcome may be published without vote counts or a certification date. Label unofficial returns Unofficial; do not describe them as certified.
-3. Run `Rscript scripts/test-publication.R`, `Rscript scripts/test-tags.R`, `quarto render`, and `Rscript scripts/check-render.R`. Compare rendered values with the source before pushing. Do not commit generated docs/.
+3. Follow the canonical Checks sequence in README.md: run `Rscript scripts/test-publication.R`, `Rscript scripts/test-tags.R`, `quarto render`, `Rscript scripts/check-render.R`, and `Rscript scripts/check-redirects.R` in order, stopping on failure. Run rendered-output checks only after a successful render. Compare rendered values with the source before pushing. Do not commit generated docs/.
 4. When the source changes, update the same row and checked date. Change status to Certified only when supported by the source.
 
 ## Display
