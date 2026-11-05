@@ -1,9 +1,9 @@
 ---
-title: "Ballot guides"
-subtitle: "The questions. The decisions. The results."
+title: "Ballot Guides"
+subtitle: "The Questions. The Decisions. The Results."
 ---
 
-Explore Baltimore City and Maryland statewide ballot questions by election. Each guide brings together plain-language explanations, official wording, and certified results.
+Explore Baltimore City ballot questions by election. Each election record brings together plain-language explanations, official wording, and results as they are added.
 
 ```{r}
 #| results: asis
