@@ -1,7 +1,5 @@
 # Write safe legacy redirects after Quarto renders the public publication.
 
-root <- normalizePath("docs", mustWork = TRUE, winslash = "/")
-
 html_escape <- function(x) {
   x <- gsub("&", "&amp;", x, fixed = TRUE)
   x <- gsub('"', "&quot;", x, fixed = TRUE)
@@ -24,7 +22,7 @@ relative_path <- function(from_file, to_file) {
   paste(parts[nzchar(parts)], collapse = "/")
 }
 
-destination <- function(old, new) {
+destination <- function(old, new, root) {
   old_path <- file.path(root, old)
   filename <- sub("\\.qmd$", ".html", sub("#.*$", "", new))
   anchor <- if (grepl("#", new, fixed = TRUE)) sub("^.*#", "", new) else NULL
@@ -37,20 +35,26 @@ destination <- function(old, new) {
     old_path, useBytes = TRUE)
 }
 
-measures <- read.csv("data/measures.csv", stringsAsFactors = FALSE, colClasses = "character",
-  na.strings = NULL, check.names = FALSE)
-mapping <- read.csv("data/GUIDE_MAPPING.csv", stringsAsFactors = FALSE, colClasses = "character",
-  na.strings = NULL, check.names = FALSE)
-for (i in seq_len(nrow(mapping))) {
-  match <- measures[measures$id == mapping$measure_id[i], , drop = FALSE]
-  if (nrow(match) == 1L) {
-    destination(paste0("measures/", mapping$old_id[i], ".html"),
-      sub("\\.qmd$", ".html", match$guide_path))
+write_redirects <- function(root = "docs", data_root = "data") {
+  root <- normalizePath(root, mustWork = TRUE, winslash = "/")
+  measures <- read.csv(file.path(data_root, "measures.csv"), stringsAsFactors = FALSE,
+    colClasses = "character", na.strings = NULL, check.names = FALSE)
+  mapping <- read.csv(file.path(data_root, "GUIDE_MAPPING.csv"), stringsAsFactors = FALSE,
+    colClasses = "character", na.strings = NULL, check.names = FALSE)
+  for (i in seq_len(nrow(mapping))) {
+    match <- measures[measures$id == mapping$measure_id[i], , drop = FALSE]
+    if (nrow(match) == 1L) {
+      destination(paste0("measures/", mapping$old_id[i], ".html"),
+        match$guide_path, root)
+    }
   }
+  destination("guide/index.html", "elections/2026/general/index.html", root)
+  destination("tracker.html", "elections/2026/general/index.html", root)
+  destination("geography.html", "index.html", root)
+  destination("spending.html", "index.html", root)
+  destination("methods.html", "about.html#editorial-standards", root)
+  destination("articles/index.html", "index.html", root)
+  invisible(TRUE)
 }
-destination("guide/index.html", "elections/2026/general/index.html")
-destination("tracker.html", "elections/2026/general/index.html")
-destination("geography.html", "index.html")
-destination("spending.html", "index.html")
-destination("methods.html", "about.html#editorial-standards")
-destination("articles/index.html", "index.html")
+
+if (sys.nframe() == 0L) write_redirects()

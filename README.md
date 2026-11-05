@@ -8,7 +8,7 @@ Home, Ballot Guides, About, and published articles. The 2026 General Election gu
 
 ## RStudio setup
 
-Clone https://github.com/andersoneverett/ballot in RStudio using File → New Project → Version Control → Git. Open publication.Rproj. Install rendering packages once with `install.packages(c("knitr", "rmarkdown"))` and install Quarto if needed.
+Clone https://github.com/andersoneverett/ballot in RStudio using File → New Project → Version Control → Git. Open publication.Rproj. Install rendering packages once with `install.packages(c("knitr", "rmarkdown", "xml2"))` and install Quarto if needed.
 
 Use `quarto preview` in the Terminal to review changes. Commit and push the source to main; GitHub Actions tests, renders, checks links, and deploys. Do not commit generated docs/.
 
@@ -28,7 +28,7 @@ See RESULTS_SETUP.md for certified results and DATA_GUIDE.md for geographic and 
 
 ## Checks
 
-Run `Rscript scripts/test-publication.R`, `quarto render`, and `Rscript scripts/check-render.R`. R tests use a disposable fixture workspace; synthetic data never enters published research records. The render checker verifies required pages, guide anchors, official wording, absence of personal recommendations and setup language, working local links, and safe legacy redirects.
+Install the base rendering dependencies and `xml2` with `install.packages(c("knitr", "rmarkdown", "xml2"))`. Run `Rscript scripts/test-publication.R`, `quarto render`, and `Rscript scripts/check-render.R`. The publication tests use disposable fixture workspaces, including controlled election, article, result, redirect, and rendered HTML cases; synthetic data never enters production records. The render checker verifies required pages, guide anchors, official wording, absence of personal recommendations and setup language, working local links and fragments, HTML entity decoding, and safe legacy redirects.
 
 ## Design
 

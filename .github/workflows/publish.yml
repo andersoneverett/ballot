@@ -22,9 +22,9 @@ jobs:
       - name: Install system dependency for R packages
         run: |
           sudo apt-get update
-          sudo apt-get install -y libuv1-dev
+          sudo apt-get install -y libuv1-dev libxml2-dev
       - name: Install R rendering packages
-        run: Rscript -e 'packages <- c("knitr", "rmarkdown"); install.packages(packages, repos = "https://cloud.r-project.org", Ncpus = 2); stopifnot(all(vapply(packages, requireNamespace, logical(1), quietly = TRUE)))'
+        run: Rscript -e 'packages <- c("knitr", "rmarkdown", "xml2"); install.packages(packages, repos = "https://cloud.r-project.org", Ncpus = 2); stopifnot(all(vapply(packages, requireNamespace, logical(1), quietly = TRUE)))'
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Test publication behavior
