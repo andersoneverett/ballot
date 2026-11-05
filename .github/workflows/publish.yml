@@ -35,6 +35,8 @@ jobs:
         run: quarto render
       - name: Check rendered site
         run: Rscript scripts/check-render.R
+      - name: Check every legacy redirect destination
+        run: Rscript scripts/check-redirects.R
       - name: Upload rendered preview
         uses: actions/upload-artifact@v4
         with:
