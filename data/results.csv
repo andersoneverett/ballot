@@ -1,1 +1,1 @@
-measure_id,for_votes,against_votes,certified_outcome,certified_date,source_id
+measure_id,outcome,status,for_votes,against_votes,checked_date,source_id

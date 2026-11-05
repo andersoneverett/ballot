@@ -1,12 +1,10 @@
 source("R/publication.R")
-
 valid_date <- function(x) {
   if (!length(x)) return(TRUE)
   parsed <- suppressWarnings(as.Date(x, format = "%Y-%m-%d"))
   all(grepl("^\\d{4}-\\d{2}-\\d{2}$", x) & !is.na(parsed) & format(parsed, "%Y-%m-%d") == x)
 }
 path_exists <- function(path) file.exists(sub("#.*$", "", path))
-
 m <- read_data("measures"); s <- read_data("sources"); e <- read_data("events")
 cycles <- read_data("elections"); articles <- read_data("articles")
 required <- list(
@@ -14,7 +12,7 @@ required <- list(
   elections = c("cycle_id", "year", "election_type", "election_date", "title", "path", "published"),
   articles = c("article_id", "title", "description", "date", "path", "author", "cycle_id", "status"),
   sources = c("source_id", "title", "publisher", "url", "published_date", "accessed_date", "notes"),
-  results = c("measure_id", "for_votes", "against_votes", "certified_outcome", "certified_date", "source_id"),
+  results = c("measure_id", "outcome", "status", "for_votes", "against_votes", "checked_date", "source_id"),
   events = c("event_id", "measure_id", "event_date", "event_type", "summary", "source_id")
 )
 for (name in names(required)) stopifnot(all(required[[name]] %in% names(read_data(name))))
@@ -38,18 +36,21 @@ if (nrow(articles)) {
   stopifnot(valid_date(articles$date[published]), all(path_exists(articles$path[published])), all(nzchar(articles$title[published])), all(nzchar(articles$author[published])))
 }
 message("Publication records validated: ", nrow(m), " measures across ", nrow(cycles), " election cycle(s).")
-
 r <- read_data("results")
-stopifnot(!anyDuplicated(r$measure_id), all(r$measure_id %in% m$id), all(r$source_id %in% s$source_id), valid_date(r$certified_date))
+stopifnot(!anyDuplicated(r$measure_id), all(r$measure_id %in% m$id), all(r$source_id %in% s$source_id))
 if (nrow(r)) {
-  stopifnot(all(grepl("^[0-9]+$", r$for_votes)), all(grepl("^[0-9]+$", r$against_votes)))
-  for_votes <- as.numeric(r$for_votes); against_votes <- as.numeric(r$against_votes)
-  stopifnot(all(is.finite(for_votes)), all(is.finite(against_votes)), all(for_votes + against_votes > 0))
-  stopifnot(all(r$certified_outcome %in% c("Passed", "Failed", "Pending determination")), all(nzchar(r$source_id)), all(nzchar(r$certified_date)))
-  stopifnot(all(as.Date(r$certified_date) <= Sys.Date()))
-  stopifnot(all(as.Date(s$accessed_date[match(r$source_id, s$source_id)]) >= as.Date(r$certified_date)))
+  stopifnot(all(r$outcome %in% c("Passed", "Failed")), all(r$status %in% c("Unofficial", "Certified")), all(nzchar(r$source_id)), valid_date(r$checked_date), all(nzchar(r$checked_date)))
+  stopifnot(all(as.Date(r$checked_date) <= Sys.Date()))
+  election_dates <- cycles$election_date[match(m$cycle_id[match(r$measure_id, m$id)], cycles$cycle_id)]
+  stopifnot(all(as.Date(r$checked_date) >= as.Date(election_dates)))
+  supplied <- nzchar(r$for_votes)
+  stopifnot(all(supplied == nzchar(r$against_votes)))
+  if (any(supplied)) {
+    stopifnot(all(grepl("^[0-9]+$", r$for_votes[supplied])), all(grepl("^[0-9]+$", r$against_votes[supplied])))
+    f <- as.numeric(r$for_votes[supplied]); a <- as.numeric(r$against_votes[supplied])
+    stopifnot(all(is.finite(f)), all(is.finite(a)), all(f + a > 0))
+  }
 }
-
 p <- read_data("precinct_results"); g <- read_data("geographies"); crosswalk <- read_data("geographic_crosswalk"); spending <- read_data("spending")
 required_extra <- list(
   precinct_results = c("measure_id", "geography_type", "geography_id", "geography_name", "for_votes", "against_votes", "certified_date", "source_id"),
@@ -62,7 +63,12 @@ if (nrow(g)) stopifnot(!anyDuplicated(paste(g$geography_type, g$geography_id)), 
 if (nrow(p)) {
   stopifnot(all(p$measure_id %in% m$id), all(p$source_id %in% s$source_id), all(p$geography_type %in% c("precinct", "unallocated")), !anyDuplicated(paste(p$measure_id, p$geography_type, p$geography_id)), valid_date(p$certified_date))
   stopifnot(all(grepl("^[0-9]+$", p$for_votes)), all(grepl("^[0-9]+$", p$against_votes)))
-  for (id in unique(p$measure_id)) { result <- result_record(id); if (is.null(result)) stop("Import the certified jurisdiction total before geographic rows: ", id); rows <- p[p$measure_id == id, , drop = FALSE]; stopifnot(sum(as.numeric(rows$for_votes)) <= result$for_votes, sum(as.numeric(rows$against_votes)) <= result$against_votes) }
+  for (id in unique(p$measure_id)) {
+    result <- result_record(id)
+    if (is.null(result) || !isTRUE(result$has_counts)) stop("Import jurisdiction vote counts before geographic rows: ", id)
+    rows <- p[p$measure_id == id, , drop = FALSE]
+    stopifnot(sum(as.numeric(rows$for_votes)) <= result$for_votes, sum(as.numeric(rows$against_votes)) <= result$against_votes)
+  }
 }
 if (nrow(crosswalk)) { weights <- as.numeric(crosswalk$weight); stopifnot(all(crosswalk$source_id %in% s$source_id), all(weights > 0 & weights <= 1), all(abs(tapply(weights, crosswalk$precinct_id, sum) - 1) < 0.000001)) }
 if (nrow(spending)) {
