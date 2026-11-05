@@ -28,7 +28,7 @@ See RESULTS_SETUP.md for certified results and DATA_GUIDE.md for geographic and 
 
 ## Checks
 
-Run `Rscript scripts/test-publication.R`, `quarto render`, and `python3 scripts/check-render.py`. R tests use a disposable fixture workspace; synthetic data never enters published research records. The render checker verifies required pages, guide anchors, official wording, absence of personal recommendations and setup language, working local links, and safe legacy redirects.
+Run `Rscript scripts/test-publication.R`, `quarto render`, and `Rscript scripts/check-render.R`. R tests use a disposable fixture workspace; synthetic data never enters published research records. The render checker verifies required pages, guide anchors, official wording, absence of personal recommendations and setup language, working local links, and safe legacy redirects.
 
 ## Design
 

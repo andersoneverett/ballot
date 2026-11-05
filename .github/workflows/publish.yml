@@ -32,7 +32,7 @@ jobs:
       - name: Render and validate publication
         run: quarto render
       - name: Check rendered site
-        run: python3 scripts/check-render.py
+        run: Rscript scripts/check-render.R
       - name: Upload rendered preview
         uses: actions/upload-artifact@v4
         with:

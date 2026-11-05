@@ -7,7 +7,7 @@ project:
   pre-render:
     - Rscript scripts/check.R
   post-render:
-    - python3 scripts/write-redirects.py
+    - Rscript scripts/write-redirects.R
   render:
     - index.qmd
     - about.qmd
