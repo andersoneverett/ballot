@@ -6,7 +6,7 @@ toc-title: "On The Ballot"
 toc-depth: 3
 ---
 
-Nine Baltimore City ballot questions covering public investment and city government.
+All nine Baltimore City measures passed according to [unofficial election returns](https://elections.maryland.gov/elections/2026/general_Results/gen_qresults_2026_by_county_3.html), checked November 5, 2026. The source was last refreshed at 10:35 a.m. that day. These are election outcomes, not a record of completed implementation.
 
 ```{r}
 #| results: asis
@@ -101,4 +101,4 @@ ballot_explanation("2026-general-baltimore-i")
 
 Explanations are based on the [official Baltimore City question entries](https://elections.maryland.gov/elections/2026/ballot_questions.html). The linked page also provides authorizing legislation and amendment documents. Wording was checked November 5, 2026.
 
-Certified vote shares use votes cast For or Against each question, excluding blank and invalid responses. All totals cover Baltimore City. Percentages are rounded to one decimal place.
+Outcomes and counts come from the [official unofficial-results page for Baltimore City](https://elections.maryland.gov/elections/2026/general_Results/gen_qresults_2026_by_county_3.html). Vote shares use votes cast For or Against each question, excluding blank and invalid responses. All totals cover Baltimore City. Percentages are calculated from the counts and rounded to one decimal place. The records are updated manually as new information is checked.
