@@ -33,16 +33,21 @@ DATA_GUIDE.md covers geographic and spending research. Research tables support a
 
 ## Checks
 
-Run these commands from the project root:
+Run these commands in order from the project root, stopping if any command fails:
 
 ```sh
 Rscript scripts/test-publication.R
 Rscript scripts/test-tags.R
 quarto render
 Rscript scripts/check-render.R
+Rscript scripts/check-redirects.R
 ```
 
-Tests use disposable fixture workspaces; synthetic records must never enter production data. Render checks cover required pages, anchors, official wording, local links and fragments, entity decoding, and legacy redirects. Separately review desktop and mobile layouts, keyboard focus, expandable wording, result labels, and source links. Report checks that could not be run.
+Tests use disposable fixture workspaces; synthetic records must never enter production data. Rendering runs the data validator before building pages and writes legacy redirects afterward. Run both rendered-output checks only after a successful render.
+
+The rendered-site check covers required pages, guide anchors, official-wording disclosure counts, local links and fragments, entity decoding, and retired public copy. It does not compare every official quotation against its source. The redirect check covers every legacy mapping and the fixed legacy routes, comparing refresh targets, canonical links, and fallback links with expected destinations and checking destination anchors. Keep legacy mapping records even when unused source includes are removed.
+
+GitHub Actions runs the same five commands before uploading artifacts; non-PR runs then deploy. Separately review desktop and mobile layouts, keyboard focus, expandable wording, result labels, and source links. Report checks that could not be run, and distinguish source inspection, executed tests, CI outcomes, deployment, and visual review.
 
 ## Design
 
