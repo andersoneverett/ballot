@@ -5,8 +5,8 @@ subtitle: "Following ballot support across Baltimore’s communities."
 
 A citywide result tells us whether a measure passed. Geographic results can show how support varied across the city—and give us a baseline for following where investment goes next.
 
-::: {.callout-note title="Geographic analysis is awaiting verified data"}
-No precinct results or neighborhood boundaries have been imported yet. Maps will follow once certified counts and matching geographic boundaries have been checked. An unavailable result is not a zero vote.
+::: {.callout-note title="Reading geographic coverage"}
+Geographic records are added only after their certified counts and reporting scope have been checked. Maps also require matching boundaries and complete-coverage checks. An unavailable result is not a zero vote.
 :::
 
 ## Geographic results

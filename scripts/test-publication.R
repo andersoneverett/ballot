@@ -4,7 +4,6 @@ sandbox <- tempfile("ballot-tests-")
 dir.create(sandbox)
 for (folder in c("R", "scripts", "data", "measures")) file.copy(folder, sandbox, recursive = TRUE)
 setwd(sandbox)
-on.exit <- NULL
 write_table <- function(name, data) write.csv(data, file.path("data", paste0(name, ".csv")), row.names = FALSE, na = "")
 run_tests <- function() {
   source("R/publication.R", local = .GlobalEnv)

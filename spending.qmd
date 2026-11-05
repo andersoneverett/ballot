@@ -5,8 +5,8 @@ subtitle: "From ballot authorization to public investment."
 
 Approval is one step. This ledger follows funding into budgets, awards, and actual expenditures, keeping each stage distinct.
 
-::: {.callout-note title="The spending ledger is awaiting sourced records"}
-No spending records have been imported. The original guide’s borrowing amounts describe proposed authorizations; they are not evidence of debt issued, money spent, or projects delivered.
+::: {.callout-note title="Reading the spending ledger"}
+The ledger contains only sourced financial records. The original guide’s borrowing amounts describe proposed authorizations; they are not evidence of debt issued, money spent, or projects delivered. An empty ledger does not establish that no spending occurred.
 :::
 
 ## Spending ledger
