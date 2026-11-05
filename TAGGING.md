@@ -1,9 +1,13 @@
-# Measure Type And Topic Tags
+# Measure Type, Origin, And Topic Metadata
 
-Tags are stored in data/measure_tags.csv, joined to data/measures.csv by the cycle-scoped measure_id. This avoids changing the existing explanations or result data. Each active measure needs exactly one tag record.
+Metadata is stored in data/measure_tags.csv and joined to measures by the cycle-scoped measure_id. Each active measure needs exactly one record.
 
-Use one measure_type: Bond or Charter Change. Use one to three topics separated by semicolons. Approved topic labels are listed in R/measure-tags.R. Keep every word capitalized in displayed labels. Topic assignments are editorial groupings; measure type describes the ballot instrument.
+Use one measure_type: Bond or Charter Change. This appears as a compact badge. Bond uses pale gold; Charter Change uses pale purple.
 
-Election pages source R/publication.R and R/measure-tags.R, then call measure_tags(id) immediately before ballot_explanation(id). Reuse this pattern when adding 2024 or future cycles. Tags are descriptive labels, not links or filters.
+Use one ballot_origin: City Council–Referred or Citizen Petition. Origin identifies the formal ballot-placement route, not endorsements or implementation responsibility. Each origin requires origin_source_id referencing data/sources.csv. Render it as a plain attribution line linked to evidence, not another badge. For 2026, the city election board lists Council records for A-H and identifies I as proposed by voter petition.
 
-Run Rscript scripts/test-tags.R alongside the existing publication tests before rendering. GitHub Actions runs both tests. No Python or new R package is required.
+Use one to three semicolon-separated topics from the vocabulary in R/measure-tags.R. Render topics as quiet text with dot separators, not boxed pills or filter links. Capitalize Every Word In Displayed Labels.
+
+Election pages source R/publication.R and R/measure-tags.R, then call measure_tags(id) before ballot_explanation(id). This interface remains unchanged for the 2024 backfill.
+
+Run Rscript scripts/test-tags.R with the publication tests before rendering. GitHub Actions already runs both. No new package, scripting runtime, or deployment setting is required.

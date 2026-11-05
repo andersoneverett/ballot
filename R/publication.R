@@ -35,10 +35,10 @@ measure_vote_share <- function(id) {
     cat('<p class="result-pending">Results not yet recorded.</p>\n')
     return(invisible(NULL))
   }
-  cat(sprintf('<div class="certified-result"><p class="result-label"><strong>%s</strong> · %s Results</p>', html_escape(x$outcome), html_escape(x$status)))
+  cat(sprintf('<div class="result-card" data-outcome="%s"><p class="result-label"><strong class="result-outcome">%s</strong><span class="result-status">%s Results</span></p>', html_escape(x$outcome), html_escape(x$outcome), html_escape(x$status)))
   if (x$has_counts) {
     cat(sprintf('<div class="result-counts"><span>For <strong>%.1f%%</strong> · %s votes</span><span>Against <strong>%.1f%%</strong> · %s votes</span></div>', x$for_pct, format_votes(x$for_votes), x$against_pct, format_votes(x$against_votes)))
-    cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="vote-for" style="width:%.8f%%"></span><span class="vote-against" style="width:%.8f%%"></span></div><p>Margin: %.1f percentage points</p>', x$for_pct, x$against_pct, x$for_pct, x$against_pct, abs(x$margin_pp)))
+    cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="vote-for" style="width:%.8f%%"></span><span class="vote-against" style="width:%.8f%%"></span></div><p class="result-margin">Margin: %.1f percentage points</p>', x$for_pct, x$against_pct, x$for_pct, x$against_pct, abs(x$margin_pp)))
   }
   cat(sprintf('<p class="result-detail">Checked %s · %s</p></div>\n', html_escape(x$checked_date), source_link(x$source_id)))
 }

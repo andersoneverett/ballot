@@ -1,10 +1,10 @@
-measure_id,measure_type,topics
-2026-general-baltimore-a,Bond,Housing
-2026-general-baltimore-b,Bond,Schools
-2026-general-baltimore-c,Bond,Neighborhood Development;Housing
-2026-general-baltimore-d,Bond,Infrastructure;Public Utilities
-2026-general-baltimore-e,Charter Change,Contracting;Budget And Spending
-2026-general-baltimore-f,Charter Change,Budget And Spending;Government Structure
-2026-general-baltimore-g,Charter Change,Public Utilities;Government Structure
-2026-general-baltimore-h,Charter Change,Public Utilities;Government Structure
-2026-general-baltimore-i,Charter Change,Families And Children;Budget And Spending
+measure_id,measure_type,topics,ballot_origin,origin_source_id
+2026-general-baltimore-a,Bond,Housing,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-b,Bond,Schools,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-c,Bond,Neighborhood Development;Housing,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-d,Bond,Infrastructure;Public Utilities,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-e,Charter Change,Contracting;Budget And Spending,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-f,Charter Change,Budget And Spending;Government Structure,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-g,Charter Change,Public Utilities;Government Structure,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-h,Charter Change,Public Utilities;Government Structure,City Council–Referred,boe-2026-ballot-origins
+2026-general-baltimore-i,Charter Change,Families And Children;Budget And Spending,Citizen Petition,boe-2026-ballot-origins
