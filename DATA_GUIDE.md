@@ -1,6 +1,6 @@
 # Baltimore Ballot data guide
 
-All CSV identifiers are text. Preserve leading zeros. No results, geographic boundaries, or spending have been fabricated. Start with RESULTS_SETUP.md for certified jurisdiction totals.
+All CSV identifiers are text. Preserve leading zeros. Measure IDs are cycle-scoped (for example, `2026-general-baltimore-a`), so prior cycles remain intact when a future election uses the same question letter. No results, geographic boundaries, or spending have been fabricated. Start with RESULTS_SETUP.md for certified jurisdiction totals.
 
 ## Geographic records
 

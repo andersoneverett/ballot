@@ -1,13 +1,22 @@
 ---
-title: "About this publication"
+title: "About Baltimore Ballot"
+subtitle: "Public decisions, clearly explained."
 ---
 
-**Baltimore Ballot** is Everett Anderson’s independent publication about public decisions in Maryland and Baltimore.
+Baltimore Ballot is an independent civic publication covering Baltimore elections and what follows them: public spending, policy implementation, and the effects on communities across the city. Coverage includes Maryland statewide questions that appear on Baltimore voters’ ballots.
 
-It begins with a simple follow-up to an election guide: what happened after the vote?
+Ballot guides explain what a question would change, reproduce its official wording, and report certified results. Articles examine the decisions and public records behind those changes, with sources and methods alongside the reporting.
 
-The focus is on the work between approval and results: budgets, institutional responsibilities, program design, spending, and public accountability. Reporting and data analysis support that work; commentary makes the author’s position explicit.
+## Editorial standards
 
-The 2026 guide contains personal recommendations. Subsequent reporting should test claims and follow evidence regardless of those recommendations.
+**Evidence comes first.** Explanations draw on official ballot language and governing documents. Reporting identifies its sources and distinguishes established facts, analysis, and unresolved questions.
 
-[How sources, uncertainty, and corrections are handled](methods.qmd).
+**Election results are labeled accurately.** Guides publish certified counts and identify their source and certification date. Missing results remain pending.
+
+**Context matters.** Precincts and neighborhoods are different geographies. A project’s location and the communities it serves are different facts. Geographic comparisons must explain their coverage and limitations.
+
+**Corrections are visible.** Substantive factual corrections are dated and explained on the affected article or guide. Reporting and commentary are labeled distinctly; ballot guides do not make voting recommendations.
+
+## Publication
+
+Founded and edited by Everett Anderson. Baltimore Ballot is independent of Baltimore City government and political campaigns.

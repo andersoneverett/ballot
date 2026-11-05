@@ -1,0 +1,133 @@
+---
+title: "2026 General Election"
+subtitle: "Baltimore City & Maryland · November 3, 2026"
+toc: true
+toc-title: "On the ballot"
+toc-depth: 3
+---
+
+Twelve ballot questions covering public investment, city government, and Maryland’s Constitution.
+
+```{r}
+#| results: asis
+source("R/publication.R")
+cycle_result_note("2026-general")
+```
+
+## Maryland statewide questions
+
+### Question 1 — Funding state employee labor agreements {#question-md-1}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-md-1")
+```
+
+{{< include ../../../_ballot_text/2026-general/md-1.qmd >}}
+
+### Question 2 — Temporary members for judicial oversight {#question-md-2}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-md-2")
+```
+
+{{< include ../../../_ballot_text/2026-general/md-2.qmd >}}
+
+### Question 3 — Congressional redistricting rules {#question-md-3}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-md-3")
+```
+
+{{< include ../../../_ballot_text/2026-general/md-3.qmd >}}
+
+## Baltimore City questions
+
+### Question A — Affordable housing {#question-baltimore-a}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-a")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-a.qmd >}}
+
+### Question B — School facilities {#question-baltimore-b}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-b")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-b.qmd >}}
+
+### Question C — Community and economic development {#question-baltimore-c}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-c")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-c.qmd >}}
+
+### Question D — Public infrastructure {#question-baltimore-d}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-d")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-d.qmd >}}
+
+### Question E — Contract bidding and awards {#question-baltimore-e}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-e")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-e.qmd >}}
+
+### Question F — Budget process and Board of Estimates {#question-baltimore-f}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-f")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-f.qmd >}}
+
+### Question G — Franchises and minor privileges {#question-baltimore-g}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-g")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-g.qmd >}}
+
+### Question H — Department of Water and Wastewater {#question-baltimore-h}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-h")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-h.qmd >}}
+
+### Question I — Baltimore Baby Fund {#question-baltimore-i}
+
+```{r}
+#| results: asis
+ballot_explanation("2026-general-baltimore-i")
+```
+
+{{< include ../../../_ballot_text/2026-general/baltimore-i.qmd >}}
+
+## Sources & results
+
+Explanations are based on the [Maryland State Board of Elections’ official question entries](https://elections.maryland.gov/elections/2026/ballot_questions.html). The linked page also provides authorizing legislation and amendment documents. Wording was checked November 5, 2026.
+
+Certified vote shares use votes cast **For** or **Against** each question, excluding blank and invalid responses. Maryland questions use statewide totals; city questions use Baltimore City totals. Percentages are rounded to one decimal place.

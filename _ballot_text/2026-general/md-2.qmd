@@ -1,4 +1,5 @@
-::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+<details class="official-text">
+<summary>Read the official question</summary>
 
 > Constitutional Amendment (Ch. 878 of the 2026 Legislative Session)
 >
@@ -10,6 +11,6 @@
 > Only individuals who meet the constitutional eligibility requirements may be recalled or appointed to the Commission.
 >   * Against the Constitutional Amendment - A vote AGAINST the amendment means that current membership rules for the Commission stay the same. Temporary appointments are not allowed if a member is recused, disqualified, or if a member's term ends.
 
-[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+[Maryland State Board of Elections](https://elections.maryland.gov/elections/2026/ballot_questions.html) · Accessed November 5, 2026.
 
-:::
+</details>

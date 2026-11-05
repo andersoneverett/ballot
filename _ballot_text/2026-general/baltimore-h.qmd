@@ -1,4 +1,5 @@
-::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+<details class="official-text">
+<summary>Read the official question</summary>
 
 > CHARTER AMENDMENT
 >
@@ -14,6 +15,6 @@
 >   * FOR Charter Amendment
 >   * AGAINST Charter Amendment
 
-[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+[Maryland State Board of Elections](https://elections.maryland.gov/elections/2026/ballot_questions.html) · Accessed November 5, 2026.
 
-:::
+</details>

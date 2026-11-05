@@ -1,31 +1,14 @@
 ---
-title: "Replace with the reporting question"
-description: "One sentence describing the article’s finding."
-author: Everett Anderson
+title: "Article title"
+description: "A concise description of the finding."
+author: "Reporter name"
 date: "2026-11-05"
 categories: [Reporting]
 draft: true
 ---
 
-## What we found
+Write the reporting here. Identify the relevant election and question, cite the underlying records, and distinguish findings from unresolved questions.
 
-Replace this with the sourced finding. Change the date to the actual publication date and remove `draft: true` only when the story is ready.
+## Sources and methods
 
-## What the records show
-
-Link primary records and identify which claims they support.
-
-## Analysis
-
-```{r}
-# Add analysis here. R code runs at render time.
-# Example: evidence <- read.csv("data/events.csv", stringsAsFactors = FALSE)
-```
-
-## What remains unknown
-
-State the missing evidence and next reporting step. Link the relevant measure file using ../../measures/MEASURE-ID.qmd.
-
-## Sources and updates
-
-List source links, document dates, and any corrections.
+Document source records, date ranges, geographic coverage, denominators, and limitations relevant to the analysis.

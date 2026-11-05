@@ -19,44 +19,65 @@ result_record <- function(id) {
   x
 }
 format_votes <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
-tracker_table <- function() {
-  d <- read_data("measures")
-  cat('<div class="table-scroll" tabindex="0" role="region" aria-label="Ballot measures"><table id="measure-table" class="table"><caption>2026 Maryland and Baltimore City ballot measures. Percentages use For plus Against votes.</caption><thead><tr><th scope="col">Measure</th><th scope="col">Jurisdiction</th><th scope="col">Certified result</th><th scope="col">For</th><th scope="col">Against</th><th scope="col">Implementation</th></tr></thead><tbody>')
-  for (i in seq_len(nrow(d))) {
-    x <- d[i, ]; result <- result_record(x$id)
-    href <- sub("\\.qmd$", ".html", x$page)
-    status <- if (is.null(result)) "Awaiting certified results" else paste(result$certified_outcome, "— certified")
-    for_share <- if (is.null(result)) "Not available" else sprintf("%.1f%% (%s votes)", result$for_pct, format_votes(result$for_votes))
-    against_share <- if (is.null(result)) "Not available" else sprintf("%.1f%% (%s votes)", result$against_pct, format_votes(result$against_votes))
-    cat(sprintf('<tr><th scope="row"><a href="%s">Question %s — %s</a></th><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>', html_escape(href), html_escape(x$question), html_escape(x$title), html_escape(x$jurisdiction), html_escape(status), html_escape(for_share), html_escape(against_share), html_escape(x$implementation_status)))
-  }
-  cat('</tbody></table></div>\n')
-}
 source_link <- function(id) {
   s <- read_data("sources")
   s <- s[s$source_id == id, , drop = FALSE]
   if (nrow(s) != 1L) stop("Missing or duplicate source: ", id)
   sprintf('<a href="%s">%s</a>', html_escape(s$url), html_escape(s$title))
 }
-measure_summary <- function(id) {
-  d <- read_data("measures"); x <- d[d$id == id, , drop = FALSE]
-  stopifnot(nrow(x) == 1L)
-  result <- result_record(id)
-  status <- if (is.null(result)) "Awaiting certified results" else paste(result$certified_outcome, "— certified")
-  checked <- if (nzchar(x$last_verified)) x$last_verified else "Not yet assessed"
-  cat(sprintf('<p><span class="status">%s</span> <span class="status">%s</span></p><p><strong>Implementation last verified:</strong> %s<br><strong>Next milestone:</strong> %s</p>\n', html_escape(status), html_escape(x$implementation_status), html_escape(checked), html_escape(x$next_milestone)))
-}
+
 measure_vote_share <- function(id) {
   x <- result_record(id)
   if (is.null(x)) {
-    cat('<p>Awaiting certified results. Vote shares, counts, and margin will appear here after a certified result and its source are entered. Missing data is not displayed as zero.</p>\n')
+    cat('<p class="result-pending"><strong>Results:</strong> Certification pending.</p>\n')
     return(invisible(NULL))
   }
-  cat(sprintf('<p><strong>For:</strong> %.1f%% (%s votes)<br><strong>Against:</strong> %.1f%% (%s votes)</p>', x$for_pct, format_votes(x$for_votes), x$against_pct, format_votes(x$against_votes)))
+  cat(sprintf('<div class="certified-result"><p class="result-label">%s · Certified result</p><div class="result-counts"><span>For <strong>%.1f%%</strong> · %s votes</span><span>Against <strong>%.1f%%</strong> · %s votes</span></div>', html_escape(x$certified_outcome), x$for_pct, format_votes(x$for_votes), x$against_pct, format_votes(x$against_votes)))
   cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="vote-for" style="width:%.8f%%"></span><span class="vote-against" style="width:%.8f%%"></span></div>', x$for_pct, x$against_pct, x$for_pct, x$against_pct))
-  direction <- if (x$margin_pp > 0) "For ahead" else if (x$margin_pp < 0) "Against ahead" else "Equal vote totals"
-  cat(sprintf('<p><strong>Vote margin:</strong> %s · %.1f percentage points<br><strong>Votes on this question:</strong> %s<br><strong>Certified:</strong> %s<br><strong>Result source:</strong> %s</p>\n', direction, abs(x$margin_pp), format_votes(x$total_votes), html_escape(x$certified_date), source_link(x$source_id)))
-  cat('<p class="result-note">Share = option votes ÷ (For votes + Against votes). Blank or invalid responses and ballots without a vote on this question are excluded. Rounded percentages may not sum to exactly 100%. A vote share describes support among voters answering this question, not among all residents. The outcome label is transcribed from the certified record.</p>\n')
+  cat(sprintf('<p class="result-detail">Margin: %.1f percentage points · Certified %s · %s</p></div>\n', abs(x$margin_pp), html_escape(x$certified_date), source_link(x$source_id)))
+}
+ballot_explanation <- function(id) {
+  m <- read_data("measures"); x <- m[m$id == id, , drop = FALSE]
+  stopifnot(nrow(x) == 1L)
+  cat(sprintf('<p>%s</p><div class="decision-grid"><div><strong>If approved</strong><p>%s</p></div><div><strong>If rejected</strong><p>%s</p></div></div>\n', html_escape(x$explanation), html_escape(x$if_for), html_escape(x$if_against)))
+  measure_vote_share(id)
+}
+cycle_result_note <- function(cycle_id) {
+  ids <- read_data("measures"); ids <- ids$id[ids$cycle_id == cycle_id]
+  results <- read_data("results")
+  if (!all(ids %in% results$measure_id)) cat('<p class="result-pending">Certified results are pending for some or all questions.</p>\n')
+}
+published_elections <- function() {
+  d <- read_data("elections"); d <- d[d$published == "true", , drop = FALSE]
+  d[order(d$election_date, decreasing = TRUE), , drop = FALSE]
+}
+html_path <- function(path) sub("\\.qmd$", ".html", path)
+featured_election <- function() {
+  d <- published_elections()
+  if (!nrow(d)) return(invisible(NULL))
+  x <- d[1, ]; m <- read_data("measures"); count <- sum(m$cycle_id == x$cycle_id)
+  cat(sprintf('<section class="featured-guide" aria-label="Current election guide"><p class="section-label">Election guide</p><h2><a href="%s">%s</a></h2><p>%s ballot questions. Plain-language explanations, official wording, and certified results.</p><a class="guide-button" href="%s">Explore the guide <span aria-hidden="true">→</span></a></section>\n', html_escape(html_path(x$path)), html_escape(x$title), count, html_escape(html_path(x$path))))
+}
+election_index <- function() {
+  d <- published_elections()
+  if (!nrow(d)) return(invisible(NULL))
+  cat('<ul class="cycle-list">')
+  for (i in seq_len(nrow(d))) {
+    x <- d[i, ]; path <- sub("^elections/", "", html_path(x$path))
+    cat(sprintf('<li><h2><a href="%s">%s</a></h2><p>Baltimore City &amp; Maryland statewide questions</p></li>', html_escape(path), html_escape(x$title)))
+  }
+  cat('</ul>\n')
+}
+latest_articles <- function() {
+  d <- read_data("articles"); d <- d[d$status == "published", , drop = FALSE]
+  if (!nrow(d)) return(invisible(NULL))
+  d <- head(d[order(d$date, decreasing = TRUE), , drop = FALSE], 6)
+  cat('<section id="reporting"><h2>Reporting &amp; analysis</h2><ul class="article-list">')
+  for (i in seq_len(nrow(d))) {
+    x <- d[i, ]
+    cat(sprintf('<li><p class="section-label">%s</p><h3><a href="%s">%s</a></h3><p>%s</p></li>', html_escape(x$date), html_escape(html_path(x$path)), html_escape(x$title), html_escape(x$description)))
+  }
+  cat('</ul></section>\n')
 }
 measure_timeline <- function(id) {
   e <- read_data("events")

@@ -1,51 +1,23 @@
 ---
-title: "The vote is the beginning."
-subtitle: "Following public decisions in Maryland and Baltimore."
-toc: false
+title: ""
 page-layout: full
 ---
 
+::: {.home-hero}
 ::: {.eyebrow}
-BALTIMORE BALLOT / A PUBLICATION BY EVERETT ANDERSON
+BALTIMORE · ELECTIONS & PUBLIC LIFE
 :::
 
-::: {.lead}
-What did we approve? Who is responsible for carrying it out? And what actually changes for the people who live here?
-:::
+# Understand the ballot. Follow what comes next.
 
-This publication starts with my 2026 ballot guide and follows the questions beyond Election Day: through budgets, public meetings, implementation decisions, and the evidence that follows.
-
-[Explore the measure tracker](tracker.qmd){.btn .btn-primary} [Read the original ballot guide](guide/index.qmd){.btn .btn-outline-primary}
-
-::: {.callout-note title="Opening research file"}
-The first edition covers 12 ballot questions. The original guide is archived. Results are added only from certified records, and implementation claims require their own evidence. The tracker identifies records still awaiting verification.
-:::
-
-## Follow the questions
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-4 .topic-card}
-### Follow the money
-Housing. Schools. Neighborhood investment. Infrastructure. Trace authorization through budgets, contracts, and spending.
-
-[Follow the spending →](spending.qmd)
-:::
-::: {.g-col-12 .g-col-md-4 .topic-card}
-### Follow the power
-Procurement. Budget authority. Public infrastructure. Who makes decisions, and where can the public scrutinize them?
-
-[Explore neighborhood support →](geography.qmd)
-:::
-::: {.g-col-12 .g-col-md-4 .topic-card}
-### Follow the delivery
-Labor agreements. Judicial oversight. A new water department. The Baby Fund. What has to happen before a measure changes daily life?
-
-[All 12 measure files →](tracker.qmd)
+::: {.hero-deck}
+Clear explanations of the decisions before Baltimore voters, the results, and what those decisions mean for the city.
 :::
 :::
 
-## The reporting approach
-
-A recommendation is an opinion. An election result is a record. An implementation claim needs evidence. Each measure file keeps those distinctions visible, alongside the questions that still need answers.
-
-[Read the research standards](methods.qmd).
+```{r}
+#| results: asis
+source("R/publication.R")
+featured_election()
+latest_articles()
+```

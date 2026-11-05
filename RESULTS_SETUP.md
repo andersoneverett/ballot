@@ -4,15 +4,14 @@ The infrastructure is ready; the certified data has not been imported.
 
 ## What will populate
 
-- The tracker: For %, Against %, their raw counts, and the certified outcome.
-- Each measure page: the same percentages and counts, a proportional two-color support bar, the margin in percentage points, certification date, and evidence link.
-- Measures without a certified row continue to say "Awaiting certified results" and "Not available". They are never plotted as 0%.
+- Each election guide: For %, Against %, raw counts, certified outcome, margin, certification date, and evidence link.
+- Questions without a certified row continue to say "Certification pending." They are never plotted as 0%.
 
 ## When the certified release is available
 
 1. Verify the official record is certified, not an unofficial count or the certification of ballot wording. Add that specific record to `data/sources.csv` with its direct URL and actual access date. Preserve a local copy of the release for reproducibility where permitted.
-2. Add one row per measure to `data/results.csv`. Use `md-1` through `md-3` for statewide totals and `baltimore-a` through `baltimore-i` for Baltimore City totals. Use integer counts without commas or percent signs. Do not enter a partial row for an unavailable result; omit it until complete.
-3. Run `quarto render`, review totals against the official release and inspect the tracker and at least one measure page, then commit and push the source. GitHub Actions renders and deploys it; do not commit generated `docs/`.
+2. Add one row per question to `data/results.csv`. Use the cycle-scoped IDs from `data/measures.csv`: `2026-general-md-1` through `2026-general-md-3` and `2026-general-baltimore-a` through `2026-general-baltimore-i`. Use integer counts without commas or percent signs. Do not enter a partial row for an unavailable result; omit it until complete.
+3. Run `quarto render`, review totals against the official release and inspect the relevant election guide, then commit and push the source. GitHub Actions renders and deploys it; do not commit generated `docs/`.
 
 ## Result columns
 
