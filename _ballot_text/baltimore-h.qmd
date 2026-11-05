@@ -1,0 +1,19 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> CHARTER AMENDMENT
+>
+> DEPARTMENT OF WATER AND WASTEWATER
+>
+> Question H establishes in the City Charter a new Department of Water and Wastewater, which will be supervised and directed by a Director. It transfers from the Department of Public Works to this new Department the responsibility to oversee the City's water supply system and its wastewater system, along with related duties.
+> The Amendment also removes from the Charter the requirement that bureaus within the Department of Public Works must be established or abolished by City ordinance.
+>
+> Voting for this amendment brings about the changes described above, which will become effective January 1, 2029.
+>
+> Voting against the amendment leaves the current Charter language governing water and wastewater systems in place.
+>
+>   * FOR Charter Amendment
+>   * AGAINST Charter Amendment
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+:::

@@ -1,0 +1,13 @@
+---
+title: "About this publication"
+---
+
+**Baltimore Ballot** is Everett Anderson’s independent publication about public decisions in Maryland and Baltimore.
+
+It begins with a simple follow-up to an election guide: what happened after the vote?
+
+The focus is on the work between approval and results: budgets, institutional responsibilities, program design, spending, and public accountability. Reporting and data analysis support that work; commentary makes the author’s position explicit.
+
+The 2026 guide contains personal recommendations. Subsequent reporting should test claims and follow evidence regardless of those recommendations.
+
+[How sources, uncertainty, and corrections are handled](methods.qmd).

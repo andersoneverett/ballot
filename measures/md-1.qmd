@@ -1,0 +1,49 @@
+---
+title: "Question 1 \u2014 Funding state employee labor agreements"
+subtitle: "Maryland \u00b7 2026 ballot measure"
+---
+
+```{r}
+#| results: asis
+source("R/publication.R")
+measure_summary("md-1")
+```
+
+## Certified vote breakdown
+
+```{r}
+#| results: asis
+measure_vote_share("md-1")
+```
+
+## Official question text
+
+{{< include ../_ballot_text/md-1.qmd >}}
+
+## What the original guide said
+
+::: {.callout-note title="Archived explanation · not independently verified reporting"}
+Requires the governor’s proposed budget to include funding for state employee collective bargaining agreements, including terms decided by a neutral arbitrator. It governs the proposed budget, not the final appropriation.
+
+**Original recommendation: YES.** This records Everett’s pre-election position, not the election result. The archive retains the full reasoning.
+:::
+
+[Read the ballot guide](../guide/index.qmd#question-1).
+
+## Questions to follow
+
+- Which budget first includes funding required by the amendment?
+- What was negotiated or arbitrated, what did the governor propose, and what was finally appropriated?
+
+## Evidence and implementation timeline
+
+```{r}
+#| results: asis
+measure_timeline("md-1")
+```
+
+## Next reporting step
+
+Confirm the result against the State Board of Elections, label its certification status, and compare the original explanation with the authorizing legislation and amendment text. Add sourced implementation milestones as records become available.
+
+[Official ballot text and authorizing documents](https://elections.maryland.gov/elections/2026/ballot_questions.html) · [Research standards](../methods.qmd)

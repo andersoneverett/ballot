@@ -1,0 +1,49 @@
+---
+title: "Question H \u2014 Separate water and wastewater department"
+subtitle: "Baltimore City \u00b7 2026 ballot measure"
+---
+
+```{r}
+#| results: asis
+source("R/publication.R")
+measure_summary("baltimore-h")
+```
+
+## Certified vote breakdown
+
+```{r}
+#| results: asis
+measure_vote_share("baltimore-h")
+```
+
+## Official question text
+
+{{< include ../_ballot_text/baltimore-h.qmd >}}
+
+## What the original guide said
+
+::: {.callout-note title="Archived explanation · not independently verified reporting"}
+Creates a Department of Water and Wastewater, transferring these functions out of Public Works beginning January 2029. Also removes the charter requirement that Public Works bureaus be created or abolished by ordinance.
+
+**Original recommendation: LEAN NO.** This records Everett’s pre-election position, not the election result. The archive retains the full reasoning.
+:::
+
+[Read the ballot guide](../guide/index.qmd#question-h).
+
+## Questions to follow
+
+- What transition plan, staffing, and budget precede the new department?
+- What evidence shows effects on service, bills, accountability, and council oversight?
+
+## Evidence and implementation timeline
+
+```{r}
+#| results: asis
+measure_timeline("baltimore-h")
+```
+
+## Next reporting step
+
+Confirm the result against the State Board of Elections, label its certification status, and compare the original explanation with the authorizing legislation and amendment text. Add sourced implementation milestones as records become available.
+
+[Official ballot text and authorizing documents](https://elections.maryland.gov/elections/2026/ballot_questions.html) · [Research standards](../methods.qmd)

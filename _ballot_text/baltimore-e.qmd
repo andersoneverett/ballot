@@ -1,0 +1,17 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> CHARTER AMENDMENT
+>
+> CONTRACT BIDDING AND AWARDS
+>
+> Question E amends the City Charter to remove the requirement of awarding a contract to the lowest bidder, removes the process for resolving tie bids, and removes provisions governing the bid bonds and performance bonds required by some contractors.
+>
+> Voting for this Amendment removes these provisions from the Charter, which will become effective November 7, 2028, unless an ordinance or regulation governing the topic is adopted sooner.
+> Voting against the amendment leaves the current Charter language governing contract bidding and awards in place.
+>
+>   * FOR Charter Amendment
+>   * AGAINST Charter Amendment
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+:::

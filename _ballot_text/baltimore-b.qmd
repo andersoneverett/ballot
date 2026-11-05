@@ -1,0 +1,17 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> BOND ISSUE
+>
+> SCHOOL LOAN
+>
+> Question B authorizes the City to borrow up to \$60,000,000 to be used for school purposes. The money may be used to acquire property in the City for these purposes and to build new or improve existing school buildings, athletic facilities, and community health and recreation facilities, along with all related costs. The money may also be used to acquire equipment for such facilities.
+>
+> Voting for this amendment allows the City to borrow this money.
+> Voting against the amendment means the City is not allowed to borrow this money.
+>
+>   * FOR Bond Issue
+>   * AGAINST Bond Issue
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+:::

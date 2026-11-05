@@ -1,0 +1,21 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> CHARTER AMENDMENT
+>
+> LEGISLATION, BUDGET, AND BOARD OF ESTIMATES
+> Question G amends the City Charter language governing how the City allows third parties to use certain City property. It adds the City's stormwater system to the list of City property that cannot be sold or rented out as a franchise. It clarifies that space in the City's conduit system can be rented out as a franchise, but the conduit system itself still cannot be sold. The Amendment also simplifies the general provisions governing franchise agreements and other such grants.
+> The Amendment updates the language for granting minor privileges to use a portion of City property by clarifying the definition of minor privilege, including temporary and permanent varieties, and permitting minor privileges to be further identified and defined by ordinance.
+> It also removes the Board of Estimates' authority to grant minor privileges, along with related processes, and instead allows minor privileges to be granted by an executive agency under a new process to be established by City ordinance.
+> The Amendment also eliminates certain obsolete provisions in the Charter pertaining to street railways and trackless trolleys.
+>
+> Voting for this amendment brings about the changes described above with the following effective dates: November 7, 2028, for Charter sections that are removed, unless an ordinance or regulation governing that topic is adopted sooner; and December 3, 2026, for all other changes.
+> Voting against the amendment leaves the current Charter language governing franchises and minor privileges in place.
+>
+>   * FOR Charter Amendment
+>   * AGAINST Charter Amendment
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+The source repeats the heading “LEGISLATION, BUDGET, AND BOARD OF ESTIMATES” for Question G. It is retained here as published; the accompanying text addresses franchises and minor privileges.
+
+:::

@@ -1,0 +1,13 @@
+id,question,jurisdiction,title,original_position,implementation_status,last_verified,next_milestone,authorized_amount_usd,page
+md-1,1,Maryland,Funding state employee labor agreements,YES,Not assessed,,Verify result and governing text,,measures/md-1.qmd
+md-2,2,Maryland,Temporary members for judicial oversight,YES,Not assessed,,Verify result and governing text,,measures/md-2.qmd
+md-3,3,Maryland,Congressional redistricting rules,NO,Not assessed,,Verify result and governing text,,measures/md-3.qmd
+baltimore-a,A,Baltimore City,Affordable housing,YES,Not assessed,,Verify result and governing text,22000000,measures/baltimore-a.qmd
+baltimore-b,B,Baltimore City,Schools,LEAN YES,Not assessed,,Verify result and governing text,60000000,measures/baltimore-b.qmd
+baltimore-c,C,Baltimore City,Community and economic development,YES,Not assessed,,Verify result and governing text,50000000,measures/baltimore-c.qmd
+baltimore-d,D,Baltimore City,Public infrastructure,YES,Not assessed,,Verify result and governing text,148000000,measures/baltimore-d.qmd
+baltimore-e,E,Baltimore City,Contract bidding and awards,YES,Not assessed,,Verify result and governing text,,measures/baltimore-e.qmd
+baltimore-f,F,Baltimore City,Budget process and Board of Estimates,NO,Not assessed,,Verify result and governing text,,measures/baltimore-f.qmd
+baltimore-g,G,Baltimore City,Franchises and minor privileges,YES,Not assessed,,Verify result and governing text,,measures/baltimore-g.qmd
+baltimore-h,H,Baltimore City,Separate water and wastewater department,LEAN NO,Not assessed,,Verify result and governing text,,measures/baltimore-h.qmd
+baltimore-i,I,Baltimore City,Baltimore Baby Fund,LEAN YES,Not assessed,,Verify result and governing text,,measures/baltimore-i.qmd

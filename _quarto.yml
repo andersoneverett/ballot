@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+  execute-dir: project
+  pre-render:
+    - Rscript scripts/check.R
+  render:
+    - index.qmd
+    - tracker.qmd
+    - geography.qmd
+    - spending.qmd
+    - about.qmd
+    - methods.qmd
+    - guide/index.qmd
+    - measures/*.qmd
+    - articles/index.qmd
+    - articles/*/index.qmd
+website:
+  title: "Baltimore Ballot"
+  site-url: "https://andersoneverett.github.io/ballot/"
+  description: "Maryland and Baltimore: what voters decided, what happens next, and what changes."
+  navbar:
+    left:
+      - href: tracker.qmd
+        text: Measures
+      - href: geography.qmd
+        text: Neighborhoods
+      - href: spending.qmd
+        text: Spending
+      - href: articles/index.qmd
+        text: Reporting
+      - href: guide/index.qmd
+        text: 2026 guide
+    right:
+      - href: about.qmd
+        text: About
+      - href: methods.qmd
+        text: Methods
+  search: true
+  page-footer:
+    left: "Everett Anderson · Independent research and commentary"
+    right:
+      - text: Sources & corrections
+        href: methods.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: en
+    link-external-newwindow: true
+    include-after-body: filters.html
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: false

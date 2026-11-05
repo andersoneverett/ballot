@@ -1,0 +1,31 @@
+---
+title: "Replace with the reporting question"
+description: "One sentence describing the article’s finding."
+author: Everett Anderson
+date: "2026-11-05"
+categories: [Reporting]
+draft: true
+---
+
+## What we found
+
+Replace this with the sourced finding. Change the date to the actual publication date and remove `draft: true` only when the story is ready.
+
+## What the records show
+
+Link primary records and identify which claims they support.
+
+## Analysis
+
+```{r}
+# Add analysis here. R code runs at render time.
+# Example: evidence <- read.csv("data/events.csv", stringsAsFactors = FALSE)
+```
+
+## What remains unknown
+
+State the missing evidence and next reporting step. Link the relevant measure file using ../../measures/MEASURE-ID.qmd.
+
+## Sources and updates
+
+List source links, document dates, and any corrections.

@@ -1,0 +1,7 @@
+---
+title: "Reporting & analysis"
+---
+
+The first reporting file is being assembled. The [measure tracker](../tracker.qmd) identifies the questions and records to pursue.
+
+The opening assignment is to establish the result and governing text for each measure, then publish a sourced follow-up on one measure. Future articles will link back to their measure files so readers can follow the full record.

@@ -1,0 +1,22 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> CHARTER AMENDMENT
+>
+> LEGISLATION, BUDGET, AND BOARD OF ESTIMATES
+>
+> Question F amends the City Charter's legislative process, the annual budget process, and the role of the Board of Estimates. It shortens the amount of time in which the Mayor can veto legislation passed by the City Council and the amount of time the City Council has to override the Mayor's veto.
+> The Amendment also eliminates the preliminary budget hearing process and transfers from the Board of Estimates to the Mayor the responsibility to prepare and submit the proposed budget before April 30 each year. The City Council must then adopt the budget at least eight days before the beginning of the fiscal year on July 1, and any veto and veto override process must be completed by then.
+> The Amendment removes the current \$1 million dollar cap on the amount that may be used as a contingent fund for emergencies or other unexpected needs. It allows the Finance Director and the Planning Commission to make new recommendations about the proposed budget after it is submitted to the City Council and allows the City Council to add amounts based on those recommendations before final passage.
+> The Amendment also transfers from the Board of Estimates to the Finance Director or the Planning Commission the authority to make supplemental appropriation recommendations outside of the annual budget process.
+> The Amendment transfers from the Board of Estimates to the Finance Department the responsibility to estimate revenues and formulate the annual rates for all property taxes, and transfers from the Board of Estimates to the Finance Director the responsibility to estimate any surpluses. It also transfers from the Board of Estimates to the Mayor the authority to increase or decrease the salaries of municipal officers in preparing the budget.
+> The Amendment removes from the Charter a number of other duties assigned to the Board of Estimates, including formulating and executing the fiscal policy of the City, advertising for contracts, establishing the process for professional services contracts and for bidder prequalification, approving emergency contracts, fixing salary and wage scales of employees, approving collective bargaining agreements, determining bonds of City officials, establishing procedures for paying or releasing claims against or claims held by the City, fixing the salary of officials in the State's Attorney's Office, and approving expenditures for new improvements.
+> These roles could be given to other agencies or departments by City ordinance.
+> Voting for this amendment brings about the changes described above, with the following effective dates: November 7, 2028, for Charter sections that are removed, unless an ordinance or regulation governing that topic is adopted sooner; December 5, 2028, for changes to approving and vetoing legislation; and December 3, 2026, for all other changes.
+>
+> Voting against the amendment leaves the current Charter language governing legislation, budget, and the Board of Estimates in place.
+>   * FOR Charter Amendment
+>   * AGAINST Charter Amendment
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+:::

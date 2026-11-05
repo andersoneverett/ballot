@@ -1,0 +1,18 @@
+::: {.callout-note collapse="true" title="Official question text · State Board of Elections"}
+
+> Constitutional Amendment (Ch. 881 of the 2026 Legislative Session (PDF))
+>
+> Electoral Districts – General Assembly and Congressional Representatives
+>
+> Pursuant to the Supreme Court Order dated September 3, 2026, in Maryland State Board of Elections, et al. v. Lindsay Wheatley, et al. and Maryland State Board of Elections, et al. v. Michael L. Howell, et al., the language of Constitutional Amendment Question 3 now reads:
+> FOR the purpose of clarifying that certain requirements apply only to districts for the election of members of the Senate of Maryland and the House of Delegates; authorizing the General Assembly to grant original jurisdiction to the Supreme Court of Maryland to review the congressional districting plan of the State; and providing that nothing in the Maryland Constitution provides applicable criteria for the boundaries of a congressional districting plan.
+> (Amending Article III of the Maryland Constitution)
+>
+>   * For the Constitutional Amendment
+>   * Against the Constitutional Amendment
+
+[Source: Maryland State Board of Elections — 2026 ballot questions](https://elections.maryland.gov/elections/2026/ballot_questions.html). Accessed November 5, 2026. Wording and vote choices are reproduced from the English-language question entry; line breaks and typography are normalized. This is the published question entry, not the full underlying amendment or authorizing legislation.
+
+The source identifies this wording as revised pursuant to a September 3, 2026 Supreme Court order.
+
+:::

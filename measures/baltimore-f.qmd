@@ -1,0 +1,49 @@
+---
+title: "Question F \u2014 Budget process and Board of Estimates"
+subtitle: "Baltimore City \u00b7 2026 ballot measure"
+---
+
+```{r}
+#| results: asis
+source("R/publication.R")
+measure_summary("baltimore-f")
+```
+
+## Certified vote breakdown
+
+```{r}
+#| results: asis
+measure_vote_share("baltimore-f")
+```
+
+## Official question text
+
+{{< include ../_ballot_text/baltimore-f.qmd >}}
+
+## What the original guide said
+
+::: {.callout-note title="Archived explanation · not independently verified reporting"}
+Transfers numerous budget and financial responsibilities from the Board of Estimates to the mayor, Finance Department, or Planning Commission; changes veto deadlines; eliminates the preliminary budget hearing process; and removes the $1 million cap on the emergency contingency fund. Some other responsibilities could be reassigned by ordinance.
+
+**Original recommendation: NO.** This records Everett’s pre-election position, not the election result. The archive retains the full reasoning.
+:::
+
+[Read the ballot guide](../guide/index.qmd#question-f).
+
+## Questions to follow
+
+- Which financial responsibilities move to which institutions?
+- What changes in hearings, public access, veto procedures, and contingency-fund reporting?
+
+## Evidence and implementation timeline
+
+```{r}
+#| results: asis
+measure_timeline("baltimore-f")
+```
+
+## Next reporting step
+
+Confirm the result against the State Board of Elections, label its certification status, and compare the original explanation with the authorizing legislation and amendment text. Add sourced implementation milestones as records become available.
+
+[Official ballot text and authorizing documents](https://elections.maryland.gov/elections/2026/ballot_questions.html) · [Research standards](../methods.qmd)

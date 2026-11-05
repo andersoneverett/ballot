@@ -1,0 +1,49 @@
+---
+title: "Question 2 \u2014 Temporary members for judicial oversight"
+subtitle: "Maryland \u00b7 2026 ballot measure"
+---
+
+```{r}
+#| results: asis
+source("R/publication.R")
+measure_summary("md-2")
+```
+
+## Certified vote breakdown
+
+```{r}
+#| results: asis
+measure_vote_share("md-2")
+```
+
+## Official question text
+
+{{< include ../_ballot_text/md-2.qmd >}}
+
+## What the original guide said
+
+::: {.callout-note title="Archived explanation · not independently verified reporting"}
+Allows temporary replacements on the Commission on Judicial Disabilities when members are recused, disqualified, or finish their terms without replacements. Substitutes must meet constitutional eligibility requirements.
+
+**Original recommendation: YES.** This records Everett’s pre-election position, not the election result. The archive retains the full reasoning.
+:::
+
+[Read the ballot guide](../guide/index.qmd#question-2).
+
+## Questions to follow
+
+- When are temporary members appointed, and for what stated reason?
+- What public records show eligibility, appointment procedures, and continuity of proceedings?
+
+## Evidence and implementation timeline
+
+```{r}
+#| results: asis
+measure_timeline("md-2")
+```
+
+## Next reporting step
+
+Confirm the result against the State Board of Elections, label its certification status, and compare the original explanation with the authorizing legislation and amendment text. Add sourced implementation milestones as records become available.
+
+[Official ballot text and authorizing documents](https://elections.maryland.gov/elections/2026/ballot_questions.html) · [Research standards](../methods.qmd)
