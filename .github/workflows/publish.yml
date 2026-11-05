@@ -38,6 +38,7 @@ jobs:
       - name: Check every legacy redirect destination
         run: Rscript scripts/check-redirects.R
       - name: Upload rendered preview
+        if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v7.0.2
         with:
           name: baltimore-ballot-preview
