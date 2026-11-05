@@ -26,7 +26,7 @@ relative_path <- function(from_file, to_file) {
 
 destination <- function(old, new) {
   old_path <- file.path(root, old)
-  filename <- sub("#.*$", "", new)
+  filename <- sub("\\.qmd$", ".html", sub("#.*$", "", new))
   anchor <- if (grepl("#", new, fixed = TRUE)) sub("^.*#", "", new) else NULL
   target <- file.path(root, filename)
   relative <- relative_path(old_path, target)
