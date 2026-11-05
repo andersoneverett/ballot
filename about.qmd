@@ -1,22 +1,22 @@
 ---
-title: "About Baltimore Ballot"
-subtitle: "Public decisions, clearly explained."
+title: "Why follow through?"
+subtitle: "We voted. The work isn't finished."
 ---
 
-Baltimore Ballot is an independent civic publication covering Baltimore elections and what follows them: public spending, policy implementation, and the effects on communities across the city. Coverage includes Maryland statewide questions that appear on Baltimore voters’ ballots.
+It's easy to treat civic life as something we do on Election Day: show up, fill in the bubbles, and go home. Baltimore Ballot starts with a different idea. Our vote is one part of a decision, not the last thing we can do about it.
 
-Ballot guides explain what a question would change, reproduce its official wording, and report certified results. Articles examine the decisions and public records behind those changes, with sources and methods alongside the reporting.
+This project starts with friends trying to understand what we were asked to decide. What did a question actually mean? What did we authorize? What happens after the result—and where can we still have a say?
 
-## Editorial standards
+We start with ballot measures and follow the questions they raise about Baltimore's money, services, and government. The goal is to connect understanding a decision with taking part in what comes next.
 
-**Evidence comes first.** Explanations draw on official ballot language and governing documents. Reporting identifies its sources and distinguishes established facts, analysis, and unresolved questions.
+## Who is “we”?
 
-**Election results are labeled accurately.** Guides publish certified counts and identify their source and certification date. Missing results remain pending.
+“We” means us as neighbors and voters, not a newsroom or a group that agrees on everything. Everett Anderson makes and maintains this site. The invitation is shared: let's understand these decisions and follow them through together.
 
-**Context matters.** Precincts and neighborhoods are different geographies. A project’s location and the communities it serves are different facts. Geographic comparisons must explain their coverage and limitations.
+## How we keep this useful {#editorial-standards}
 
-**Corrections are visible.** Substantive factual corrections are dated and explained on the affected article or guide. Reporting and commentary are labeled distinctly; ballot guides do not make voting recommendations.
+We link to the records behind the explanations, distinguish what we know from what still needs checking, and explain important limitations beside the work. Results are labeled certified only when verified against a source. When a substantive factual mistake is corrected, the affected page will say what changed and when.
 
-## Publication
+The guides explain the choices without telling anyone how to vote. Where we identify a way to participate, we'll connect it to a specific decision or next step rather than offer a vague instruction to get involved.
 
-Founded and edited by Everett Anderson. Baltimore Ballot is independent of Baltimore City government and political campaigns.
+Baltimore Ballot is independent of city government and political campaigns.

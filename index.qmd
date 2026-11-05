@@ -5,15 +5,23 @@ page-layout: full
 
 ::: {.home-hero}
 ::: {.eyebrow}
-BALTIMORE · ELECTIONS & PUBLIC LIFE
+BALTIMORE · WHAT HAPPENS AFTER WE VOTE
 :::
 
-# Understand the ballot. Follow what comes next.
+# We voted. Now what?
 
 ::: {.hero-deck}
-Clear explanations of the decisions before Baltimore voters, the results, and what those decisions mean for the city.
+We filled in the bubbles. But what did we actually decide—and what still needs to happen?
 :::
+
+Election Day isn't the finish line. It's the start of the next part: understanding the decisions we made, following what happens next, and finding where we can take part.
+
+We don't have to agree on how we voted to care about what happens next.
 :::
+
+## Start with what was on our ballot
+
+Before we can follow a decision, we need to understand it. The guide explains what each question asked us to approve or reject and includes the official wording so we can check it ourselves. Certified results are added when verified.
 
 ```{r}
 #| results: asis
@@ -21,3 +29,14 @@ source("R/publication.R")
 featured_election()
 latest_articles()
 ```
+
+## A result isn't the whole story
+
+For each measure, these are the questions we want to follow:
+
+- What did the vote settle—and what did it leave unfinished?
+- Who has the next move?
+- What would show us that the decision is being carried out?
+- Where can we ask questions, weigh in, or help shape what happens?
+
+That's the work ahead. The guide is our starting point, not the end of the story.
