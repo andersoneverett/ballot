@@ -35,7 +35,9 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - tags.css
     toc: false
     lang: en
     link-external-newwindow: true
