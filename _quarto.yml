@@ -17,7 +17,7 @@ project:
 website:
   title: "Baltimore Ballot"
   site-url: "https://andersoneverett.github.io/ballot/"
-  description: "Clear explanations of Baltimore ballot questions, certified election results, and reporting on what follows."
+  description: "Clear explanations of Baltimore ballot questions, sourced election results with clearly labeled status, and reporting on what follows."
   navbar:
     background: white
     title: "Baltimore Ballot"

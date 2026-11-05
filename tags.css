@@ -1,6 +1,6 @@
 .measure-meta { display:flex; flex-wrap:wrap; align-items:center; gap:.65rem 1rem; margin:.7rem 0 1.1rem; }
 .measure-kind { display:inline-block; border:1px solid transparent; border-radius:.2rem; padding:.25rem .65rem; font-size:.8rem; font-weight:750; line-height:1.5; }
-.measure-kind-bond { background:#FFF0C7; color:var(--bb-purple); border-color:#FCB826; }
+.measure-kind-bond { background:#FFF0C7; color:var(--bb-purple); border-color:var(--bb-gold); }
 .measure-kind-charter { background:#EEEAF8; color:var(--bb-purple); border-color:var(--bb-purple); }
 .measure-topics { display:flex; flex-wrap:wrap; gap:.2rem 0; list-style:none; padding:0; margin:0; font-size:.82rem; color:var(--bb-gray); }
 .measure-topics li+li::before { content:"·"; padding:0 .55rem; }

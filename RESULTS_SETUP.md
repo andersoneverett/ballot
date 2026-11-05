@@ -24,8 +24,6 @@ Results are entered manually. There is no API or scheduled retrieval. Unofficial
 
 The page displays the outcome, source status, checked date, and evidence link. Counts, percentages, bars, and margins appear only when both counts are available. Shares use For plus Against votes, not all ballots. Outcomes are sourced, not inferred by the rendering function. Missing records say Results not yet recorded; they do not imply certification is required.
 
-The CSS class certified-result is retained only for existing styling and has no role in validation or status selection.
-
 ## Current Coverage
 
 As of November 5, 2026, the result table contains eight 2024 Baltimore City measures recorded as Certified from final official returns and nine 2026 City measures recorded as Unofficial. Consult data/sources.csv for the precise source limitations. A checked date is not a certification date, and a passed measure is not an implementation finding.

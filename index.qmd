@@ -21,7 +21,7 @@ We don't have to agree on how we voted to care about what happens next.
 
 ## Start with what was on our ballot
 
-Before we can follow a decision, we need to understand it. The guide explains what each question asked us to approve or reject and includes the official wording so we can check it ourselves. Certified results are added when verified.
+Before we can follow a decision, we need to understand it. The guide explains what each question asked us to approve or reject and includes the official wording so we can check it ourselves. Results are linked to sources and clearly labeled Unofficial or Certified.
 
 ```{r}
 #| results: asis
