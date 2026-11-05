@@ -17,7 +17,7 @@ Results are entered manually. There is no API or scheduled retrieval. Unofficial
 
 1. Inspect the source and register its URL, publisher, and actual access date in data/sources.csv.
 2. Enter or update the measure's row. An outcome may be published without vote counts or a certification date. Label unofficial returns Unofficial; do not describe them as certified.
-3. Run `Rscript scripts/test-publication.R`, `quarto render`, and `Rscript scripts/check-render.R`. Compare rendered values with the source before pushing. Do not commit generated docs/.
+3. Run `Rscript scripts/test-publication.R`, `Rscript scripts/test-tags.R`, `quarto render`, and `Rscript scripts/check-render.R`. Compare rendered values with the source before pushing. Do not commit generated docs/.
 4. When the source changes, update the same row and checked date. Change status to Certified only when supported by the source.
 
 ## Display
@@ -26,6 +26,10 @@ The page displays the outcome, source status, checked date, and evidence link. C
 
 The CSS class certified-result is retained only for existing styling and has no role in validation or status selection.
 
+## Current Coverage
+
+As of November 5, 2026, the result table contains eight 2024 Baltimore City measures recorded as Certified from final official returns and nine 2026 City measures recorded as Unofficial. Consult data/sources.csv for the precise source limitations. A checked date is not a certification date, and a passed measure is not an implementation finding.
+
 ## Geographic Data
 
-The separate precinct dataset retains its existing certified geographic-data workflow. Geographic rows require jurisdiction-wide counts for reconciliation; an outcome-only record is insufficient for that calculation. This infrastructure change does not import election results, precinct data, or implementation events.
+The separate precinct dataset retains its certified geographic-data workflow. Geographic rows require jurisdiction-wide counts for reconciliation; an outcome-only record is insufficient for that calculation. The citywide result imports do not establish that precinct data or implementation events have been imported.

@@ -1,35 +1,51 @@
 # Baltimore Ballot
 
-Independent civic coverage of Baltimore elections and public decisions. Published at https://andersoneverett.github.io/ballot/ and authored in RStudio with Quarto.
+Independent civic coverage of Baltimore City ballot decisions and what follows. Published at https://andersoneverett.github.io/ballot/ and authored in RStudio with Quarto.
 
-## Reader-facing structure
+## Reader-Facing Structure
 
-Home, Ballot Guides, About, and published articles. The 2026 General Election guide contains Maryland Questions 1–3 and Baltimore City Questions A–I: neutral explanations, official wording, and certified results when available. The original personal guide and recommendations are removed. Former URLs redirect to the new guide or relevant publication page.
+Home, Ballot Guides, About, and real published articles. The registered guides cover Baltimore City Questions A–H in the 2024 General Election and A–I in the 2026 General Election. Each measure has a neutral explanation, expandable official wording, type and topic metadata, ballot-origin attribution, and recorded results. Statewide questions and candidate directories are outside the current scope.
 
-## RStudio setup
+The homepage features the latest published cycle; the guide index retains previous published cycles. The original personal recommendations are removed, and legacy redirects must be preserved. No empty reporting section appears when there are no published articles.
+
+## RStudio Setup
 
 Clone https://github.com/andersoneverett/ballot in RStudio using File → New Project → Version Control → Git. Open publication.Rproj. Install rendering packages once with `install.packages(c("knitr", "rmarkdown", "xml2"))` and install Quarto if needed.
 
-Use `quarto preview` in the Terminal to review changes. Commit and push the source to main; GitHub Actions tests, renders, checks links, and deploys. Do not commit generated docs/.
+Use `quarto preview` in the Terminal to review changes. GitHub Actions tests, renders, checks links, and deploys pushes to main; pull requests build without deployment. Do not commit generated docs/. A successful source commit alone does not confirm a successful build or deployment.
 
-## Add a future election
+## Add An Election
 
-1. Add a `data/elections.csv` record with a unique cycle_id, year, election_type, election_date, title, permanent path, and published=true when ready. Guides live at `elections/YEAR/TYPE/index.qmd`. Register the guide before enabling it on the public site.
-2. Add measure records with new cycle-scoped IDs such as `2028-general-baltimore-a`. Keep previous cycles intact. Add official wording under `_ballot_text/CYCLE/`. Copy the structure of the current cycle guide and use the new IDs and relative include paths. Each guide anchor must match guide_path in measures.csv.
-3. Add verified source records and certified totals as they become available. The homepage features the most recent published cycle; the guide index retains every published cycle. Never replace an earlier guide to publish the next one.
+1. Add a data/elections.csv record with a unique cycle_id, year, election_type, election_date, title, permanent path, and published=true when ready. Guides live at elections/YEAR/TYPE/index.qmd. Register the guide before enabling it publicly.
+2. Add measures with new cycle-scoped IDs such as 2028-general-baltimore-a. Keep previous cycles intact. Add official wording under _ballot_text/CYCLE/ using lowercase filenames. Copy a current guide's helper calls and relative include paths. Every guide anchor must match guide_path in data/measures.csv.
+3. Register supporting evidence in data/sources.csv and type/topic/origin metadata in data/measure_tags.csv. Use existing categories unless a taxonomy change is explicitly approved. See TAGGING.md.
+4. Add sourced outcomes and any available counts in data/results.csv. Unofficial and Certified describe source status; neither is a publication gate. Keep checked dates distinct from certification dates.
 
-## Articles and community perspectives
+## Articles And Community Perspectives
 
-Copy templates/article.qmd to articles/SLUG/index.qmd. Write and source the story, set actual author/date, and remove draft:true only when ready. Register published articles in data/articles.csv (article_id, title, description, date, path, author, cycle_id, status=published). The homepage lists only actual published articles. With no published records, it shows no empty reporting section. Include officials and community voices through sourced reporting rather than fabricated profiles or a placeholder candidate directory.
+Copy templates/article.qmd to articles/SLUG/index.qmd. Write and source the story, set the actual author and date, and remove draft:true only when ready. Register published articles in data/articles.csv with article_id, title, description, date, path, author, cycle_id, and status=published. Include officials and community perspectives through sourced reporting, not fabricated profiles or placeholder directories.
 
-## Results and research
+## Results And Research
 
-See RESULTS_SETUP.md for certified results and DATA_GUIDE.md for geographic and spending research. Internal research tables are retained for articles; they are not public navigation destinations. Results share a stable measure_id with explanations and research. GUIDE_MAPPING.csv documents the migration from the starter’s IDs.
+The 2024 City results use final official returns and are recorded as Certified; the 2026 City results currently use an Unofficial snapshot. See data/sources.csv for evidence and limitations and RESULTS_SETUP.md for maintenance. Never infer implementation, borrowing issuance, or spending from passage.
+
+DATA_GUIDE.md covers geographic and spending research. Research tables support articles rather than empty public navigation destinations. Explanations, results, tags, and research join through stable measure IDs.
 
 ## Checks
 
-Install the base rendering dependencies and `xml2` with `install.packages(c("knitr", "rmarkdown", "xml2"))`. Run `Rscript scripts/test-publication.R`, `quarto render`, and `Rscript scripts/check-render.R`. The publication tests use disposable fixture workspaces, including controlled election, article, result, redirect, and rendered HTML cases; synthetic data never enters production records. The render checker verifies required pages, guide anchors, official wording, absence of personal recommendations and setup language, working local links and fragments, HTML entity decoding, and safe legacy redirects.
+Run these commands from the project root:
+
+```sh
+Rscript scripts/test-publication.R
+Rscript scripts/test-tags.R
+quarto render
+Rscript scripts/check-render.R
+```
+
+Tests use disposable fixture workspaces; synthetic records must never enter production data. Render checks cover required pages, anchors, official wording, local links and fragments, entity decoding, and legacy redirects. Separately review desktop and mobile layouts, keyboard focus, expandable wording, result labels, and source links. Report checks that could not be run.
 
 ## Design
 
-See DESIGN.md for official sources of the black/gold/white/gray palette. The publication uses its own wordmark and does not claim city affiliation.
+See DESIGN.md for the user-selected purple-led palette, white page background, and spacing-led layout. Keep rules and boxes sparse. Preserve explicit outcome and voting labels, responsive wrapping, and visible keyboard focus. The publication uses its own wordmark and does not claim city or team affiliation.
+
+Filters remain intentionally deferred. Navigation changes are separate from content backfills and visual cleanup.
