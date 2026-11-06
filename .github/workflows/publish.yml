@@ -43,11 +43,11 @@ jobs:
       - name: Test measure tags
         run: Rscript scripts/test-tags.R
       - name: Render and validate publication
-        run: quarto render
+        run: |
+          Rscript -e 'unlink("docs", recursive = TRUE)'
+          quarto render
       - name: Check rendered site
         run: Rscript scripts/check-render.R
-      - name: Check every legacy redirect destination
-        run: Rscript scripts/check-redirects.R
       - name: Upload rendered preview
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v7.0.2

@@ -6,8 +6,6 @@ project:
     - .nojekyll
   pre-render:
     - Rscript scripts/check.R
-  post-render:
-    - Rscript scripts/write-redirects.R
   render:
     - index.qmd
     - about.qmd

@@ -75,8 +75,7 @@ validate_rendered_site <- function(root = "docs", data_root = "data") {
       if (!grepl("Results not yet recorded.", pages[[key]]$text, fixed = TRUE)) stop("Missing empty-results copy in ", key)
     }
   }
-  for (stale in c("guide/index.html", "tracker.html", "geography.html", "spending.html", "methods.html")) if (!file.exists(file.path(root, stale))) stop("Missing legacy redirect ", stale)
-  message("PASS: ", length(required), " public pages, ", nrow(measures), " questions, local links, neutral copy, and legacy redirects.")
+  message("PASS: ", length(required), " public pages, ", nrow(measures), " questions, local links, and neutral copy.")
   invisible(TRUE)
 }
 if (sys.nframe() == 0L) validate_rendered_site()

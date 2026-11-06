@@ -2,55 +2,43 @@
 
 Independent civic coverage of Baltimore City ballot decisions and what follows. Published at https://andersoneverett.github.io/ballot/ and authored in RStudio with Quarto.
 
-## Reader-Facing Structure
+## Publication
 
-Home, Ballot Guides, About, and real published articles. The registered guides cover Baltimore City Questions A–H in the 2024 General Election and A–I in the 2026 General Election. Each measure has a neutral explanation, expandable official wording, type and topic metadata, ballot-origin attribution, and recorded results. Statewide questions and candidate directories are outside the current scope.
+Home, Ballot Guides, About, and real published articles. The election guides cover Baltimore City Questions A–H in 2024 and A–I in 2026, with neutral explanations, official wording, metadata, ballot origins, and sourced results. Statewide questions and candidate directories are outside scope. Empty reporting sections are not published.
 
-The homepage features the latest published cycle; the guide index retains previous published cycles. The original personal recommendations are removed, and legacy redirects must be preserved. No empty reporting section appears when there are no published articles.
+Current election guides and their URLs are permanent historical records. Legacy routes from retired site structures are intentionally removed, with no forwarding pages. Old bookmarks may return Not Found.
 
-## RStudio Setup
+## Local Setup
 
-Clone https://github.com/andersoneverett/ballot in RStudio using File → New Project → Version Control → Git. Open publication.Rproj. Install rendering packages once with `install.packages(c("knitr", "rmarkdown", "xml2"))` and install Quarto if needed.
+Clone the repository in RStudio and open publication.Rproj. Install Quarto and install the R packages with `install.packages(c("knitr", "rmarkdown", "xml2"))`. Use `quarto preview` from the project root. Project-owned processing and tests remain R-first. Do not commit generated docs/.
 
-Use `quarto preview` in the Terminal to review changes. GitHub Actions tests, renders, checks links, and deploys pushes to main; pull requests build without deployment. Do not commit generated docs/. A successful source commit alone does not confirm a successful build or deployment.
+## Data And Publishing
 
-## Add An Election
-
-1. Add a data/elections.csv record with a unique cycle_id, year, election_type, election_date, title, permanent path, and published=true when ready. Guides live at elections/YEAR/TYPE/index.qmd. Register the guide before enabling it publicly.
-2. Add measures with new cycle-scoped IDs such as 2028-general-baltimore-a. Keep previous cycles intact. Add official wording under _ballot_text/CYCLE/ using lowercase filenames. Copy a current guide's helper calls and relative include paths. Every guide anchor must match guide_path in data/measures.csv.
-3. Register supporting evidence in data/sources.csv and type/topic/origin metadata in data/measure_tags.csv. Use existing categories unless a taxonomy change is explicitly approved. See TAGGING.md.
-4. Add sourced outcomes and any available counts in data/results.csv. Unofficial and Certified describe source status; neither is a publication gate. Keep checked dates distinct from certification dates.
-
-## Articles And Community Perspectives
-
-Copy templates/article.qmd to articles/SLUG/index.qmd. Write and source the story, set the actual author and date, and remove draft:true only when ready. Register published articles in data/articles.csv with article_id, title, description, date, path, author, cycle_id, and status=published. Include officials and community perspectives through sourced reporting, not fabricated profiles or placeholder directories.
-
-## Results And Research
-
-The 2024 City results use final official returns and are recorded as Certified; the 2026 City results currently use an Unofficial snapshot. See data/sources.csv for evidence and limitations and RESULTS_SETUP.md for maintenance. Never infer implementation, borrowing issuance, or spending from passage.
-
-DATA_GUIDE.md covers geographic and spending research. Research tables support articles rather than empty public navigation destinations. Explanations, results, tags, and research join through stable measure IDs.
+- Register each election in data/elections.csv with a unique cycle_id and permanent elections/YEAR/TYPE/index.qmd path. Set published=true only when ready.
+- Add new cycle-scoped measure IDs in data/measures.csv; never overwrite prior elections. Add official wording under _ballot_text/CYCLE/ and preserve quotations. Guide anchors must match guide_path.
+- Attach evidence in data/sources.csv and type/topic/origin records in data/measure_tags.csv. See TAGGING.md; do not change the taxonomy without approval.
+- Maintain outcomes and optional counts in data/results.csv following RESULTS_SETUP.md. The 2024 records are Certified from final official returns; 2026 retains an Unofficial snapshot. Checked dates are not certification dates. Passage is not implementation, issuance, or spending.
+- Copy templates/article.qmd for real reporting, set author/date, remove draft:true when ready, and register published articles in data/articles.csv. Do not invent community perspectives or placeholder directories.
+- DATA_GUIDE.md covers separate geographic and spending research. Stable measure IDs join the evidence.
 
 ## Checks
 
-Run these commands in order from the project root, stopping if any command fails:
+Run from the project root in this order, stopping if any command fails:
 
 ```sh
 Rscript scripts/test-publication.R
 Rscript scripts/test-tags.R
+Rscript -e 'unlink("docs", recursive = TRUE)'
 quarto render
 Rscript scripts/check-render.R
-Rscript scripts/check-redirects.R
 ```
 
-Tests use disposable fixture workspaces; synthetic records must never enter production data. Rendering runs the data validator before building pages and writes legacy redirects afterward. Run both rendered-output checks only after a successful render.
+The cleanup command deletes only generated docs/ output so retired pages cannot linger. Rendering validates production data first. Fixtures use temporary workspaces and must never alter production records. The rendered-site check validates required pages, guide anchors, disclosure counts, local links and fragments, entity decoding, and retired public copy. It does not compare every quotation with its source.
 
-The rendered-site check covers required pages, guide anchors, official-wording disclosure counts, local links and fragments, entity decoding, and retired public copy. It does not compare every official quotation against its source. The redirect check covers every legacy mapping and the fixed legacy routes, comparing refresh targets, canonical links, and fallback links with expected destinations and checking destination anchors. Keep legacy mapping records even when unused source includes are removed.
+GitHub Actions uses cached R dependencies, runs tests, clears generated output, renders, and checks the site. Pull requests upload a downloadable preview without deploying; non-PR runs upload the Pages artifact and deploy. A successful commit is not proof of a successful release.
 
-GitHub Actions runs the same five commands before uploading artifacts; non-PR runs then deploy. Separately review desktop and mobile layouts, keyboard focus, expandable wording, result labels, and source links. Report checks that could not be run, and distinguish source inspection, executed tests, CI outcomes, deployment, and visual review.
+Separately review all top-level pages and both election guides on desktop/mobile, including keyboard focus, source links, results, wrapping, and expandable wording. Report source inspection, executed checks, user-reported outcomes, deployment, and visual review separately.
 
-## Design
+## Design And Scope
 
-See DESIGN.md for the user-selected purple-led palette, white page background, and spacing-led layout. Keep rules and boxes sparse. Preserve explicit outcome and voting labels, responsive wrapping, and visible keyboard focus. The publication uses its own wordmark and does not claim city or team affiliation.
-
-Filters remain intentionally deferred. Navigation changes are separate from content backfills and visual cleanup.
+The requested next visual update uses black and Baltimore gold as the dominant identity with purple accents, consistent top-level page alignment, a rebuilt homepage, formal About content, and a simpler footer. The earlier purple-led direction is superseded; the visual implementation is a separate task. Preserve white backgrounds and the election-guide structure. No city or team logos. Filters and additional research remain deferred.

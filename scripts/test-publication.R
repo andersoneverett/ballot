@@ -95,17 +95,6 @@ tryCatch({
   }
   writeLines('<html><body>{{< include "missing.qmd" >}}</body></html>', file.path(root, "index.html"))
   assert_fails(check_env$parse_rendered_pages(root))
-  redirect_env <- new.env(parent = globalenv()); source("scripts/write-redirects.R", local = redirect_env)
-  cases <- list(c("legacy/page.html", "guide/page.html#section", "../guide/page.html#section"), c("old.html", "about.html", "about.html"), c("nested/old.html", "elections/2026/general/index.qmd#question-a", "../elections/2026/general/index.html#question-a"), c("plain.html", "elections/2026/general/index.qmd", "elections/2026/general/index.html"))
-  for (case in cases) {
-    redirect_env$destination(case[1], case[2], root)
-    html <- paste(readLines(file.path(root, case[1]), warn = FALSE), collapse = "\n")
-    assert_pass(grepl(paste0("url=", case[3]), html, fixed = TRUE))
-    assert_pass(grepl(paste0('href="', case[3], '"'), html, fixed = TRUE))
-  }
-  assert_pass(grepl("&amp;", redirect_env$html_escape("guide?a=1&b=2"), fixed = TRUE))
-  redirect_env$write_redirects(root, file.path(sandbox, "data"))
-  for (path in c("guide/index.html", "methods.html", "measures/md-1.html")) assert_pass(file.exists(file.path(root, path)))
   assert_pass(isTRUE(all.equal(production_hashes, md5_files(file.path(original, "data")))))
-  message("PASS: optional counts, unofficial and certified outcomes, validation, HTML, redirects, and data isolation.")
+  message("PASS: optional counts, unofficial and certified outcomes, validation, HTML, and data isolation.")
 }, finally = { setwd(original); unlink(sandbox, recursive = TRUE) })
