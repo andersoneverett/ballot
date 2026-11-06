@@ -17,7 +17,8 @@ website:
   site-url: "https://andersoneverett.github.io/ballot/"
   description: "Clear explanations of Baltimore ballot questions, sourced election results with clearly labeled status, and reporting on what follows."
   navbar:
-    background: white
+    background: "#20272B"
+    foreground: "#FFFFFF"
     title: "Baltimore Ballot"
     left:
       - href: elections/index.qmd
@@ -26,10 +27,14 @@ website:
         text: About
   search: false
   page-footer:
-    left: "Baltimore Ballot · Independent civic coverage"
+    left: "Baltimore Ballot · Independent coverage of Baltimore City ballot decisions."
     right:
-      - text: Editorial standards
-        href: about.qmd#editorial-standards
+      - text: Home
+        href: index.qmd
+      - text: Ballot Guides
+        href: elections/index.qmd
+      - text: About
+        href: about.qmd
 format:
   html:
     theme: cosmo

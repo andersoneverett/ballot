@@ -1,9 +1,11 @@
 ---
 title: "Ballot Guides"
-subtitle: "The Questions. The Decisions. The Results."
+subtitle: "The questions, the choices, and the recorded results."
+page-layout: article
+body-classes: top-level
 ---
 
-Explore Baltimore City ballot questions by election. Each election record brings together plain-language explanations, official wording, and results as they are added.
+Explore Baltimore City ballot questions by election. Each guide brings together plain-language explanations, official wording, measure types and origins, and sourced results. Results are labeled Unofficial or Certified; neither label establishes implementation.
 
 ```{r}
 #| results: asis

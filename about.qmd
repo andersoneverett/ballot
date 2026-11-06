@@ -1,22 +1,34 @@
 ---
-title: "Why follow through?"
-subtitle: "We voted. The work isn't finished."
+title: "About Baltimore Ballot"
+subtitle: "Scope, sources, and responsibility."
+page-layout: article
+body-classes: top-level
 ---
 
-It's easy to treat civic life as something we do on Election Day: show up, fill in the bubbles, and go home. Baltimore Ballot starts with a different idea. Our vote is one part of a decision, not the last thing we can do about it.
+Baltimore Ballot is an independent publication about Baltimore City ballot decisions and what happens afterward. Everett Anderson makes and maintains the site. It is independent of city government and political campaigns.
 
-This project starts with friends trying to understand what we were asked to decide. What did a question actually mean? What did we authorize? What happens after the result—and where can we still have a say?
+## What We Cover
 
-We start with ballot measures and follow the questions they raise about Baltimore's money, services, and government. The goal is to connect understanding a decision with taking part in what comes next.
+The publication currently covers Baltimore City Questions A–H from the 2024 General Election and Questions A–I from the 2026 General Election. Historical guides remain available alongside the latest election. Statewide questions and candidate directories are outside the current scope.
 
-## Who is “we”?
+The guides explain the choices without telling readers how to vote. They bring together plain-language explanations, official wording, measure types, topics, ballot origins, and sourced results. Implementation reporting is separate work; a guide's existence does not mean every action after passage has been assessed.
 
-“We” means us as neighbors and voters, not a newsroom or a group that agrees on everything. Everett Anderson makes and maintains this site. The invitation is shared: let's understand these decisions and follow them through together.
+## Sources And Standards {#editorial-standards}
 
-## How we keep this useful {#editorial-standards}
+We link to the records behind factual explanations and results, preserve quoted official wording, and keep meaningful uncertainties beside the work. Ballot origin identifies the formal route to the ballot, not endorsements or implementation responsibility. Source notes describe relevant transcription differences and limitations.
 
-We link to the records behind the explanations, distinguish what we know from what still needs checking, and explain important limitations beside the work. Results are labeled certified only when verified against a source. When a substantive factual mistake is corrected, the affected page will say what changed and when.
+Where we identify a way to participate, we connect it to a specific decision or next step. We do not invent interviews, community perspectives, spending records, or implementation findings.
 
-The guides explain the choices without telling anyone how to vote. Where we identify a way to participate, we'll connect it to a specific decision or next step rather than offer a vague instruction to get involved.
+## Understanding Results
 
-Baltimore Ballot is independent of city government and political campaigns.
+Unofficial and Certified describe the status of the source. Neither label means a measure has been implemented. The 2024 City records use final official returns and are recorded as Certified; the 2026 records retain an Unofficial snapshot.
+
+Checked dates identify when a source was reviewed, not when results were certified. When counts are supplied, displayed vote shares use For plus Against votes, not all ballots. Missing counts are not zero. Passage does not establish bond issuance, spending, or completed projects.
+
+## Corrections And Limitations
+
+When a substantive factual mistake is corrected, the affected page will explain what changed and when. Results and source records are maintained manually; they are not a live election feed. Unverified implementation is described as not assessed rather than inferred from a vote.
+
+## Who Is We?
+
+We means neighbors and voters with a shared interest in understanding these decisions—not a newsroom or a group with a single political view. The invitation is to check the evidence and follow through together.

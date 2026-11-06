@@ -1,31 +1,30 @@
 # Design Direction
 
-Baltimore Ballot uses a user-selected purple-led palette on a clean white background. It is not restricted to an official city brand palette and uses no city seal, government lockup, or team logo.
+Baltimore Ballot uses black and Baltimore gold as the dominant identity, purple as a selective accent, and white page backgrounds. This replaces the earlier purple-led direction at the user's request. No city seals, government lockups, or team logos.
 
-## Palette
+## Palette Roles
 
-- Purple: #241773, requested as Ravens purple. Use for identity, major headings, actions, active navigation, and Charter Change accents.
-- White: #FFFFFF. Use for the page background and navigation. Warm-paper page backgrounds are retired.
-- Gold: #FCB826. Use sparingly, primarily for Bond badges rather than navigation divider lines.
-- Teal: #0B5963. Use for links and For vote bars.
-- Forest Green: #256047. Use for explicit Passed labels, not decorative result borders.
-- Brick Red: #A33D32. Use for explicit Failed labels, not decorative result borders.
-- Ink: #20272B. Use for primary text.
-- Slate: #52616B. Use for supporting text and Against vote bars.
-- Quiet Result Surface: #F8F7FC. Use to group result information without outlining each block.
-- Soft Rule: #D8DEDC. Reserved for separators that carry a real structural purpose; do not add repeated rules to every section.
-- Pale Gold #FFF0C7 and Pale Purple #EEEAF8 support compact type badges.
+- Black/Ink #20272B: masthead and footer surfaces, headings, and primary text.
+- Gold #FCB826: wordmark, restrained header/footer accents, primary guide action, active navigation on dark backgrounds, and Bond badge accents. Gold is not the default color for every link, heading, or marker; do not use it as small text on white.
+- Purple #241773: selected hover states, Charter Change accents, table-of-contents selection, and focus on light backgrounds. It supplements rather than replaces the dominant identity.
+- White #FFFFFF: page background and text on dark surfaces.
+- Teal #0B5963: readable content links and For vote bars.
+- Slate #52616B: supporting text and Against vote bars.
+- Green #256047 and Brick #A33D32: explicit Passed and Failed labels.
+- Pale gold #FFF0C7 and pale purple #EEEAF8: compact type badges. The subtle result surface remains #F8F7FC.
 
-## Layout And Hierarchy
+## Shared Structure
 
-Use whitespace, typography, and consistent alignment as the primary section separators. Remove automatic heading rules, guide-list rules, article-list rules, the featured-guide top rule, decision-column rails, official-wording rules, result-card outlines, and the footer rule. Override the theme's h2 underline as well as project-defined h3 rules.
+Home, Ballot Guides, and About use page-layout: article, body-classes: top-level, and Quarto's standard title/subtitle block. Keep their content left-aligned within the same article layout. Home is not a separate full-width hero system. Maintain consistent title placement, introductory text, spacing, and left edges.
 
-A restrained purple line at the top of navigation may remain as an identity accent. Active navigation, keyboard focus outlines, type-badge outlines, and the active table-of-contents indicator remain functional cues rather than decorative section dividers.
+Home explains the publication, directs readers to the current and historical guides, briefly explains ballot origins with evidence, and motivates follow-through. About holds ownership, independence, scope, sources, result terminology, corrections, limitations, and the meaning of we. The guide index is an election archive, not a second homepage.
 
-Measure type is a compact badge. Topics are unboxed text separated by dots. Ballot origin is a linked attribution line. Election outcome is a larger word grouped with its source status and vote information on a quiet surface. These are distinct information roles, not variations of the same pill.
+The shared footer identifies the publication and provides Home, Ballot Guides, and About links. Do not restore an editorial-standards footer link. Formal standards live within About.
 
-## Accessibility And Review
+## Election Guides And Accessibility
 
-Always retain explicit Passed/Failed and For/Against labels. Do not make color the only carrier of meaning or use red to imply that an Against vote is wrong. Preserve keyboard focus, native details disclosure, mobile wrapping, and readable source links.
+Preserve the election guides' question structure, cycle URLs, anchors, result blocks, vote bars, type/topic/origin hierarchy, and native official-wording disclosures. Shared identity may change without rebuilding those components. No ballot data or official quotations change as part of a visual pass.
 
-Validate contrast against the actual white and result-surface backgrounds when reviewing visual changes. Previously documented paper-background ratios are not evidence of review for this direction. R tests, Quarto rendering, contrast checks, and desktop/mobile browser review must be reported separately from source inspection.
+Use whitespace, typography, and alignment rather than repeated rules, boxes, or pills. Always retain explicit Passed/Failed and For/Against labels. Preserve mobile wrapping and visible keyboard focus; use gold focus outlines on dark header/footer surfaces and purple on white.
+
+Inspect actual rendered desktop/mobile pages, keyboard interactions, and contrast before claiming visual verification. Source inspection and successful CI do not establish appearance or accessibility.

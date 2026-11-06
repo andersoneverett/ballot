@@ -1,42 +1,42 @@
 ---
-title: ""
-page-layout: full
+title: "Understand The Vote. Follow What Comes Next."
+subtitle: "Baltimore City ballot questions, explained and kept in view."
+page-layout: article
+body-classes: top-level
 ---
 
-::: {.home-hero}
-::: {.eyebrow}
-BALTIMORE · WHAT HAPPENS AFTER WE VOTE
-:::
+Baltimore Ballot brings together plain-language explanations, official wording, and sourced election results. We start with what we were asked to decide—and keep asking what those decisions mean for our city.
 
-# We voted. Now what?
-
-::: {.hero-deck}
-We filled in the bubbles. But what did we actually decide—and what still needs to happen?
-:::
-
-Election Day isn't the finish line. It's the start of the next part: understanding the decisions we made, following what happens next, and finding where we can take part.
-
-We don't have to agree on how we voted to care about what happens next.
-:::
-
-## Start with what was on our ballot
-
-Before we can follow a decision, we need to understand it. The guide explains what each question asked us to approve or reject and includes the official wording so we can check it ourselves. Results are linked to sources and clearly labeled Unofficial or Certified.
+## Explore The Ballot {#start-with-what-was-on-our-ballot}
 
 ```{r}
 #| results: asis
 source("R/publication.R")
 featured_election()
-latest_articles()
 ```
 
-## A result isn't the whole story
+[Browse All Election Guides](elections/index.qmd), including the 2024 and 2026 Baltimore City questions. Each guide keeps the explanations, ballot origins, official wording, and results together.
 
-For each measure, these are the questions we want to follow:
+## How Questions Reach The Ballot
 
-- What did the vote settle—and what did it leave unfinished?
-- Who has the next move?
-- What would show us that the decision is being carried out?
-- Where can we ask questions, weigh in, or help shape what happens?
+A question has a history before we see it on a ballot. The measures in our guides include City Council–referred proposals and citizen petitions. Those are different routes to a public vote—not endorsements or a promise that a particular office will carry out the result.
 
-That's the work ahead. The guide is our starting point, not the end of the story.
+The [Baltimore City Board of Elections](https://www.baltimorecity.gov/boe/ballot-question-text) links City questions to Council records and identifies the voter-petition route. Some questions ask permission to borrow for specified purposes; others propose changes to the City Charter. Our guides identify the type and origin so we can see what kind of decision is being put to us.
+
+## Why We Keep Watching {#a-result-isnt-the-whole-story}
+
+A result tells us what voters approved or rejected. It does not, by itself, show that a project is finished, bonds have been issued, or money has been spent. The distinction between authorization and follow-through matters.
+
+These are the questions we want to keep in view:
+
+- Who is responsible for the next decision?
+- What deadlines, ordinances, budgets, or other steps does the measure call for?
+- What records would show what actually happened?
+- Where is there a specific opportunity for residents to ask questions or take part?
+
+The guides are the foundation for that work, not a claim that every implementation step has already been investigated. We do not have to agree on how we voted to care about what follows.
+
+```{r}
+#| results: asis
+latest_articles()
+```
