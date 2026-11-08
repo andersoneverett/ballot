@@ -10,6 +10,7 @@ NS = "{https://open.law/schemas/library}"
 CITY = "https://codes.baltimorecity.gov/us/md/cities/baltimore/charter"
 RELEASE = "October 15, 2026 release (publication 2026-09-28)"
 ARTICLE_META = 'toc: true\ntoc-title: "In This Article"\ntoc-depth: 3\npage-navigation: true\n'
+CHANGED_2026 = {"III", "IV", "VI"}
 DESC = {
     "I": "Definitions, how the City holds property, and special funds such as the Children and Youth Fund and Inner Harbor Park.",
     "II": "The long list of powers the City has, starting with regulating buildings.",
@@ -23,8 +24,6 @@ DESC = {
     "X": "The Office of the Inspector General.",
     "XI": "The Charter Review Commission.",
 }
-AMEND_PDF = "https://elections.maryland.gov/elections/2026/Baltimore_City_Proposed_Charter_Amendment_Text.pdf"
-GUIDE = "../elections/2026/general/index.qmd#question-baltimore-"
 
 def tag(el):
     return el.tag.replace(NS, "") if isinstance(el.tag, str) else ""
@@ -107,12 +106,15 @@ def collect(container, trail=()):
 def front(title, extra=""):
     return '---\ntitle: "%s"\n%s---\n\n' % (title.replace('"', "'"), extra)
 
-def disclaimer(article_num=None):
-    link = "%s/%s" % (CITY, article_num) if article_num else CITY
+def full_note():
     return ('::: {.charter-note}\nSource: [City of Baltimore Law Library](%s), %s. '
             'This copy is for reading and searching and is not the official version. '
             'Charter amendments adopted after this release, including the November 2026 ballot questions, '
-            'may not appear yet.\n:::\n\n' % (link, RELEASE))
+            'may not appear yet.\n:::\n\n' % (CITY, RELEASE))
+
+def short_note(num):
+    extra = " Parts of this article were changed by the November 2026 ballot questions and may not appear here yet." if num in CHANGED_2026 else ""
+    return '::: {.charter-note}\nSource: [City of Baltimore Law Library](%s/%s), %s.%s\n:::\n\n' % (CITY, num, RELEASE, extra)
 
 def card(num, head, href, n):
     desc = DESC.get(num, "")
@@ -121,23 +123,13 @@ def card(num, head, href, n):
             '<span class="charter-card-meta">%d section%s</span></a>' % (href, esc(num), esc(head), esc(desc), n, "" if n == 1 else "s"))
 
 def landing(rows):
-    out = [front("Charter of Baltimore City", "page-navigation: true\n"), disclaimer()]
+    out = [front("Charter of Baltimore City", "page-navigation: true\n"), full_note()]
     out.append("The Charter is Baltimore's governing document, often described as the City's constitution. "
                "Browse by article below, or use the search box in the left menu to find a word or phrase, "
                "such as \"lowest bidder\" or \"Board of Estimates\".\n")
     out.append("## Browse by article\n")
     cards = "\n".join(card(num, head, href, n) for num, head, href, n in rows)
     out.append('```{=html}\n<div class="charter-grid">\n%s\n</div>\n```\n' % cards)
-    out.append("## The 2026 ballot questions and the charter\n")
-    out.append("This copy of the charter is current through October 1, 2026, so it does not yet include the amendments from the "
-               "November 3, 2026 election. These are the places in the charter that we have confirmed the questions change:\n")
-    out.append("- **Question E (contract bidding):** [Article VI](article-vi.html#s-11), \u00a7 11, which covers bid awards, tie bids and bonds. "
-               "Those rules are removed on November 7, 2028 unless the city replaces them sooner. [Read the guide](%se).\n" % GUIDE)
-    out.append("- **Question F (budget, vetoes and the Board of Estimates):** [Article III](article-iii.html#s-15) \u00a7 15, "
-               "[Article IV](article-iv.html#s-5) \u00a7 5, and the budget and Board of Estimates sections of [Article VI](article-vi.html). "
-               "Most changes start December 3, 2026. [Read the guide](%sf).\n" % GUIDE)
-    out.append("The exact wording of the amendments is in the [State Board of Elections amendment text (PDF)](%s). "
-               "Section references for Questions G, H and I are not listed here yet.\n" % AMEND_PDF)
     return "\n".join(out)
 
 def main():
@@ -157,7 +149,7 @@ def main():
         title = ("%s %s" % (pre, num)).strip() + (" \u2014 " + head if head else "")
         secs = list(collect(art))
         total += len(secs)
-        page = [front(title, ARTICLE_META), disclaimer(num)]
+        page = [front(title, ARTICLE_META), short_note(num)]
         last = None
         for trail, s in secs:
             if trail != last and trail:
@@ -166,7 +158,6 @@ def main():
             sn, sh = label(s)
             page.append("\n### \u00a7 %s. %s {#s-%s}\n" % (sn, sh, slug(sn)))
             page.append("```{=html}\n%s\n```\n" % render_blocks(s))
-            page.append('[View this section on the City site](%s/%s/%s)\n' % (CITY, num, html.escape(sn, quote=True)))
         name = "article-%s.qmd" % slug(num)
         (OUT / name).write_text("\n".join(page), encoding="utf-8")
         rows.append((num, head, name.replace(".qmd", ".html"), len(secs)))
