@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -46,8 +46,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Initiative “Question K”, ratified Nov. 8, 2022; Res. 99-016, ratified Nov. 2, 1999; Res. 04-049, ratified Nov. 2, 2004; Res. 05-009, ratified Nov. 7, 2006; Res. 12-003, ratified Nov. 6, 2012</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/1)
-
 
 ### § 2. Removal; Vacancy. {#s-2}
 
@@ -62,8 +60,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 20-024, ratified Nov. 3, 2020; Paragraph (a)(5) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that paragraph (a)(5) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/2)
 
 
 ### § 3. General duties. {#s-3}
@@ -101,8 +97,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/3)
-
 
 ### § 4. Department of Real Estate – Established. {#s-4}
 
@@ -110,8 +104,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There shall be a Department of Real Estate, the head of which shall be the Comptroller.</p>
 <p>For the conduct of the Department, the Comptroller shall appoint a Real Estate Officer and such assistants and employees as may be provided for in the Ordinance of Estimates.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/4)
 
 
 ### § 5. Department of Real Estate – Duties. {#s-5}
@@ -137,8 +129,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/5)
-
 
 ### § 6. Real Property Account. {#s-6}
 
@@ -147,8 +137,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Moneys received from such sales shall be appropriated in the Ordinance of Estimates only for the purchase of land, and the purchase or construction of buildings, and other construction work and projects, and to carry out the industrial and economic development powers vested in the Mayor and City Council of Baltimore by the provisions of sub<a href="article-ii.html#s-15a">section (15A) of Article II</a>, it being the intent of this provision to limit the use of such moneys to the purposes specifically mentioned in <a href="article-v.html#s-6">this section</a>, and otherwise to prohibit their use for current expenses of the City.</p>
 <p>The annual Ordinance of Estimates shall include the appropriations which are proposed to be charged to the “Mayor and City Council Real Property Account”, and the state of the account, with the particulars as to sources of receipts, shall be reported by the Comptroller annually to the City Council.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/6)
 
 
 ### § 7. Department of Audits – Established. {#s-7}
@@ -165,8 +153,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Sufficient funds shall be included in the Ordinance of Estimates for the Department of Audits to enable the City Auditor to perform the duties prescribed herein.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/7)
 
 
 ### § 8. Department of Audits – General powers and duties. {#s-8}
@@ -218,8 +204,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 16-031, ratified Nov. 8, 2016; Res. 20-022, ratified Nov. 3, 2020</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/8)
-
 
 ### § 9. Department of Audits – Comprehensive annual financial report. {#s-9}
 
@@ -233,8 +217,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To carry out the Auditor’s duties, the Auditor shall have access at all times to the financial records of all municipal agencies and the relevant financial records of contractors with, and grantees of, the City.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/9)
 
 
 ### § 10. Department of Audits – Independent auditors. {#s-10}
@@ -261,8 +243,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The independent firm of certified public accountants shall make reports of its audits, examinations, and recommendations to the Board of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/10)
 
 
 ### § 11. Department of Audits – Biennial audits of principal agencies. {#s-11}
@@ -528,8 +508,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 16-031, ratified Nov. 8, 2016; Res. 20-022, ratified Nov. 3, 2020; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/11)
-
 
 ### § 12. Department of Accounts Payable– Established. {#s-12}
 
@@ -544,8 +522,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/12)
 
 
 ### § 13. Department of Accounts Payable – General powers and duties. {#s-13}
@@ -562,8 +538,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/13)
 
 
 ### § 14. Department of Accounts Payable – Withdrawals; Signatures for checks. {#s-14}
@@ -587,8 +561,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/14)
-
 
 ### § 15. Department of Accounts Payable – Reporting. {#s-15}
 
@@ -596,5 +568,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Comptroller and the Director of the Department shall deliver all information related to the operation of the Department to the Director of the Department of Finance, at the frequency and in the format required by the Director of Finance, to enable the Director of Finance to perform his or her duties as provided for in <a href="article-vii.html">Article VII</a>.</p>
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V/15)

@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI), October 15, 2026 release (publication 2026-09-28). Parts of this article were changed by the November 2026 ballot questions and may not appear here yet.
 :::
 
 
@@ -32,8 +32,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/1)
-
 
 ### § 2. Powers and duties. {#s-2}
 
@@ -41,8 +39,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Board of Estimates shall formulate and execute the fiscal policy of the City to the extent, and in the manner provided for, in the Charter.  To exercise its powers and perform its duties, the Board may promulgate rules and regulations and summon before it the heads of departments, bureaus or divisions, municipal officers, and members of commissions and boards.</p>
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/2)
 
 
 ### § 3. Fiscal year; Budget schedule. {#s-3}
@@ -67,8 +63,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/3)
-
 
 ### § 4. Assistance from Finance Director and Planning Commission. {#s-4}
 
@@ -83,8 +77,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Planning Commission shall submit for the consideration of the Board a recommended capital budget, a recommended long-range capital improvement program, and a report on both.  The Director and Board of Finance shall review the recommended capital budget and program, and make a report and recommendations about both to the Board of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/4)
 
 
 ### § 5. Preparation of proposed Ordinance of Estimates. {#s-5}
@@ -108,8 +100,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>At least one week before it approves a contingent fund expenditure, the Board shall report to the City Council the reasons for the expenditure.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/5)
 
 
 ### § 6. Adoption of proposed Ordinance of Estimates. {#s-6}
@@ -208,8 +198,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/6)
-
 
 ### § 7. Enactment of Ordinance of Estimates. {#s-7}
 
@@ -287,8 +275,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-025, ratified Nov. 3, 2020, effective July 1, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/7)
-
 
 ### § 8. Deficiencies; Supplementary appropriations. {#s-8}
 
@@ -326,8 +312,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-025, ratified Nov. 3, 2020, effective July 1, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/8)
 
 
 ### § 9. Uses of appropriations. {#s-9}
@@ -383,8 +367,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 10-019, ratified Nov. 2, 2010; Res. 12-004, ratified Nov. 6, 2012</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/9)
 
 
 ### § 10. Salaries. {#s-10}
@@ -445,8 +427,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 05-009, ratified Nov. 7, 2006; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/10)
 
 
 ### § 11. Procurement. {#s-11}
@@ -590,8 +570,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 07-031, ratified Nov. 6, 2007; Res. 10-024, ratified Nov. 2, 2010; Res. 16-030, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.; Initial threshold amounts were set by Board of Estimates Resolution adopted December 22, 2010, as follows:  § 11(c), which requires formal advertisements, applies to procurements involving expenditures of more than $50,000.  § 11(f), which requires contracts to be approved by the Board of Estimates, applies to contracts involving expenditures of more than $25,000.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/11)
-
 
 ### § 12. Salary and wage scales; Work conditions. {#s-12}
 
@@ -621,16 +599,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 06-016, ratified Nov. 7, 2006; Res. 14-014, ratified Nov. 4, 2014; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/12)
-
 
 ### § 13. Command appearance of municipal officers. {#s-13}
 
 ```{=html}
 <p>The Board shall have power at any time to summon before it the heads of departments and their respective bureaus or divisions, all municipal officers, and members of commissions, and boards.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/13)
 
 
 ### § 14. Bonds of municipal officers. {#s-14}
@@ -639,16 +613,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Except as otherwise provided by State law, the Board of Estimates shall determine which officials of the City shall be bonded for the faithful performance of their duties and the form and amount of such bonds.  All premiums on official bonds shall be paid by the City.  All bonds executed in favor of the City shall be approved by the Mayor.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/14)
-
 
 ### § 15. Claims against or by City. {#s-15}
 
 ```{=html}
 <p>No private claims against the City shall be paid nor shall any claims held by the City be compromised or released except in accordance with procedures established by the Board of Estimates.  Nothing contained in <a href="article-vi.html#s-15">this section</a> shall be held to apply to claims against the City or held by the City in any case where, by the express terms of any contract, an engineer, architect or other agent or representative of the City is authorized to decide as to such claims.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/15)
 
 
 ### § 16. Salaries of State’s Attorney’s Office. {#s-16}
@@ -657,16 +627,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Board of Estimates is hereby authorized and empowered to fix the salaries of the State’s Attorney, the Deputy State’s Attorney, and Assistant State’s Attorneys of Baltimore City, in amounts not less than those prescribed by the Constitution of Maryland.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/16)
-
 
 ### § 17. Expenditures for new improvements. {#s-17}
 
 ```{=html}
 <p>Except as provided in <a href="article-vii.html#s-61">Section 61 of Article VII</a>, no expenditure for any new improvement shall be made out of any appropriation in the Ordinance of Estimates unless the plans for such improvement are first submitted to and approved by the Board of Estimates.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/17)
 
 
 ### § 18. Water, sanitary wastewater, and stormwater utilities. {#s-18}
@@ -724,5 +690,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 12-004, ratified Nov. 6, 2012</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/18)

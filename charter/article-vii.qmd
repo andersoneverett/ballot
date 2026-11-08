@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -30,8 +30,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/1)
-
 
 ### § 2. General provisions: Powers and duties; Contracts. {#s-2}
 
@@ -46,8 +44,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/2)
 
 
 ### § 3. General provisions: Bureaus and divisions. {#s-3}
@@ -71,8 +67,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/3)
-
 
 ### § 4. General provisions: Members of boards and commissions. {#s-4}
 
@@ -91,16 +85,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/4)
-
 
 ### § 4.5.  {#s-4-5}
 
 ```{=html}
 <p>Repealed by Res. 16-031, ratified Nov. 8, 2016.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/4.5)
 
 
 ##  — Department of Finance
@@ -111,8 +101,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Finance, the head of which shall be the Director of Finance.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/5)
 
 
 ### § 6. Department of Finance: Director. {#s-6}
@@ -132,8 +120,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/6)
-
 
 ### § 7. Department of Finance: Deputy Director; Employees. {#s-7}
 
@@ -152,8 +138,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/7)
-
 
 ### § 8. Department of Finance: Budget preparation. {#s-8}
 
@@ -162,16 +146,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/8)
-
 
 ### § 9. Department of Finance: Budget administration. {#s-9}
 
 ```{=html}
 <p>Under the direction of the Board of Estimates, the Director shall implement the Ordinance of Estimates.  In the interest of economy and efficiency, the Director shall survey the administration and organization of municipal agencies to support the Director’s recommendations to the Board of Estimates on the budget requests of the agencies and the Director’s reports to the Mayor on measures which might be taken to improve the organization and administration of City government.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/9)
 
 
 ### § 10. Department of Finance: Disbursements related to salary or compensation. {#s-10}
@@ -180,8 +160,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Department shall have general supervision and charge over all payments and disbursements made by the City and related to salary or compensation earned by municipal officers or employees of the City and no such payment or disbursement may be made by the City without the approval of the Department.</p>
 <p class="charter-history"><strong>History:</strong> Res. 22-005, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/10)
 
 
 ### § 11. Department of Finance: Accounting. {#s-11}
@@ -208,8 +186,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 22-005, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/11)
 
 
 ### § 12. Department of Finance: Collections, deposits, withdrawals, etc. {#s-12}
@@ -252,8 +228,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 00-010, ratified November 2000; Res. 22-005, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/12)
-
 
 ### § 13. Department of Finance: Lien records. {#s-13}
 
@@ -272,16 +246,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/13)
-
 
 ### § 14. Department of Finance: Notices of lien. {#s-14}
 
 ```{=html}
 <p>The Director shall provide notice of a lien to a property owner as provided by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/14)
 
 
 ### § 15. Department of Finance: Distraint or levy for taxes. {#s-15}
@@ -301,16 +271,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/15)
-
 
 ### § 16. Department of Finance: Taxes as personal debt and lien. {#s-16}
 
 ```{=html}
 <p>All taxes and charges in the nature of taxes shall be the personal debt of the person against whom they are charged and recoverable as such, and shall also become a lien against the property assessed in the manner and to the extent provided by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/16)
 
 
 ### § 17. Department of Finance: Purchasing. {#s-17}
@@ -364,8 +330,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 10-024, ratified Nov. 2, 2010; Res. 22-005, ratified Nov. 8, 2022; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/17)
-
 
 ### § 18. Department of Finance: Registrar of debt; Custodian of funds and securities; Keeper of Seal. {#s-18}
 
@@ -385,8 +349,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/18)
-
 
 ##  — Board of Finance
 
@@ -396,8 +358,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Board of Finance, which shall advise the Department and exercise those powers and perform those duties provided by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/19)
 
 
 ### § 20. Board of Finance: Composition. {#s-20}
@@ -418,8 +378,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Board shall designate a clerk to the Board who shall keep its accounts and a record of its proceedings.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/20)
 
 
 ### § 21. Board of Finance: Powers and duties. {#s-21}
@@ -443,8 +401,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/21)
-
 
 ##  — Department of Law
 
@@ -454,8 +410,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Law, the head of which shall be the City Solicitor.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/22)
 
 
 ### § 23. Department of Law: City Solicitor. {#s-23}
@@ -475,8 +429,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The City Solicitor’s salary shall be set in the Ordinance of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/23)
 
 
 ### § 24. Department of Law: Powers and duties. {#s-24}
@@ -515,8 +467,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 13-013, ratified Nov. 4, 2014</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/24)
-
 
 ### § 25. Department of Law: Staff; Other assistance. {#s-25}
 
@@ -532,16 +482,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/25)
-
 
 ### § 26. Department of Law: Suits; Appeals. {#s-26}
 
 ```{=html}
 <p>The City Solicitor shall have authority to institute, defend or discontinue on behalf of the City, any suit, action, or proceeding in any local, State or federal court or tribunal, but no appeals on behalf of the City to the Court of Appeals, the Supreme Court of the United States, or the United States Court of Appeals shall be taken except upon the written order of the City Solicitor, or outside counsel employed pursuant to Section 24(c), approved by the Mayor.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/26)
 
 
 ##  — Department of Public Works
@@ -552,8 +498,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Public Works, the head of which shall be the Director of Public Works.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/27)
 
 
 ### § 28. Department of Public Works: Director. {#s-28}
@@ -574,8 +518,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/28)
-
 
 ### § 29. Department of Public Works: Staff. {#s-29}
 
@@ -590,8 +532,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/29)
-
 
 ### § 30. Department of Public Works: Supervision of public works. {#s-30}
 
@@ -599,8 +539,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Director shall supervise all public works in Baltimore City or elsewhere, made by or for the City or any municipal agency, that relate to the Department’s powers under this Charter.  All plans and specifications for these public works, including those involving engineering questions, shall be submitted to the Director for approval.</p>
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/30)
 
 
 ### § 31. Department of Public Works: Construction, maintenance, and repair. {#s-31}
@@ -610,16 +548,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/31)
-
 
 ### § 32.  {#s-32}
 
 ```{=html}
 <p>Repealed by Res. 08-003, ratified Nov. 4, 2008.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/32)
 
 
 ### § 33. Department of Public Works: Water supply. {#s-33}
@@ -628,16 +562,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Department shall have charge of the water supply of the City and of all the properties, reservoirs, streams, pumping and filtration stations, pipes, apparatus and equipment appurtenant thereto and shall exercise all the powers and perform all the duties connected with the operation thereof and the supplying of water to the City.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/33)
-
 
 ### § 34. Department of Public Works: Sewage. {#s-34}
 
 ```{=html}
 <p>The Department shall have charge of the construction, operation and maintenance of all drains, sewers, and sewage disposal facilities, of the inspection or supervision of sewer or drain construction and repair work, and of waste disposal.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/34)
 
 
 ### § 35. Department of Public Works: Street cleaning. {#s-35}
@@ -646,16 +576,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Department shall be responsible for cleaning the streets and for the collection, disposal and recycling of garbage, ashes, refuse, trash, and other waste matter, except as otherwise provided by law.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/35)
-
 
 ### § 36.  {#s-36}
 
 ```{=html}
 <p>Repealed by Res. 08-003, ratified Nov. 4, 2008.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/36)
 
 
 ### § 37. Department of Public Works: Testing. {#s-37}
@@ -665,16 +591,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/37)
-
 
 ### § 38 to 40.  {#s-38-to-40}
 
 ```{=html}
 <p>Repealed by Res. 08-003, ratified Nov. 4, 2008.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/38 to 40)
 
 
 ### § 41. Department of Public Works: Correcting physical obstruction. {#s-41}
@@ -690,8 +612,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/41)
 
 
 ### § 42. Department of Public Works: Assistance to other agencies. {#s-42}
@@ -709,16 +629,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/42)
-
 
 ### § 43 to 46.  {#s-43-to-46}
 
 ```{=html}
 <p>Repealed by Res. 08-003, ratified Nov. 4, 2008.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/43 to 46)
 
 
 ##  — Fire Department
@@ -729,8 +645,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Fire Department, the head of which shall be the Chief.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/47)
 
 
 ### § 48. Fire Department: Chief. {#s-48}
@@ -754,16 +668,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/48)
-
 
 ### § 49. Fire Department: Board of Fire Commissioners – Established. {#s-49}
 
 ```{=html}
 <p>There is a Board of Fire Commissioners, which shall advise the Chief and exercise those powers and perform those duties provided by the Charter.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/49)
 
 
 ### § 50. Fire Department: Board of Fire Commissioners – Composition; Appointment; Terms. {#s-50}
@@ -778,8 +688,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Mayor shall designate one member of the Board as its President and may withdraw such designation and so designate another member.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/50)
 
 
 ### § 51. Fire Department: Board of Fire Commissioners – Powers and duties. {#s-51}
@@ -803,8 +711,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/51)
-
 
 ### § 52. Fire Department: Board of Fire Commissioners – Retirement of employees. {#s-52}
 
@@ -814,8 +720,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Board may also provide for the relief of unremarried widows, by marriages existing at the time of retirement or death, of employees of the Department who are not members of the Employees’ Retirement System or the Fire and Police Employees’ Retirement System who die, whether death occurs before or after their retirement, subject to the Ordinance of Estimates.  The annual amount which shall be paid to such widow of such a deceased member shall not exceed fifty per centum (50%) of the yearly pension to which such deceased member would have been entitled to receive had that member lived and been retired under the provisions of <a href="article-vii.html#s-52">this section</a>.</p>
 <p>The City Council may provide by ordinance a system of benefits payable to the unremarried widows and children under age 18 of persons who were employees or retired employees of the Department who were not members of the Employees’ Retirement System or the Fire and Police Employees’ Retirement System and who died or retired prior to June 7, 1963, subject to such exceptions, conditions, restrictions and classifications as may be provided therein.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/52)
 
 
 ### § 53. Fire Department: Arbitration for fire fighters and officers. {#s-53}
@@ -858,8 +762,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/53)
-
 
 ##  — Department of Health
 
@@ -869,8 +771,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Health, the head of which shall be the Commissioner of Health.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/54)
 
 
 ### § 55. Department of Health: Commissioner. {#s-55}
@@ -895,8 +795,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/55)
-
 
 ### § 56. Department of Health: Powers and duties. {#s-56}
 
@@ -916,8 +814,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/56)
-
 
 ##  — Department of Social Services
 
@@ -928,8 +824,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Department of Social Services, the head of which shall be the Director of Social Services.</p>
 <p>The Director shall be appointed pursuant to, and shall exercise those powers and perform those duties prescribed by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/57)
 
 
 ### § 58. Department of Social Services: Social Services Commission. {#s-58}
@@ -950,8 +844,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 02-033, ratified Nov. 5, 2002</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/58)
-
 
 ##  — Department of Education
 
@@ -961,8 +853,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Education, the head of which shall be a Board of School Commissioners.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/59)
 
 
 ### § 60. Department of Education: Board of School Commissioners – Established, composition, etc. {#s-60}
@@ -986,8 +876,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Notwithstanding <a href="article-iv.html#s-8">Article IV, Section 8</a>, in the selection of the members of the Board and in their actions in the administration of the public schools, ecclesiastical and party ties shall not be regarded, so that the public schools may be entirely out of the field of political and religious differences and controversies.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/60)
 
 
 ### § 61. Department of Education: Board of School Commissioners – Powers and duties. {#s-61}
@@ -1043,16 +931,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/61)
-
 
 ### § 62. Department of Education: Superintendent. {#s-62}
 
 ```{=html}
 <p>The Superintendent shall advise the Board, make recommendations to the Board about educational policy, implement educational policy that is set by the Board, and direct and supervise the Department of Education.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/62)
 
 
 ### § 63. Department of Education: Budget; Salaries. {#s-63}
@@ -1069,8 +953,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/63)
-
 
 ### § 64. Department of Education: Graded lists; Employee duties. {#s-64}
 
@@ -1079,8 +961,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>All rules and regulations relative to the classification of professional employees and the establishment of graded lists shall be filed as a public record with the Department of Legislative Reference and no change in or amendment to these rules and regulations shall become effective until thirty days after such filing.</p>
 <p>The superintendents, assistant superintendents, directors, supervisors, assistant supervisors, principals, assistant principals, teachers, secretaries, clerks and other employees shall perform such duties as may be prescribed by the Board not inconsistent with the provisions of the Charter.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/64)
 
 
 ##  — Department of Recreation and Parks
@@ -1091,8 +971,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Recreation and Parks, the head of which shall be the Director of Recreation and Parks.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/65)
 
 
 ### § 66. Department of Recreation and Parks: Director – Appointment, etc. {#s-66}
@@ -1116,8 +994,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Director may appoint such employees as provided in the Ordinance of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/66)
 
 
 ### § 67. Department of Recreation and Parks: Director – Powers and duties. {#s-67}
@@ -1151,16 +1027,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/67)
-
 
 ### § 68. Department of Recreation and Parks: Board – Established; Duties. {#s-68}
 
 ```{=html}
 <p>There is a Board of Recreation and Parks, which shall advise the Director and exercise those other powers and perform those other duties prescribed by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/68)
 
 
 ### § 69. Department of Recreation and Parks: Board – Composition; Appointment; Terms. {#s-69}
@@ -1176,8 +1048,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/69)
-
 
 ##  — Department of Planning
 
@@ -1187,8 +1057,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Planning, the head of which shall be the Planning Commission.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/70)
 
 
 ### § 71. Department of Planning: Commission – Composition; Appointment; Terms. {#s-71}
@@ -1220,8 +1088,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Each member of the Commission shall be a resident and registered voter at the time, and during the term, of appointment.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/71)
 
 
 ### § 72. Department of Planning: Commission – Powers and duties. {#s-72}
@@ -1311,8 +1177,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/72)
-
 
 ### § 73. Department of Planning: Director and staff. {#s-73}
 
@@ -1335,8 +1199,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Director’s salary shall be set in the Ordinance of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/73)
 
 
 ### § 74. Department of Planning: Master Plan. {#s-74}
@@ -1362,8 +1224,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/74)
-
 
 ### § 75. Department of Planning: Subdivisions – In general. {#s-75}
 
@@ -1372,16 +1232,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/75)
-
 
 ### § 76. Department of Planning: Subdivisions – Definition. {#s-76}
 
 ```{=html}
 <p>A subdivision plan shall mean a plan submitted by the owner of not less than one-third of the land included therein showing one or more new streets or parks, or showing the division of a lot, tract or parcel of land into two or more lots, tracts or parcels, or other divisions of land for the purpose, whether immediate or future, of sale or building development.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/76)
 
 
 ### § 77. Department of Planning: Subdivisions – Approvals. {#s-77}
@@ -1397,8 +1253,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/77)
-
 
 ### § 78. Department of Planning: Subdivision regulation – Recording. {#s-78}
 
@@ -1407,8 +1261,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008; Res. 16-027, ratified Nov. 8, 2016</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/78)
-
 
 ### § 79. Department of Planning: Appeals. {#s-79}
 
@@ -1416,16 +1268,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Any applicant for a permit who is aggrieved by any decision of the Commission may appeal as provided by law.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/79)
-
 
 ### § 80. Department of Planning: Penalties. {#s-80}
 
 ```{=html}
 <p>Any person who shall violate any of the provisions or requirements of Sections 71 to 80 shall be guilty of a misdemeanor, and, upon conviction in any court of competent jurisdiction, shall be fined as provided by law.  Every day that such violation continues shall be deemed a separate offense.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/80)
 
 
 ##  — Department of Municipal and Zoning Appeals
@@ -1436,8 +1284,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>There is a Department of Municipal and Zoning Appeals, the head of which shall be the Board of Municipal and Zoning Appeals.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/81)
 
 
 ### § 82. Board of Municipal and Zoning Appeals: Established; Composition, etc. {#s-82}
@@ -1454,8 +1300,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The salary of the President and each member of the Board shall be set in the Ordinance of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/82)
 
 
 ### § 83. Board of Municipal and Zoning Appeals: General powers and duties. {#s-83}
@@ -1488,16 +1332,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/83)
-
 
 ### § 84. Board of Municipal and Zoning Appeals: Zoning appeals. {#s-84}
 
 ```{=html}
 <p>Appeals from the Zoning Commissioner shall be determined by the Board and shall be taken pursuant to law.  Upon such appeals, the Board shall have such powers and be subject to such restrictions as may be provided by law.  The Board, after public hearing, may grant special individual exceptions to the provisions of the zoning ordinances or regulations as provided by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/84)
 
 
 ### § 85. Board of Municipal and Zoning Appeals: Paving assessments. {#s-85}
@@ -1522,16 +1362,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/85)
-
 
 ### § 86. Board of Municipal and Zoning Appeals: Review powers conferred by law. {#s-86}
 
 ```{=html}
 <p>The Board shall have such additional powers to examine, review and revise acts or rulings of other departments and officers of the City affecting the construction, alteration, use or operation of land or buildings in the City or other charges as may from time to time be conferred upon it by law, but the powers conferred upon it in the Charter shall not be diminished or abridged by ordinance, nor may the Board be given power to review or alter determinations of the Planning Commission.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/86)
 
 
 ### § 87. Board of Municipal and Zoning Appeals: Additional powers conferred by law. {#s-87}
@@ -1540,8 +1376,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Board of Municipal and Zoning Appeals shall have and exercise all the rights, powers, duties, obligations and functions conferred by law upon the Board of Zoning Appeals not otherwise conferred by the Charter on other agencies of the City and not inconsistent with its provisions.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/87)
-
 
 ### § 88. Board of Municipal and Zoning Appeals: Judicial review. {#s-88}
 
@@ -1549,8 +1383,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>If any person, including the City and the Planning Commission, feeling aggrieved by any decision of the Board within thirty days of a decision by the Board, appeals therefrom to the Baltimore City Circuit Court, the Board shall forthwith transmit all papers, or copies thereof, to the court, certified by its executive secretary.</p>
 <p>An appeal shall stay all proceedings in furtherance of the action appealed from.  But whenever, in the opinion of the Board, such stay would cause imminent peril to life or property, or serious public inconvenience, it may ask the Circuit Court for an order vacating such stay.  From the findings of the Circuit Court in such cases, there shall be such appeal, if any, as may be permitted by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/88)
 
 
 ### § 89. Board of Municipal and Zoning Appeals: Notices; Evidence. {#s-89}
@@ -1567,8 +1399,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/89)
-
 
 ##  — Department of Legislative Reference
 
@@ -1579,8 +1409,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Department of Legislative Reference, the head of which shall be the Director of Legislative Reference who shall supervise and direct the Department.</p>
 <p class="charter-history"><strong>History:</strong> Res. 18-011, ratified Nov. 6, 2018</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/90)
 
 
 ### § 91. Department of Legislative Reference:  Director – Nominating Board. {#s-91}
@@ -1631,8 +1459,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-011, ratified Nov. 6, 2018</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/91)
-
 
 ### § 92. Department of Legislative Reference:  Director – Qualifications, Appointment, Removal, etc. {#s-92}
 
@@ -1655,8 +1481,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 18-011, ratified Nov. 6, 2018</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/92)
 
 
 ### § 93. Department of Legislative Reference:  Director – Powers and Duties. {#s-93}
@@ -1707,8 +1531,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
           </p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/93)
-
 
 ##  — Civil Service Commission
 
@@ -1731,8 +1553,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Commission may appoint such employees as may be provided in the Ordinance of Estimates.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/94)
 
 
 ### § 95. Civil Service Commission: Powers and duties. {#s-95}
@@ -1782,8 +1602,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 06-017, ratified Nov. 7, 2006; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/95)
-
 
 ### § 96. Civil Service Commission: Department of Human Resources – Established. {#s-96}
 
@@ -1810,8 +1628,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 04-054, ratified Nov. 2, 2004</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/96)
 
 
 ### § 97. Civil Service Commission: Department of Human Resources – Powers and duties. {#s-97}
@@ -1877,8 +1693,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/97)
-
 
 ### § 98. Civil Service Commission: Department of Human Resources – Director. {#s-98}
 
@@ -1904,8 +1718,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 04-054, ratified Nov. 2, 2004</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/98)
 
 
 ### § 99. Civil Service Commission: Civil Service positions. {#s-99}
@@ -1956,8 +1768,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/99)
-
 
 ### § 100. Civil Service Commission: Discharges, etc.; Reductions in force. {#s-100}
 
@@ -2007,8 +1817,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
           ; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/100)
-
 
 ### § 101. Civil Service Commission: Roster of Service employees. {#s-101}
 
@@ -2028,16 +1836,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/101)
-
 
 ### § 102. Civil Service Commission: Political contributions. {#s-102}
 
 ```{=html}
 <p>No person in the Civil Service shall for any reason be under any obligation to contribute to any political fund, and no person shall knowingly, directly or indirectly, in person or by letter, request or solicit the payment of any political assessment, subscription or contribution from any person in the Civil Service.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/102)
 
 
 ### § 103. Civil Service Commission: Abolished positions. {#s-103}
@@ -2047,16 +1851,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>No position shall be deemed to be abolished by reason of being transferred or placed in or under a different municipal agency without substantial change in the nature of the actual duties of the position.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/103)
-
 
 ### § 104. Civil Service Commission: Penalties. {#s-104}
 
 ```{=html}
 <p>Any violation of any of the provisions of the Charter relating to the Civil Service, or any willful use of any corrupt means in connection with any examination, appointment, promotion, reduction, transfer or reinstatement shall be deemed a misdemeanor and, upon conviction in a court of competent jurisdiction, shall be punished by a fine or by imprisonment as provided by law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/104)
 
 
 ##  — Board of Ethics
@@ -2067,8 +1867,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>The Mayor and City Council of Baltimore shall adopt ordinances to execute the provisions of “the Maryland Public Ethics Law” of the Annotated Code of Maryland to be administered by the Board of Ethics.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/105)
 
 
 ### § 106. Board of Ethics: Established; Composition. {#s-106}
@@ -2107,8 +1905,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/106)
-
 
 ### § 107. Board of Ethics: Member qualifications. {#s-107}
 
@@ -2131,8 +1927,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>except as provided in this subtitle of the Charter, the person is not an elected official, municipal officer, or municipal employee.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/107)
 
 
 ### § 108. Board of Ethics: Term, vacancies, chair, meetings, etc. {#s-108}
@@ -2190,16 +1984,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/108)
-
 
 ### § 109. Board of Ethics: Powers and duties. {#s-109}
 
 ```{=html}
 <p>Powers, duties, administration, and other provisions relating to the Board of Ethics shall be set out in the ordinances constituting the Baltimore City Ethics Law.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/109)
 
 
 ### § 110. Chair: Powers and duties. {#s-110}
@@ -2210,8 +2000,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/110)
-
 
 ### § 111. Board of Ethics: Modification by ordinance. {#s-111}
 
@@ -2219,8 +2007,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Mayor and City Council, by ordinance, may modify, amend, alter, clarify or implement any or all of the provisions of Sections <a href="article-vii.html#s-105">105</a> through <a href="article-vii.html#s-111">111</a> of <a href="article-vii.html">this </a><a href="article-vii.html">Article VII</a>.</p>
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/111)
 
 
 ##  — Development Commission
@@ -2232,8 +2018,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Repealed by Res. 00-010, ratified November 2000.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/111 to 113)
-
 
 ##  — Department of Transportation
 
@@ -2244,8 +2028,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Department of Transportation, the head of which is the Director of Transportation.</p>
 <p class="charter-history"><strong>History:</strong> Res. 04-056, ratified Nov. 2, 2004</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/114)
 
 
 ### § 115. Director of Transportation. {#s-115}
@@ -2276,8 +2058,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 04-056, ratified Nov. 2, 2004</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/115)
 
 
 ### § 116. Powers and duties of Department. {#s-116}
@@ -2444,8 +2224,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 04-056, ratified Nov. 2, 2004; Res. 08-003, ratified Nov. 4, 2008; Res. 14-016, ratified Nov. 4, 2014; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/116)
-
 
 ### § 116A. Assessment of benefits and damages. {#s-116a}
 
@@ -2531,8 +2309,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/116A)
-
 
 ### § 116B. Correcting physical obstruction. {#s-116b}
 
@@ -2547,8 +2323,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/116B)
 
 
 ##  — Compensation Commission for Elected Officials
@@ -2592,8 +2366,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/117)
-
 
 ### § 118. Commission established. {#s-118}
 
@@ -2601,8 +2373,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Compensation Commission for Elected Officials.</p>
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/118)
 
 
 ### § 119. Composition; Qualifications; Term. {#s-119}
@@ -2642,8 +2412,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/119)
-
 
 ### § 120. Compensation; Expenses. {#s-120}
 
@@ -2660,8 +2428,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/120)
-
 
 ### § 121. Officers. {#s-121}
 
@@ -2676,8 +2442,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/121)
 
 
 ### § 122. Meetings. {#s-122}
@@ -2705,8 +2469,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/122)
-
 
 ### § 123. Commission recommendations. {#s-123}
 
@@ -2722,8 +2484,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/123)
 
 
 ### § 124. Submission to Council. {#s-124}
@@ -2744,8 +2504,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/124)
-
 
 ### § 125. Council action. {#s-125}
 
@@ -2765,8 +2523,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 05-009, ratified Nov. 7, 2006</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/125)
-
 
 ##  — Department of General Services
 
@@ -2777,8 +2533,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Department of General Services, the head of which is the Director of General Services.</p>
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/130)
 
 
 ### § 131. Director of General Services. {#s-131}
@@ -2817,8 +2571,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/131)
 
 
 ### § 132. Powers and duties of Department. {#s-132}
@@ -2904,16 +2656,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/132)
-
 
 ### § 133.  {#s-133}
 
 ```{=html}
 <p>Repealed by Res. 14-016, ratified Nov. 4, 2014.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/133)
 
 
 ### § 134. Correcting physical obstruction. {#s-134}
@@ -2930,8 +2678,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 08-003, ratified Nov. 4, 2008</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/134)
-
 
 ##  — City Administrator
 
@@ -2942,8 +2688,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a City Administrator who shall be the chief administrative officer of the City.</p>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/135)
 
 
 ### § 136. City Administrator: Appointment, term, etc. {#s-136}
@@ -3006,16 +2750,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/136)
-
 
 ### § 137.  {#s-137}
 
 ```{=html}
 <p>Reserved</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/137)
 
 
 ### § 138. City Administrator: Removal. {#s-138}
@@ -3024,8 +2764,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Mayor may remove the City Administrator at any time.</p>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/138)
 
 
 ### § 139. City Administrator: Office administration. {#s-139}
@@ -3048,8 +2786,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/139)
 
 
 ### § 140. City Administrator: Powers and duties. {#s-140}
@@ -3087,8 +2823,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/140)
-
 
 ##  — Baltimore City Police Department
 
@@ -3099,5 +2833,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is a Baltimore City Police Department, the head of which is the Police Commissioner.</p>
 <p class="charter-history"><strong>History:</strong> Res. 22-003, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VII/141)

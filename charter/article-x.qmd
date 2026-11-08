@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -19,8 +19,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is an Office of the Inspector General, the head of which is the Inspector General.</p>
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/1)
 
 
 ### § 2. Office of Inspector General: Advisory board. {#s-2}
@@ -323,8 +321,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/2)
-
 
 ### § 3. Office of Inspector General:  The Inspector General. {#s-3}
 
@@ -370,8 +366,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018; Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/3)
 
 
 ### § 4. Office of Inspector General:  Powers and Duties. {#s-4}
@@ -466,8 +460,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018; Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/4)
-
 
 ### § 5. Office of Inspector General:  Budget. {#s-5}
 
@@ -513,8 +505,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018; Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/5)
-
 
 ### § 6. Office of Inspector General:  Administration and Operation. {#s-6}
 
@@ -534,8 +524,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018; Res. 22-004, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/6)
-
 
 ### § 7. Office of Inspector General:  Transition Provisions. {#s-7}
 
@@ -550,5 +538,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 18-008, ratified Nov. 6, 2018; Res. 22-004, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/X/7)

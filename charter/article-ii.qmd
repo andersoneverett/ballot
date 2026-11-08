@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -18,8 +18,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>To regulate the location, construction, use, operation, maintenance and removal of buildings and structures, or any part thereof, of every kind.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(1))
 
 
 ### § (2). Condemnation. {#s-2}
@@ -58,8 +56,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 6, Acts of 1984</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(2))
-
 
 ### § (3). Federal grants and contracts. {#s-3}
 
@@ -67,16 +63,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To accept from the United States or any agency thereof any grant or aid of any character, and, upon approval of the Board of Estimates, to make any contract with the United States or any agency thereof.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(3))
-
 
 ### § (4). Wage and hour requirements for public contracts. {#s-4}
 
 ```{=html}
 <p>To provide by ordinance for incorporating in any and all contracts made by the Mayor and City Council of Baltimore, or on its behalf, with any person, firm or corporation for the performance of any work, labor or services for said municipal corporation, the maximum number of hours which shall constitute a day’s work for, and the minimum rate of wages or salaries to be paid to any and all classes of, employees of contractors and subcontractors performing any kind of work, labor or services for said municipal corporation while such employees are engaged or employed in the performance of such work, labor or services, and for penalties to be imposed on such contractors or subcontractors failing to comply with any and all hour and wage provisions contained in any such contract in which they are interested; and by ordinance to empower the Board of Estimates of said municipal corporation to exercise any and all the power and authority herein granted to said municipality and make any and all rules and regulations and do any and all things, from time to time, that may be necessary or proper to put into operation and effect any and all of the aforegoing provisions.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(4))
 
 
 ### § (4A). Contract disputes. {#s-4a}
@@ -133,8 +125,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 539, Acts of 1984; Ch. 521, Acts of 2002</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(4A))
-
 
 ### § (5). Entry on private property. {#s-5}
 
@@ -142,16 +132,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To enter, by its officers or agents, the land or possessions of any person for the purpose of carrying out the powers enumerated in <a href="article-ii.html">this </a><a href="article-ii.html">Article II</a>.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(5))
-
 
 ### § (6). Ferries. {#s-6}
 
 ```{=html}
 <p>To establish, acquire, own and operate municipal ferries in the harbor of Baltimore.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(6))
 
 
 ### § (7). Fire. {#s-7}
@@ -176,16 +162,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 603, Acts of 2017</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(7))
-
 
 ### § (8). Food. {#s-8}
 
 ```{=html}
 <p>To license, regulate and inspect the manufacture, transportation, storage, sale and disposition of food of every kind.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(8))
 
 
 ### § (9). Foreign trade zones. {#s-9}
@@ -195,8 +177,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Chs. 52 and 53, Acts of 2009</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(9))
-
 
 ### § (10). Harbor, docks, and wharves. {#s-10}
 
@@ -204,8 +184,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To provide for the preservation of the navigation of the Patapsco River and tributaries, including the establishment of lines throughout the entire length of said Patapsco River and tributaries, beyond which lines no piers, bulkheads, wharf, pilings, structures, obstructions or extensions of any character may be built, erected, constructed, made or extended; to provide for and regulate the stationing, anchoring and moving of vessels or other watercraft, and to prevent any material, refuse or matter of any kind from being thrown into, deposited in or placed where the same may fall, or be washed, into said river or tributaries; to make surveys or charts of the Patapsco River and tributaries, and to ascertain the depth and course of the channels of the same; to erect and maintain and to authorize the erection and maintenance of, and to make such regulations as it may deem proper, respecting wharves, bulkheads, piers and piling, and the keeping of the same in repair, so as to prevent injury to navigation or health; to regulate the use of public wharves, docks, piers, bulkheads or pilings, and to lease or rent the same, and to impose and collect dockage from all vessels and watercraft lying at or using the same, and to collect wharfage and other charges upon all goods, wares, merchandise or other articles landed at, shipped from, stored on or passed over the same.</p>
 <p>Except with respect to docks or wharves owned by the City, nothing contained in this subsection (10) shall be construed to impose any duty upon the City to any person using said river, or any of its tributaries, in regard to the safety thereof, or to render the said City liable for any loss of life, or injury or damage to person or property, by reason of any obstruction in, or unsafe condition of, any part of said river, or of said tributaries, nor shall anything contained in this subsection (10) be so construed as to render the City or any municipal agency or officer, liable in damage or otherwise to any person for any omissions to pass or enforce any ordinance, regulation or resolution pursuant to the provisions hereof.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(10))
 
 
 ### § (11). Health and nuisances. {#s-11}
@@ -230,16 +208,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 274, Acts of 2016</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(11))
-
 
 ### § (12). Hospitals, etc. {#s-12}
 
 ```{=html}
 <p>To erect, establish and maintain hospitals, reformatories and almshouses, within or without the limits of the City.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(12))
 
 
 ### § (13). Jail. {#s-13}
@@ -248,16 +222,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Repealed by Ch. 59, Acts of 1991.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(13))
-
 
 ### § (14). Jones’ Falls. {#s-14}
 
 ```{=html}
 <p>To make such improvements in connection with Jones’ Falls as in its judgment are desirable, and for this purpose to change the course, lines, depth and boundaries of said stream, in whole or part; to compel any person owning property binding on Jones’ Falls, within the limits of the City, to wall up such property, so far as the same may bind on the Falls, with a good and sufficient wall to such height as in its judgment the public good may require, so as to secure the same and the adjacent property from the danger of being inundated with water; to compel any person to rebuild or repair any wall owned by him binding on the Falls within the limits of the City, and upon neglect or refusal so to do the City may cause the same to be done, in which event the City is authorized and empowered to recover the cost thereof by suit at law, which costs shall be a lien on the property so walled or repaired.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(14))
 
 
 ### § (15). Land development and redevelopment. {#s-15}
@@ -325,8 +295,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Chs. 190 and 738, Acts of 1973</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(15))
-
 
 ### § (15A). Industrial and economic development. {#s-15a}
 
@@ -361,16 +329,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 433, Acts of 1968; Ch. 648, Acts of 1981; Ch. 362, Acts of 1986; Ch. 354, Acts of 1988; Ch. 36, Acts of 2001</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(15A))
-
 
 ### § (16). Libraries, art galleries, and museums. {#s-16}
 
 ```{=html}
 <p>To maintain and support the Enoch Pratt Free Library, or other free public libraries, art galleries and museums.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(16))
 
 
 ### § (17). Licences. {#s-17}
@@ -379,16 +343,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To license, tax and regulate all businesses, trades, vocations or professions; to license, regulate, tax or suppress hawkers, peddlers, brokers, pawnbrokers, intelligence officers, street exhibitions or fortune-tellers.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(17))
-
 
 ### § (18). Markets. {#s-18}
 
 ```{=html}
 <p>To erect, regulate, control and maintain markets; to regulate and control the sale of all articles therein; and to lease or otherwise dispose of stalls therein.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(18))
 
 
 ### § (19). Municipal liens. {#s-19}
@@ -413,8 +373,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 502, Acts of 2005; Ch. 471, Acts of 2014</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(19))
-
 
 ### § (20). Parking facilities. {#s-20}
 
@@ -436,16 +394,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 216, Acts of 1976</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(20))
-
 
 ### § (21). Parks, recreational facilities, etc. {#s-21}
 
 ```{=html}
 <p>To establish, maintain, control and regulate parks, squares, monuments and recreation facilities.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(21))
 
 
 ### § (22). Park tax. {#s-22}
@@ -454,16 +408,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To reduce, from time to time, by ordinance, the tax on gross receipts of passenger street railway companies imposed under the provisions of Chapter 229 of the Acts of the General Assembly of 1882, provided that no reduction shall impair the right of the City to collect so much of said tax as may be necessary to meet its obligations under the provisions of Chapter 338 of the Acts of the General Assembly of 1904 and Ordinance No. 228 of the City, approved March 20, 1905.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(22))
-
 
 ### § (23). Peddlers. {#s-23}
 
 ```{=html}
 <p>The Mayor may grant permits, upon the payment of the sum of seven dollars to the City, to such number of poor persons as to him may seem proper, to peddle within the limits of the City, notions, and small wares without a license; provided, that the stock in trade of such peddler shall not exceed twenty-five dollars in value, and the said Mayor at any time may revoke any such permit.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(23))
 
 
 ### § (24). Pensions. {#s-24}
@@ -494,8 +444,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 702, Acts of 1982</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(24))
-
 
 ### § (25). Pensions for school cafeteria employees. {#s-25}
 
@@ -503,8 +451,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To grant to any and all persons regularly employed in, or associated with, any cafeteria system or department operated in connection with the public school system of the Mayor and City Council of Baltimore, such of the benefits and advantages of the Employees’ Retirement System of the City of Baltimore, established by Ordinance No. 553, approved February 1, 1926, and amendments thereto, as the Mayor and City Council of Baltimore may by ordinance provide, except that the Retirement System shall not be liable for the payment of any pensions or other benefits on account of said persons, for which reserves have not been previously created from funds contributed specifically for such benefits by the City or said persons.</p>
 <p>Provided, that any ordinance passed under authority of this paragraph may provide that every such person shall be entitled to credit for all service rendered prior to January 1, 1926, and for one half of all service rendered between January 1, 1926, and the date of admission to the said Employees’ Retirement System; provided, further, that any ordinance passed under authority hereof shall provide that any such person who shall become employed in, or associated with, any such cafeteria system or department after the passage of said ordinance shall, before becoming a member of the said Employees’ Retirement System of the City of Baltimore, first submit to a medical examination similar to that required for employees in the Classified Service of the City of Baltimore.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(25))
 
 
 ### § (26). Pensions for police and fire employees. {#s-26}
@@ -522,8 +468,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(26))
-
 
 ### § (27). Police power. {#s-27}
 
@@ -531,8 +475,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To have and exercise within the limits of Baltimore City all the power commonly known as the Police Power to the same extent as the State has or could exercise that power within the limits of Baltimore City; provided, however, that no ordinance of the City or act of any municipal officer, other than an act of the Mayor pursuant to <a href="article-iv.html">Article IV</a> of this Charter, shall conflict, impede, obstruct, hinder or interfere with the powers of the Police Commissioner.</p>
 <p class="charter-history"><strong>History:</strong> Chs. 39 and 40, Acts of 2009</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(27))
 
 
 ### § (28). Port development. {#s-28}
@@ -580,16 +522,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(28))
-
 
 ### § (29). Railroads. {#s-29}
 
 ```{=html}
 <p>To control and regulate the use of streets by street railways and railroads.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(29))
 
 
 ### § (30). Schools. {#s-30}
@@ -599,8 +537,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 105, Acts of 1997</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(30))
-
 
 ### § (31). Sewers. {#s-31}
 
@@ -608,8 +544,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To establish, maintain, operate and control sewers, drains and sewage disposal facilities and to make charges for the use of said sewers, drains and sewage disposal facilities; to make any and all costs and expenses incurred in or about the regulation, making or repairing of private sewers or drains a lien upon the interests of the owners in the real and leasehold property served by said sewers or drains, and to provide for the enforcement of such liens by sale of the property, whether real or leasehold.</p>
 <p>No charge shall be made by any municipal officer or agency for inspecting any work in the public streets, lanes or alleys done in connection with private sewers or drains.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(31))
 
 
 ### § (32). Storm water courses and flood areas. {#s-32}
@@ -628,8 +562,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The powers herein granted to the Mayor and City Council of Baltimore shall also apply to said natural water courses that may have been heretofore or may hereafter be relocated, straightened or established within the City of Baltimore.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(32))
 
 
 ### § (33). Stocks, loans, and finance. {#s-33}
@@ -660,8 +592,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To provide in any ordinance submitting to the voters of Baltimore City for their approval any loan authorized by the General Assembly of Maryland that the bonds, stocks or certificates of indebtedness of the City to be issued in respect to such loan may, when actually issued, provide for a rate of interest per annum less than that which may have been stated in such ordinance.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(33))
 
 
 ### § (34). Streets, bridges, and tunnels. {#s-34}
@@ -711,8 +641,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 497, Acts of 1977</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(34))
-
 
 ### § (34A). Parking at intersections. {#s-34a}
 
@@ -720,8 +648,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To regulate the distance from a crosswalk at an intersection in Baltimore City within which a person may not stand or park a vehicle.</p>
 <p class="charter-history"><strong>History:</strong> Ch. 507, Acts of 2006</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(34A))
 
 
 ### § (35). Streets, lanes, alleys, etc. {#s-35}
@@ -758,8 +684,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 423, Acts of 2004; Chs. 584 &amp; 585, Acts of 2022, effective Oct.1, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(35))
-
 
 ### § (35A). Cable television franchises. {#s-35a}
 
@@ -767,8 +691,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To grant one or more exclusive or nonexclusive franchises for a community antenna system or other cable television system that utilizes any public right of way, highway, street, road, lane, alley, or bridge, to impose franchise fees, and to establish rates, rules, and regulations for franchises granted under <a href="article-ii.html#s-35a">this section</a>.</p>
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Ch. 562, Acts of 1982; For a description of what constitutes a “cable television system” for purposes of <a href="article-ii.html#s-35a">this section</a>, see Section 2 of Chapter 562, Acts of 1982.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(35A))
 
 
 ### § (36). Public or private alley. {#s-36}
@@ -793,8 +715,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(36))
-
 
 ### § (37). Sundays. {#s-37}
 
@@ -804,8 +724,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 864, Acts of 1980</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(37))
-
 
 ### § (38). Surveyor. {#s-38}
 
@@ -813,8 +731,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To prescribe the duties and compensation of the City Surveyor; provided, however, that if at any time the election of such officer shall no longer be required by the Constitution of Maryland, said office may be abolished by ordinance.</p>
 <p class="charter-history"><strong>Editor's Notes:</strong> The Office of City Surveyor was abolished by Ordinance 74-625.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(38))
 
 
 ### § (39). Property taxes. {#s-39}
@@ -835,8 +751,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Laundry machinery, when employed or used in the business of laundering, shall be classed as used in the business of manufacturing within the purposes of this paragraph.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(39))
 
 
 ### § (40). Additional taxing powers. {#s-40}
@@ -904,16 +818,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 665, Acts of 1996; Chs. 611 and 612, Acts of 1997; Ch. 387, Acts of 2001; Ch. 151, Acts of 2007; Ch. 197, Acts of 2012; Ch. 510, Acts of 2013; Ch. 597, Acts of 2017</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(40))
-
 
 ### § (41). Theatrical and public amusements. {#s-41}
 
 ```{=html}
 <p>To license, regulate and restrain theatrical and other public amusements.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(41))
 
 
 ### § (42). Traffic. {#s-42}
@@ -938,8 +848,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(42))
-
 
 ### § (43). Vehicles. {#s-43}
 
@@ -947,16 +855,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To license and regulate all vehicles, other than motor vehicles owned or used for business or pleasure or kept for hire in the City; and to license and regulate the employment of all hackmen, draymen, wagoners, carters, porters and watermen, plying for hire within the limits of the City.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(43))
-
 
 ### § (44). Veterans. {#s-44}
 
 ```{=html}
 <p>To provide by ordinance for such additional credits to honorably discharged war veterans, as may be recommended to the Mayor and City Council of Baltimore by the Civil Service Commission of Baltimore City, as being just and appropriate to the several positions in the Classified Civil Service, in determining the relative standing of persons upon eligible lists for such positions.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(44))
 
 
 ### § (45). Water. {#s-45}
@@ -966,16 +870,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To turn off and discontinue the supply of water furnished by the Mayor and City Council of Baltimore to any person or property located in or outside of the City of Baltimore because of the nonpayment of any fee or charge for water supplied or for work done in connection with the furnishing of such water until such unpaid fee or charge is fully paid; and to regulate, in or outside of the City of Baltimore, the installation of water supply service connections from the Baltimore City water supply system in such manner as to prevent the existence of cross connections between such source of supply and any private system of water supply that may exist within the premises served.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(45))
-
 
 ### § (46). Weights and measures. {#s-46}
 
 ```{=html}
 <p>To fix the standard of weights and measures in conformity with the standard in the rest of the State and to enforce the same by inspection.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(46))
 
 
 ### § (47). General welfare. {#s-47}
@@ -988,8 +888,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
         </p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(47))
-
 
 ### § (48). Fines and penalties. {#s-48}
 
@@ -998,8 +896,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 524, Acts of 1982; Ch. 551, Acts of 1997</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(48))
-
 
 ### § (49). Constitutional and other powers. {#s-49}
 
@@ -1007,8 +903,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The voters of Baltimore City shall have and are hereby expressly granted the power to make such changes in Sections <a href="article-xi.html#s-1">1</a> to <a href="article-xi.html#s-6">6</a>, inclusive, of <a href="article-xi.html">Article XI of the Constitution of the State of Maryland</a>, as they may deem best; such power shall be exercised only by the adoption or amendment of a charter as provided in <a href="article-xi-a.html">Article XI-A of said Constitution</a>; provided, that nothing contained in this subsection (49) shall be construed to authorize the exercise of any powers in excess of those conferred by the Legislature upon said City, as set forth in <a href="article-xi-a.html">Article XI-A of said Constitution</a>; and expressly provided, further, that nothing herein contained shall give to the City or to the inhabitants thereof the right to initiate any legislation, laws or ordinances relating to the classification and taxation of real and personal property within the limits of said City.</p>
 <p>The powers heretofore or hereafter granted to the City not included in <a href="article-ii.html">Article II</a> of its Charter shall, nevertheless, be exercisable by said City.  Nothing contained in this subsection (49) shall be construed to take away or limit any power vested in the City, under the laws existing prior to June 1, 1945.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(49))
 
 
 ### § (50). Revenue bonds and obligations. {#s-50}
@@ -1132,8 +1026,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 509, Acts of 1972; Ch. 657, Acts of 1974; Ch. 400, Acts of 1993</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(50))
-
 
 ### § (51). Residential mortgage loan program. {#s-51}
 
@@ -1175,8 +1067,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Without in any way limiting the generality of any other provisions of the Charter of the Mayor and City Council of Baltimore, to borrow money by the issuance of its revenue bonds and limited obligations pursuant to <a href="article-ii.html">Article II</a>, subsection (50), of this Charter in order to obtain the moneys necessary to effect the residential mortgage loan program hereby authorized.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(51))
 
 
 ### § (52). Owner-occupancy residential mortgage loan program. {#s-52}
@@ -1221,16 +1111,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 809, Acts of 1974</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(52))
-
 
 ### § (53). Nonresident owners, notice of violation and appointment of receiver. {#s-53}
 
 ```{=html}
 <p>Repealed by Ch. 467, Acts of 1993.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(53))
 
 
 ### § (54). Nonresident owners, notice of code violation and appointment of receiver. {#s-54}
@@ -1256,8 +1142,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Ch. 597, Acts of 1975; Ch. 467, Acts of 1993</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(54))
 
 
 ### § (55). Municipal employee relations. {#s-55}
@@ -1339,8 +1223,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 704, Acts of 1985</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(55))
-
 
 ### § (56). Volunteer workers. {#s-56}
 
@@ -1348,8 +1230,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To provide in its discretion such benefits as may be deemed appropriate to city volunteer workers for injury or death as a result of performing tasks assigned to them as city volunteer workers and to indemnify city volunteer workers against claims and suits under such conditions as may be prescribed.</p>
 <p class="charter-history"><strong>History:</strong> Ch. 40, Acts of 1979</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(56))
 
 
 ### § (57). Loans for industrial purposes. {#s-57}
@@ -1361,8 +1241,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>In connection with such loans and guarantees, the City may make loans directly for qualifying projects and may guarantee or insure loans made by third parties for such projects, including loans made in the form of the acquisition by a third party of revenue bonds or any other evidence of indebtedness.</p>
 <p class="charter-history"><strong>History:</strong> Ch. 454, Acts of 1980</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(57))
 
 
 ### § (58). Limitations on competition. {#s-58}
@@ -1446,8 +1324,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 397, Acts of 1983</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(58))
-
 
 ### § (59). Loans and loan guarantees. {#s-59}
 
@@ -1487,8 +1363,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Ch. 645, Acts of 1984</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(59))
 
 
 ### § (60). Reports of loans, loan guarantees, and loan insurance. {#s-60}
@@ -1557,8 +1431,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Ch. 749, Acts of 1984</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(60))
 
 
 ### § (61). Downtown Commercial District Management Authority. {#s-61}
@@ -1723,8 +1595,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Ch. 604, Acts of 1992; Ch. 36, Acts of 2022; Subsection (b)(1) was added by Chapter 36, Acts of 2022, effective July 1, 2022.,  Section 3 of Chapter 36 provides that the subsection “shall remain effective for a period of 5 years and, at the end of June 30, 2027, ... with no further action required by the General Assembly, shall be abrogated and of no further force and effect.”</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(61))
 
 
 ### § (62). Tax increment financing. {#s-62}
@@ -2152,8 +2022,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Ch. 624, Acts of 1994; Chs. 9 and 10, Acts of 1996; Ch. 66, Acts of 2000; Ch. 170, Acts of 2001; Ch. 405, Acts of 2004; Ch. 338, Acts of 2008; Ch. 544, Acts of 2008; Ch. 624, Acts of 2013; Chs. 530 and 531, Acts of 2014</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(62))
 
 
 ### § (62A). Special Tax Districts. {#s-62a}
@@ -2705,8 +2573,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 626, Acts of 2001; Ch. 510, Acts of 2005; Ch. 544, Acts of 2008; Ch. 624, Acts of 2013; Chs. 530 and 531, Acts of 2014</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(62A))
-
 
 ### § (63). Community Benefits District Authorities. {#s-63}
 
@@ -3006,8 +2872,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 732, Acts of 1994; Ch. 3, Acts of 1995; Ch. 10, Acts of 1996; Ch. 655, Acts of 1997; Ch. 89, Acts of 2000; Ch. 475, Acts of 2003; Chs. 226 and 227, Acts of 2018</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(63))
-
 
 ### § (64). “Child First” Authority. {#s-64}
 
@@ -3082,8 +2946,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Ch. 642, Acts of 1996</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(64))
 
 
 ### § (65). Land Bank Authority. {#s-65}
@@ -4305,8 +4167,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 624, Acts of 2009</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(65))
-
 
 ### § (66). Community Benefits District Authority – East Baltimore. {#s-66}
 
@@ -4645,8 +4505,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Ch. 645, Acts of 2010; Chapter 645, Acts of 2010, which enacted <a href="article-ii.html#s-66">this section</a>, designated it as <a href="article-ii.html#s-65">Article II, § (65)</a>.  Inasmuch as § (65) was already occupied, the new section is codified here as <a href="article-ii.html#s-66">Article II, § (66)</a>.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(66))
-
 
 ### § (67). Investment in Our Youth (IO-YOUth) Pilot Program. {#s-67}
 
@@ -4853,8 +4711,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Ch.  655, Acts of 2012; Chapter 655, Acts of 2012, authorized this pilot program, effective for a 3-year period from October 1, 2012, through September 30, 2015.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(67))
-
 
 ### § (68). Maryland Public Ethics Law. {#s-68}
 
@@ -4862,8 +4718,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>To exercise the power and authority contained in Title 5, Subtitle 8, Part II of the <a href="article-ggp.html">General Provisions Article of the Annotated Code of Maryland</a>.</p>
 <p class="charter-history"><strong>History:</strong> Ch. 104, Acts of 2014</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(68))
 
 
 ### § (69). South Baltimore Gateway Community Impact District Authority. {#s-69}
@@ -5220,8 +5074,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Ch. 314, Acts of 2016; Ch. 751, Acts of 2018</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(69))
-
 
 ### § (70). Tourism Improvement District. {#s-70}
 
@@ -5500,8 +5352,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Chs. 641 and 642, Acts of 2018</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(70))
-
 
 ### § (71). Commission to Restore Trust in Policing. {#s-71}
 
@@ -5702,5 +5552,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
           <a href="article-ii.html#s-71">This section</a> was enacted by Ch. 753, Acts of 2018, effective May 15, 2018. Section 4 of that Act made the enactment subject to a sunset clause under which the section would terminate on its own terms, with no further action by the General Assembly required. Chs. 459 and 460, Acts of 2019, amended <a href="article-ii.html#s-71">subsections (h)</a> and <a href="article-ii.html#s-71">(m)</a> of <a href="article-ii.html#s-71">this section</a> and, in the same Acts, extended that sunset period from 1 year and 8 months to 2 years and 8 months from the date of original enactment, which fixed the abrogation date above.
         </p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II/(71))

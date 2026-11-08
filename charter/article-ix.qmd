@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -19,8 +19,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Charter in effect immediately prior to the general election of November 3, 1994, shall for the purposes of <a href="article-ix.html">this </a><a href="article-ix.html">Article IX</a> be known as the old Charter.  The Charter as amended at said general election shall be known as the new Charter.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/1)
-
 
 ### § 2. Final effective date. {#s-2}
 
@@ -28,16 +26,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The new Charter shall, except as hereinafter provided, become fully effective as to all its provisions on July 1, 1996.  All municipal officials shall do such acts as may be necessary or convenient in preparation for the new Charter’s becoming effective.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/2)
-
 
 ### § 3. Advanced effective dates. {#s-3}
 
 ```{=html}
 <p>By resolution, the Board of Estimates may make effective any provision or provisions of the new Charter as of any date from and after the thirtieth day after the election at which the new Charter is approved by the voters and prior to July 1, 1996, in which case, to the extent of any inconsistency or conflict between such provision or provisions of the new Charter and the old Charter, the provision or provisions of the new Charter shall prevail.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/3)
 
 
 ### § 4. Existing employees. {#s-4}
@@ -53,16 +47,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/4)
-
 
 ### § 5. Records and funds. {#s-5}
 
 ```{=html}
 <p>The books, records, property and funds of any municipal agency abolished or superseded by the new Charter are hereby transferred to and vested in the municipal agency to which the powers, duties and functions of the agency so abolished or superseded are transferred; and whenever part of the powers, duties and functions of any municipal agency are transferred by the new Charter to another municipal agency, then the books, records, property and funds relating to the powers, duties, and functions so transferred shall be transferred to and vested in the agency to which such transfer is made.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/5)
 
 
 ### § 6. Ordinances, orders, regulations. {#s-6}
@@ -72,8 +62,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>References in such ordinances, orders, rules and regulations to any municipal agency existing prior to the applicable effective date of the new Charter, shall be deemed to refer to the municipal agency to whom its powers and duties shall have been assigned by the new Charter.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/6)
-
 
 ### § 7. Contracts and obligations. {#s-7}
 
@@ -81,13 +69,9 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>All contracts, leases and obligations to which the City is a party at the applicable effective date of the new Charter shall remain in full force and effect according to their terms, and shall be performed by or for that municipal agency which, by the new Charter or applicable ordinances, shall have jurisdiction over the subject matter of such contracts, leases or obligations.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/7)
-
 
 ### § 8. New terms for boards and commissions. {#s-8}
 
 ```{=html}
 <p>The first terms of office provided by the new Charter for members of boards and commissions that are coterminous with the Mayor’s term of office shall begin on the last day of December, 1995, and the first four year terms of office provided by the new Charter for board and commission members that are staggered with the Mayor’s term of office shall begin two years thereafter.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IX/8)

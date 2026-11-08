@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -31,8 +31,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/1)
-
 
 ### § 2. Term. {#s-2}
 
@@ -47,8 +45,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/2)
 
 
 ### § 3. Composition. {#s-3}
@@ -104,8 +100,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/3)
-
 
 ### § 4. Duties. {#s-4}
 
@@ -120,8 +114,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/4)
 
 
 ### § 5. Report to the Mayor and City Council. {#s-5}
@@ -138,8 +130,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/5)
-
 
 ### § 6. Dissolution. {#s-6}
 
@@ -147,5 +137,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>On completing the activities required in §5 of <a href="article-xi.html">this article</a>, the Commission shall be deemed dissolved and its work completed.</p>
 <p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/6)

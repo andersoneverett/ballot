@@ -28,13 +28,3 @@ The Charter is Baltimore's governing document, often described as the City's con
 <a class="charter-card" href="article-xi.html"><span class="charter-card-kicker">Article XI</span><span class="charter-card-title">Charter Review Commission</span><span class="charter-card-text">The Charter Review Commission.</span><span class="charter-card-meta">6 sections</span></a>
 </div>
 ```
-
-## The 2026 ballot questions and the charter
-
-This copy of the charter is current through October 1, 2026, so it does not yet include the amendments from the November 3, 2026 election. These are the places in the charter that we have confirmed the questions change:
-
-- **Question E (contract bidding):** [Article VI](article-vi.html#s-11), § 11, which covers bid awards, tie bids and bonds. Those rules are removed on November 7, 2028 unless the city replaces them sooner. [Read the guide](../elections/2026/general/index.qmd#question-baltimore-e).
-
-- **Question F (budget, vetoes and the Board of Estimates):** [Article III](article-iii.html#s-15) § 15, [Article IV](article-iv.html#s-5) § 5, and the budget and Board of Estimates sections of [Article VI](article-vi.html). Most changes start December 3, 2026. [Read the guide](../elections/2026/general/index.qmd#question-baltimore-f).
-
-The exact wording of the amendments is in the [State Board of Elections amendment text (PDF)](https://elections.maryland.gov/elections/2026/Baltimore_City_Proposed_Charter_Amendment_Text.pdf). Section references for Questions G, H and I are not listed here yet.

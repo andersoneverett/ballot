@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -18,8 +18,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 ```{=html}
 <p>The inhabitants of the City of Baltimore are a corporation, by the name of the “Mayor and City Council of Baltimore,” and by that name shall have perpetual succession, may sue and be sued, may purchase and hold real, personal and mixed property and dispose of the same for the benefit of the City, as herein provided, and may have and use a common seal, which may be altered at pleasure.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/1)
 
 
 ### § 2. Definitions. {#s-2}
@@ -89,8 +87,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/2)
-
 
 ### § 3. Property rights; Trusts; Gifts. {#s-3}
 
@@ -100,16 +96,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The City may also accept grants for its corporate purposes from any government, governmental agency or person.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/3)
-
 
 ### § 4. Condemnation interests. {#s-4}
 
 ```{=html}
 <p>Whenever the City shall condemn any land for any public or municipal purpose, in all cases the absolute and unqualified fee simple title to such land, or, when the proceeding is in personam, all the right, title and interest of the owner or owners who are made parties to the proceeding, if they should not be the owners of the entire fee simple title, shall be condemned and acquired; so that neither the land nor any interest therein, shall under any circumstances revert to the person or persons who shall be the owners thereof at the time of the condemnation, or who shall be parties to the proceeding in personam, nor to any person or persons claiming under him, her or them; provided, however, that when the condemnation shall be provided for by ordinance, the City may determine, and in the ordinance providing for the condemnation declare, that an interest, less than the fee simple interest, for a fixed and limited period of time, or some other limited interest, will suffice for the purpose or purposes for which the property is to be acquired, and under such circumstances, only such interest shall be condemned and acquired.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/4)
 
 
 ### § 5. Uniform application throughout City; Public ways. {#s-5}
@@ -118,16 +110,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The Charter shall apply in every section of Baltimore City without distinction because of the date at which it became a part of the City, and all existing streets, avenues, roads, alleys and bridges within the City, heretofore dedicated and accepted or condemned or otherwise established as roads or streets by any then proper public authority, are in all respects validly constituted public streets and highways of the City.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/5)
-
 
 ### § 6. Uniform taxation. {#s-6}
 
 ```{=html}
 <p>The taxes levied by the City with respect to ownership of the same class of property or property rights, shall be uniform in rate throughout the entire City.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/6)
 
 
 ### § 7. Records; Reports. {#s-7}
@@ -155,16 +143,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/7)
-
 
 ### § 8. Official time. {#s-8}
 
 ```{=html}
 <p>The official time of the City of Baltimore shall conform to standard time based upon the time of the seventy-fifth meridian, except that, from two o’clock a.m. of the last Sunday in April until two o’clock a.m. of the last Sunday in September of each year, the official time throughout the City of Baltimore shall be advanced one hour, and all courts, public offices, legal and official proceedings, insofar as the same are subject to or under the control of the Mayor and City Council of Baltimore, shall be regulated thereby, and all time shown by the public clocks shall agree therewith.  Provided, however, that the Mayor and City Council by ordinance passed not less than fifteen days before the change would become effective, may extend the period during which the one hour variation from standard time shall be effective in any year or years.  The extension may be to change the advance in time up to two o’clock a.m. on the last Sunday in March, or back to two o’clock a.m. on the last Sunday in October, or both such changes, or any portion or portions of either.  Any such extension may be provided only if other municipalities or sections of the United States shall have made such a change, and in the opinion of the Mayor and City Council thereby have caused inconvenience and annoyance to the commercial, economic, industrial or social affairs of the residents of Baltimore City.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/8)
 
 
 ### § 9. Inner Harbor Park. {#s-9}
@@ -173,8 +157,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>There is hereby dedicated to public park uses for the benefit of this and future generations of the City of Baltimore and the State of Maryland the portion of the City that lies along the north, west and south shores of the Inner Harbor, south of Pratt Street to the water’s edge, east of Light Street to the water’s edge and north of Key Highway to the water’s edge, from the World Trade Center around the shoreline of the Inner Harbor to and including Rash Field, except that, in order to provide eating places and other commercial uses, areas totalling not more than 3.2 acres plus access thereto, within the dedicated space and north of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that in order to provide outdoor eating places for the areas known as West Shore Park and Rash Field, areas totalling not more than 0.5 acres within the dedicated space and south of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that an area of not more than 3.4 acres shall be set aside for use by the Maryland Science Center, plus access thereto.</p>
 <p class="charter-history"><strong>History:</strong> Res. 16-029, ratified Nov. 8, 2016</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/9)
 
 
 ### § 10. Affordable housing funds. {#s-10}
@@ -226,8 +208,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 06-015, ratified Nov. 7, 2006</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/10)
 
 
 ### § 11. Sustainability and related funds. {#s-11}
@@ -283,8 +263,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 10-021, ratified Nov. 2, 2010</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/11)
 
 
 ### § 12. Special funds for education. {#s-12}
@@ -347,8 +325,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 11-032, ratified Nov. 9, 2011</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/12)
 
 
 ### § 13. Children and Youth Fund. {#s-13}
@@ -459,8 +435,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 16-026, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/13)
 
 
 ### § 14. Affordable housing trust fund. {#s-14}
@@ -658,8 +632,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Initiative “Question J”, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/14)
-
 
 ### § 15. Special fund for fair elections. {#s-15}
 
@@ -825,8 +797,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 18-009, ratified Nov. 6, 2018; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/15)
-
 
 ### § 16. Special fund for equity assistance. {#s-16}
 
@@ -893,8 +863,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-014, ratified Nov. 6, 2018</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/16)
-
 
 ### § 17. Supplementary criminal apprehension and conviction fund. {#s-17}
 
@@ -949,8 +917,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 22-001, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/17)
 
 
 ### § 19. Dante Barksdale career technology apprenticeship fund. {#s-19}
@@ -1013,5 +979,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 22-002, ratified Nov. 8, 2022</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/19)

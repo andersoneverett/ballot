@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII), October 15, 2026 release (publication 2026-09-28).
 :::
 
 
@@ -22,8 +22,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 18-013, ratified Nov. 6, 2018; Res. 20-027, ratified Nov. 8, 2022</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/1)
-
 
 ### § 2. Procedures; Compensation; Minor privileges. {#s-2}
 
@@ -31,8 +29,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Whenever an ordinance is introduced into the City Council pursuant to the provisions of <a href="article-viii.html#s-1">Section 1 of this Article VIII</a>, which ordinance shall contain all the terms and conditions of the proposed grant, including a provision as to the rates, fares and charges, if the grant provides for the charging of rates, fares or charges, and a provision that the franchise or right shall be executed and enjoyed within six months after the grant, it shall, after the first reading, be referred forthwith to the Board of Estimates.  The said Board shall make diligent inquiry as to the money value of said franchise or right proposed to be granted and the adequacy of the proposed compensation to be paid therefor to the City as offered in said ordinance, and the propriety of the terms and conditions of said ordinance, and said board is empowered to increase the compensation to be paid therefor to the City and to alter the terms and conditions of said ordinance, including the space in or over which the franchise or right is proposed to be granted and the person to whom the franchise or right shall be granted, provided such alterations are not inconsistent with the requirements and provisions of the Charter, and it shall be the duty of said Board to fix in said ordinance the said compensation at the largest amount it may be able to obtain, by advertising or otherwise, for said franchise or right, and no grant thereof by the City Council shall be made except for the compensation and on the terms approved by vote or resolution of the said Board, entered in the minutes or records of said Board and attached to said ordinance with the signature of a majority of said Board signed thereto, and in the absence of such vote or resolution of said Board said proposed ordinance may not be passed but shall lapse and be void.</p>
 <p>Provided, that the right to use the streets, or other public property, by any person for steps, porticoes, bay windows, bow windows, show windows, signs, columns, piers, or other projections or structural ornaments of any character except so far as the same may be prohibited by law, and covered vaults, covered areaways, drains, drainpipes, or any other private purpose not prohibited by law or ordinance and not being a franchise or right requiring a formal grant by ordinance, may be granted by the Board of Estimates for such an amount of money and upon such terms as the said Board may consider right and proper without the necessity of an ordinance or advertising.  The applicant for any such right shall make written application therefor to the Board of Estimates, stating therein the use desired and the amount he proposes to pay therefor.  Before filing the application with the Board of Estimates, the applicant shall serve copies thereof on the owners of the adjoining properties.  The use applied for shall be enjoyed only on the payment of the consideration fixed by said Board and on the terms and conditions prescribed by it in writing, which terms and conditions, including the consideration charged therefor, may be changed from time to time by the Board — but with respect to “permanent” minor privileges, as defined in <a href="article-viii.html#s-9">Section 9 of this Article VIII</a> of the Charter, only after reasonable notice to the holder of the privilege and opportunity to him to be heard before the Board or its designated representative — and provided further, that all grants of minor privileges shall also be subject to the provisions of said <a href="article-viii.html#s-9">Section 9 of this Article VIII</a>.  The Board of Estimates may delegate to any department or other municipal agency, and such department or other municipal agency shall exercise, any administrative powers and duties relating to minor privileges.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/2)
 
 
 ### § 3. Duration. {#s-3}
@@ -44,16 +40,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Every grant of any such franchise or right shall make provision, by way of forfeiture or otherwise, for the purpose of compelling compliance with the terms of the grant, and to secure efficiency of public service at reasonable rates, and the maintenance of the property in good condition, throughout the full term of the grant.  The grant shall also specify the mode of determining the valuations and revaluations which may be provided for therein.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/3)
-
 
 ### § 4. Street railways. {#s-4}
 
 ```{=html}
 <p>The Board of Estimates, subject to ratification and approval by ordinance, is empowered to agree with any street railway company for the surrender of any of its franchises, easements or rights-of-way, and in substitution for the franchise, easement or right-of-way so surrendered to grant a new franchise, easement or right-of-way on any street, and which may be for the same duration as the franchise, easement or right-of-way surrendered; and to provide, in appropriate cases, for a graduated park tax, as prescribed by Chapter 566 of the Acts of the General Assembly of 1906.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/4)
 
 
 ### § 5. Trackless trolleys. {#s-5}
@@ -62,16 +54,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The City may, by ordinance, permit any street railway company to operate under its existing franchises vehicles propelled by electricity furnished by overhead wires but not operated upon rails, and any such grant heretofore made is hereby ratified and confirmed.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/5)
-
 
 ### § 6. Advertising. {#s-6}
 
 ```{=html}
 <p>Before any grant of the franchises or right to use any street, or other public property, either on, above or below the surface of the same shall be made, the proposed specific grant, except as provided in the second paragraph of <a href="article-viii.html#s-2">Section 2 of this Article VIII</a>, embodied in the form of a brief advertisement, prepared by the Board of Estimates, at the expense of the applicant, shall be published by the Comptroller for at least three days in one daily newspaper published in Baltimore City to be designated by the Board of Estimates, and all the provisions of the first paragraph of <a href="article-viii.html#s-2">Section 2 of this Article VIII</a> shall be complied with.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/6)
 
 
 ### § 7. Reservation of rights. {#s-7}
@@ -80,16 +68,12 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>When the grant of a franchise or right is made in compliance with the foregoing sections, the City shall not part with, but shall expressly reserve the right and duty at all times to exercise in the interest of the public full municipal superintendence, regulation and control in respect to all matters connected with said grant and not inconsistent with the terms thereof.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/7)
-
 
 ### § 8. Renewals. {#s-8}
 
 ```{=html}
 <p>Sections <a href="article-viii.html#s-1">1</a>, <a href="article-viii.html#s-2">2</a>, <a href="article-viii.html#s-3">3</a>, <a href="article-viii.html#s-6">6</a>, and <a href="article-viii.html#s-7">7</a> of <a href="article-viii.html">this </a><a href="article-viii.html">Article VIII</a> shall apply to any renewal or extension of a franchise, whether to the same grantee or to others.</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/8)
 
 
 ### § 9. Minor privileges. {#s-9}
@@ -114,5 +98,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>In issuing minor privileges the Board of Estimates shall designate the same as being “temporary” or “permanent” as defined in <a href="article-viii.html#s-9">this section</a>.</p>
 </div>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VIII/9)

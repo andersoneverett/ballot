@@ -8,7 +8,7 @@ page-navigation: true
 
 
 ::: {.charter-note}
-Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV), October 15, 2026 release (publication 2026-09-28). Parts of this article were changed by the November 2026 ballot questions and may not appear here yet.
 :::
 
 
@@ -46,8 +46,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
         </p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/1)
-
 
 ### § 2. Removal; Vacancy; Absence. {#s-2}
 
@@ -67,8 +65,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>History:</strong> Res. 20-024, ratified Nov. 3, 2020</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/2)
-
 
 ### § 3. Staff. {#s-3}
 
@@ -83,8 +79,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/3)
 
 
 ### § 4. General powers. {#s-4}
@@ -106,8 +100,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/4)
 
 
 ### § 5. Approval or veto of legislation. {#s-5}
@@ -162,8 +154,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 </div>
 <p class="charter-history"><strong>History:</strong> Res. 20-020 and Res. 20-21, ratified Nov. 3, 2020</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/5)
 
 
 ### § 6. Appointments of municipal officers. {#s-6}
@@ -231,8 +221,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021; Res. 22-004, ratified Nov. 8, 2022; See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by <a href="article-glg.html#s-1-201">State Local Government Article, § 1-201</a>.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/6)
-
 
 ### § 7. Appointment of municipal employees. {#s-7}
 
@@ -241,8 +229,6 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>The head of each municipal agency shall designate the functions and prescribe the duties of the several assistants, clerks and employees of such agency, consistent with the Charter and with the classification of such assistant, clerk or employee as previously determined by the Civil Service Commission.</p>
 ```
 
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/7)
-
 
 ### § 8. Minority party representation. {#s-8}
 
@@ -250,5 +236,3 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 <p>Except as otherwise provided in the Charter or by other law, at least one member, in the case of commissions or boards composed of not more than five members, and at least two members, in the case of commissions or boards composed of more than five members, shall be registered voters in Baltimore City who are not registered as members of the majority party.  The “majority party” shall be that political party which had the largest number of registered voters at the time of the municipal election next preceding the date of the appointment.</p>
 <p class="charter-history"><strong>History:</strong> Res. 12-005, ratified Nov. 6, 2012</p>
 ```
-
-[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/IV/8)
