@@ -5,7 +5,7 @@ toc-title: "On The Ballot"
 toc-depth: 3
 ---
 
-All nine Baltimore City measures passed according to [unofficial election returns](https://elections.maryland.gov/elections/2026/general_Results/gen_qresults_2026_by_county_3.html), checked November 5, 2026. The source was last refreshed at 10:35 a.m. that day. These are election outcomes, not a record of completed implementation.
+All nine Baltimore City measures passed according to [unofficial election returns](https://elections.maryland.gov/elections/2026/general_Results/gen_qresults_2026_by_county_3.html), checked November 8, 2026. These are election outcomes, not a record of completed implementation.
 
 ```{r}
 #| results: asis
