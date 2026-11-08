@@ -1,5 +1,9 @@
 ---
 title: "Article VI — Board of Estimates"
+toc: true
+toc-title: "In This Article"
+toc-depth: 3
+page-navigation: true
 ---
 
 
@@ -7,27 +11,6 @@ title: "Article VI — Board of Estimates"
 Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
 :::
 
-
-## Sections
-
-- [§ 1. Establishment and organization](#s-1)
-- [§ 2. Powers and duties](#s-2)
-- [§ 3. Fiscal year; Budget schedule](#s-3)
-- [§ 4. Assistance from Finance Director and Planning Commission](#s-4)
-- [§ 5. Preparation of proposed Ordinance of Estimates](#s-5)
-- [§ 6. Adoption of proposed Ordinance of Estimates](#s-6)
-- [§ 7. Enactment of Ordinance of Estimates](#s-7)
-- [§ 8. Deficiencies; Supplementary appropriations](#s-8)
-- [§ 9. Uses of appropriations](#s-9)
-- [§ 10. Salaries](#s-10)
-- [§ 11. Procurement](#s-11)
-- [§ 12. Salary and wage scales; Work conditions](#s-12)
-- [§ 13. Command appearance of municipal officers](#s-13)
-- [§ 14. Bonds of municipal officers](#s-14)
-- [§ 15. Claims against or by City](#s-15)
-- [§ 16. Salaries of State’s Attorney’s Office](#s-16)
-- [§ 17. Expenditures for new improvements](#s-17)
-- [§ 18. Water, sanitary wastewater, and stormwater utilities](#s-18)
 
 
 ### § 1. Establishment and organization. {#s-1}

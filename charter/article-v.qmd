@@ -1,5 +1,9 @@
 ---
 title: "Article V — Comptroller"
+toc: true
+toc-title: "In This Article"
+toc-depth: 3
+page-navigation: true
 ---
 
 
@@ -7,24 +11,6 @@ title: "Article V — Comptroller"
 Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/V), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
 :::
 
-
-## Sections
-
-- [§ 1. Election, term, etc.; Deputy Comptroller; Staff](#s-1)
-- [§ 2. Removal; Vacancy](#s-2)
-- [§ 3. General duties](#s-3)
-- [§ 4. Department of Real Estate – Established](#s-4)
-- [§ 5. Department of Real Estate – Duties](#s-5)
-- [§ 6. Real Property Account](#s-6)
-- [§ 7. Department of Audits – Established](#s-7)
-- [§ 8. Department of Audits – General powers and duties](#s-8)
-- [§ 9. Department of Audits – Comprehensive annual financial report](#s-9)
-- [§ 10. Department of Audits – Independent auditors](#s-10)
-- [§ 11. Department of Audits – Biennial audits of principal agencies](#s-11)
-- [§ 12. Department of Accounts Payable– Established](#s-12)
-- [§ 13. Department of Accounts Payable – General powers and duties](#s-13)
-- [§ 14. Department of Accounts Payable – Withdrawals; Signatures for checks](#s-14)
-- [§ 15. Department of Accounts Payable – Reporting](#s-15)
 
 
 ### § 1. Election, term, etc.; Deputy Comptroller; Staff. {#s-1}

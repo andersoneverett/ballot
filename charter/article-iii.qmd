@@ -1,5 +1,9 @@
 ---
 title: "Article III — City Council"
+toc: true
+toc-title: "In This Article"
+toc-depth: 3
+page-navigation: true
 ---
 
 
@@ -7,24 +11,6 @@ title: "Article III — City Council"
 Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/III), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
 :::
 
-
-## Sections
-
-- [§ 1. Legislative Department; Qualification and salary of members](#s-1)
-- [§ 2. Members](#s-2)
-- [§ 3. President](#s-3)
-- [§ 4. Vacancy in presidency](#s-4)
-- [§ 5. Emergency vacancies](#s-5)
-- [§ 6. Individual vacancies](#s-6)
-- [§ 7. Council districts](#s-7)
-- [§ 8. Sessions](#s-8)
-- [§ 9. Floor privileges of municipal officers](#s-9)
-- [§ 10. Procedures; Council officers](#s-10)
-- [§ 11. Legislative powers](#s-11)
-- [§ 12. Evidence of legislative acts](#s-12)
-- [§ 13. Style of ordinances](#s-13)
-- [§ 14. Passage of ordinances and resolutions](#s-14)
-- [§ 15. General Counsel](#s-15)
 
 
 ### § 1. Legislative Department; Qualification and salary of members. {#s-1}

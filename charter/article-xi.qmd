@@ -1,5 +1,9 @@
 ---
 title: "Article XI — Charter Review Commission"
+toc: true
+toc-title: "In This Article"
+toc-depth: 3
+page-navigation: true
 ---
 
 
@@ -7,15 +11,6 @@ title: "Article XI — Charter Review Commission"
 Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
 :::
 
-
-## Sections
-
-- [§ 1. Commission established](#s-1)
-- [§ 2. Term](#s-2)
-- [§ 3. Composition](#s-3)
-- [§ 4. Duties](#s-4)
-- [§ 5. Report to the Mayor and City Council](#s-5)
-- [§ 6. Dissolution](#s-6)
 
 
 ### § 1. Commission established. {#s-1}

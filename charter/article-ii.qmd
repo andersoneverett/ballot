@@ -1,5 +1,9 @@
 ---
 title: "Article II — General Powers"
+toc: true
+toc-title: "In This Article"
+toc-depth: 3
+page-navigation: true
 ---
 
 
@@ -7,85 +11,6 @@ title: "Article II — General Powers"
 Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/II), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
 :::
 
-
-## Sections
-
-- [§ (1). Buildings](#s-1)
-- [§ (2). Condemnation](#s-2)
-- [§ (3). Federal grants and contracts](#s-3)
-- [§ (4). Wage and hour requirements for public contracts](#s-4)
-- [§ (4A). Contract disputes](#s-4a)
-- [§ (5). Entry on private property](#s-5)
-- [§ (6). Ferries](#s-6)
-- [§ (7). Fire](#s-7)
-- [§ (8). Food](#s-8)
-- [§ (9). Foreign trade zones](#s-9)
-- [§ (10). Harbor, docks, and wharves](#s-10)
-- [§ (11). Health and nuisances](#s-11)
-- [§ (12). Hospitals, etc](#s-12)
-- [§ (13). Jail](#s-13)
-- [§ (14). Jones’ Falls](#s-14)
-- [§ (15). Land development and redevelopment](#s-15)
-- [§ (15A). Industrial and economic development](#s-15a)
-- [§ (16). Libraries, art galleries, and museums](#s-16)
-- [§ (17). Licences](#s-17)
-- [§ (18). Markets](#s-18)
-- [§ (19). Municipal liens](#s-19)
-- [§ (20). Parking facilities](#s-20)
-- [§ (21). Parks, recreational facilities, etc](#s-21)
-- [§ (22). Park tax](#s-22)
-- [§ (23). Peddlers](#s-23)
-- [§ (24). Pensions](#s-24)
-- [§ (25). Pensions for school cafeteria employees](#s-25)
-- [§ (26). Pensions for police and fire employees](#s-26)
-- [§ (27). Police power](#s-27)
-- [§ (28). Port development](#s-28)
-- [§ (29). Railroads](#s-29)
-- [§ (30). Schools](#s-30)
-- [§ (31). Sewers](#s-31)
-- [§ (32). Storm water courses and flood areas](#s-32)
-- [§ (33). Stocks, loans, and finance](#s-33)
-- [§ (34). Streets, bridges, and tunnels](#s-34)
-- [§ (34A). Parking at intersections](#s-34a)
-- [§ (35). Streets, lanes, alleys, etc](#s-35)
-- [§ (35A). Cable television franchises](#s-35a)
-- [§ (36). Public or private alley](#s-36)
-- [§ (37). Sundays](#s-37)
-- [§ (38). Surveyor](#s-38)
-- [§ (39). Property taxes](#s-39)
-- [§ (40). Additional taxing powers](#s-40)
-- [§ (41). Theatrical and public amusements](#s-41)
-- [§ (42). Traffic](#s-42)
-- [§ (43). Vehicles](#s-43)
-- [§ (44). Veterans](#s-44)
-- [§ (45). Water](#s-45)
-- [§ (46). Weights and measures](#s-46)
-- [§ (47). General welfare](#s-47)
-- [§ (48). Fines and penalties](#s-48)
-- [§ (49). Constitutional and other powers](#s-49)
-- [§ (50). Revenue bonds and obligations](#s-50)
-- [§ (51). Residential mortgage loan program](#s-51)
-- [§ (52). Owner-occupancy residential mortgage loan program](#s-52)
-- [§ (53). Nonresident owners, notice of violation and appointment of receiver](#s-53)
-- [§ (54). Nonresident owners, notice of code violation and appointment of receiver](#s-54)
-- [§ (55). Municipal employee relations](#s-55)
-- [§ (56). Volunteer workers](#s-56)
-- [§ (57). Loans for industrial purposes](#s-57)
-- [§ (58). Limitations on competition](#s-58)
-- [§ (59). Loans and loan guarantees](#s-59)
-- [§ (60). Reports of loans, loan guarantees, and loan insurance](#s-60)
-- [§ (61). Downtown Commercial District Management Authority](#s-61)
-- [§ (62). Tax increment financing](#s-62)
-- [§ (62A). Special Tax Districts](#s-62a)
-- [§ (63). Community Benefits District Authorities](#s-63)
-- [§ (64). “Child First” Authority](#s-64)
-- [§ (65). Land Bank Authority](#s-65)
-- [§ (66). Community Benefits District Authority – East Baltimore](#s-66)
-- [§ (67). Investment in Our Youth (IO-YOUth) Pilot Program](#s-67)
-- [§ (68). Maryland Public Ethics Law](#s-68)
-- [§ (69). South Baltimore Gateway Community Impact District Authority](#s-69)
-- [§ (70). Tourism Improvement District](#s-70)
-- [§ (71). Commission to Restore Trust in Policing](#s-71)
 
 
 ### § (1). Buildings. {#s-1}

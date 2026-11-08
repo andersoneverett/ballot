@@ -1,5 +1,6 @@
 ---
 title: "Charter of Baltimore City"
+page-navigation: true
 ---
 
 
