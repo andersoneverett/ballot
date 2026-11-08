@@ -1,8 +1,5 @@
 ---
 title: "2024 General Election"
-toc: true
-toc-title: "On The Ballot"
-toc-depth: 3
 ---
 
 Eight questions asked us to decide on borrowing, police governance, Inner Harbor land use, a reinvestment fund, and the size of City Council.
@@ -11,5 +8,5 @@ Eight questions asked us to decide on borrowing, police governance, Inner Harbor
 #| results: asis
 source("R/publication.R")
 cycle_result_note("2024-general")
-measure_sections("2024-general")
+election_cards("2024-general")
 ```

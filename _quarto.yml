@@ -10,6 +10,7 @@ project:
     - privacy.qmd
     - elections/index.qmd
     - elections/*/*/index.qmd
+    - elections/*/*/question-*/index.qmd
     - charter/*.qmd
 website:
   title: "Baltimore Ballot"
@@ -19,6 +20,7 @@ website:
     background: "#20272B"
     foreground: "#FFFFFF"
     title: "Baltimore Ballot"
+    search: true
     left:
       - href: elections/index.qmd
         text: Ballot Guides
@@ -27,13 +29,12 @@ website:
       - href: about.qmd
         text: About
   search:
-    location: sidebar
-    type: textbox
+    location: navbar
+    type: overlay
   sidebar:
     - id: charter
       title: "Baltimore City Charter"
       style: docked
-      search: true
       contents:
         - text: "Charter Home"
           href: charter/index.qmd

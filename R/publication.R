@@ -6,6 +6,7 @@ html_escape <- function(x) {
   gsub('"', "&quot;", x, fixed = TRUE)
 }
 format_votes <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
+first_sentence <- function(x) sub("^(.+?[.!?])\\s.*$", "\\1", x, perl = TRUE)
 
 # data/measures.csv: one row per ballot question, and the only place measure facts are entered.
 measure_columns <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "effective", "fiscal_impact", "proposer", "arguments_for", "arguments_against", "topics", "keywords", "text_source", "origin_source", "outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")
@@ -18,7 +19,6 @@ measure_topics <- c("Housing", "Schools", "Neighborhood Development", "Infrastru
 read_measures <- function(cycle_id = NULL) {
   m <- read_data("measures")
   if (!is.null(cycle_id)) m <- m[m$cycle_id == cycle_id, , drop = FALSE]
-  m$anchor <- paste0("question-baltimore-", tolower(m$letter))
   m$text_path <- file.path("_ballot_text", m$cycle_id, paste0("baltimore-", tolower(m$letter), ".qmd"))
   m[order(m$letter), , drop = FALSE]
 }
@@ -57,22 +57,63 @@ fact_grid <- function(items) {
   cat('</div>\n')
 }
 
-measure_section <- function(m) {
-  cat(sprintf('\n### Question %s — %s {#%s}\n\n', m$letter, m$title, m$anchor))
+measure_sources <- function(m) {
+  s <- read_data("sources")
+  roles <- c(text_source = "Explanation and wording", origin_source = "How it reached the ballot", result_source = "Results")
+  items <- character()
+  for (col in names(roles)) {
+    if (!nzchar(m[[col]])) next
+    x <- s[s$source_id == m[[col]], , drop = FALSE]
+    items <- c(items, sprintf('<li>%s: <a href="%s">%s</a>, %s</li>', roles[[col]], html_escape(x$url), html_escape(x$title), html_escape(x$publisher)))
+  }
+  cat("\n## Sources\n\n<ul>", paste(items, collapse = ""), "</ul>\n", sep = "")
+}
+
+# One full page for one measure (called from the generated elections/<year>/<type>/question-<letter>/index.qmd).
+measure_page <- function(cycle_id, letter) {
+  m <- read_measures(cycle_id); m <- m[m$letter == letter, , drop = FALSE]
+  if (nrow(m) != 1L) stop("Expected exactly one measure for ", cycle_id, " ", letter)
+  m <- m[1, ]
+  e <- read_data("elections")
+  cat(sprintf('<p><a href="../">← %s</a></p>\n', html_escape(e$title[e$cycle_id == cycle_id])))
   measure_tags(m)
   measure_result(m)
   cat(sprintf('<p>%s</p>\n', html_escape(m$summary)))
   fact_grid(c("If Approved" = m$if_for, "If Rejected" = m$if_against))
   fact_grid(c("Fiscal Impact" = m$fiscal_impact, "Takes Effect" = m$effective))
   fact_grid(c("Argument For" = m$arguments_for, "Argument Against" = m$arguments_against))
-  cat("\n")
+  cat("\n## Official Wording\n\n")
   cat(readLines(m$text_path, encoding = "UTF-8", warn = FALSE), sep = "\n")
   cat("\n")
+  measure_sources(m)
 }
 
-measure_sections <- function(cycle_id) {
+# The slim election page: one card per question linking to its own page.
+election_cards <- function(cycle_id) {
   m <- read_measures(cycle_id)
-  for (i in seq_len(nrow(m))) measure_section(m[i, , drop = FALSE])
+  cards <- vapply(seq_len(nrow(m)), function(i) {
+    r <- m[i, ]; status <- "Results not yet recorded"
+    if (nzchar(r$outcome)) {
+      status <- r$outcome
+      if (nzchar(r$for_votes)) status <- sprintf("%s · %.1f%% for", status, 100 * as.numeric(r$for_votes) / (as.numeric(r$for_votes) + as.numeric(r$against_votes)))
+      status <- paste(status, "·", r$status)
+    }
+    sprintf('<a class="charter-card" href="question-%s/"><small>Question %s · %s</small><b>%s</b><small>%s</small><small>%s</small></a>', tolower(r$letter), r$letter, html_escape(r$type), html_escape(r$title), html_escape(status), html_escape(first_sentence(r$summary)))
+  }, "")
+  cat("\n```{=html}\n<div class=\"charter-grid\">\n", paste(cards, collapse = "\n"), "\n</div>\n```\n", sep = "")
+}
+
+# One table of every question across elections (for the Ballot Guides page).
+measures_table <- function() {
+  m <- read_measures(); e <- read_data("elections")
+  m <- m[order(-xtfrm(m$cycle_id), m$letter), , drop = FALSE]
+  rows <- vapply(seq_len(nrow(m)), function(i) {
+    r <- m[i, ]; el <- e[e$cycle_id == r$cycle_id, , drop = FALSE]
+    pct <- if (nzchar(r$for_votes)) sprintf("%.1f%%", 100 * as.numeric(r$for_votes) / (as.numeric(r$for_votes) + as.numeric(r$against_votes))) else ""
+    href <- sprintf("%s/question-%s/", sub("^elections/", "", dirname(el$path)), tolower(r$letter))
+    sprintf('<tr><td>%s</td><td><a href="%s">Question %s: %s</a></td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>', html_escape(el$title), html_escape(href), r$letter, html_escape(r$title), html_escape(r$type), html_escape(r$outcome), pct, html_escape(r$status))
+  }, "")
+  cat("\n```{=html}\n<table>\n<caption>Every question, newest election first.</caption>\n<thead><tr><th>Election</th><th>Question</th><th>Type</th><th>Result</th><th>For</th><th>Status</th></tr></thead>\n<tbody>\n", paste(rows, collapse = "\n"), "\n</tbody>\n</table>\n```\n", sep = "")
 }
 
 fmt_letters <- function(x) {
@@ -86,17 +127,21 @@ cycle_result_note <- function(cycle_id) {
   m <- read_measures(cycle_id); done <- m[nzchar(m$outcome), , drop = FALSE]
   if (nrow(done) < nrow(m)) cat('<p class="result-pending">Results have not yet been recorded for some or all questions.</p>\n')
   if (!nrow(done)) return(invisible(NULL))
-  s <- read_data("sources"); url <- s$url[s$source_id == done$result_source[1]]
-  label <- if (all(done$status == "Certified")) "final official election returns" else "unofficial election returns"
+  s <- read_data("sources")
+  links <- vapply(unique(done$result_source), function(id) {
+    label <- if (all(done$status[done$result_source == id] == "Certified")) "final official election returns" else "unofficial election returns"
+    sprintf("[%s](%s)", label, s$url[s$source_id == id])
+  }, "")
+  from <- paste(links, collapse = " and ")
   checked <- format(max(as.Date(done$results_checked)), "%B %d, %Y"); checked <- sub(" 0", " ", checked)
   passed <- done$letter[done$outcome == "Passed"]; failed <- done$letter[done$outcome == "Failed"]
   if (!length(failed) && length(passed) == nrow(m)) {
-    lead <- sprintf("All %s Baltimore City measures passed according to [%s](%s), checked %s.", number_word(nrow(m)), label, url, checked)
+    lead <- sprintf("All %s Baltimore City measures passed according to %s, checked %s.", number_word(nrow(m)), from, checked)
   } else {
     parts <- c(if (length(passed)) paste0(fmt_letters(passed), " passed."), if (length(failed)) paste0(fmt_letters(failed), " failed."))
-    lead <- sprintf("%s Vote counts come from the [%s](%s), checked %s.", paste(parts, collapse = " "), label, url, checked)
+    lead <- sprintf("%s Vote counts come from the %s, checked %s.", paste(parts, collapse = " "), from, checked)
   }
-  cat("\n", lead, " These are election outcomes, not a record of completed implementation.\n\n", sep = "")
+  cat("\n", lead, "\n\n", sep = "")
 }
 
 published_elections <- function() {

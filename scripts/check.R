@@ -1,7 +1,8 @@
-# Validates data/*.csv. Errors stop the build; notes are reminders. Run with --links to also check URLs (dead links only warn).
+# Validates data/*.csv. Errors stop the build; notes are reminders.
+# --links also checks every URL (dead links warn); add --strict to make dead links fail (used by the weekly workflow).
 source("R/publication.R")
 args <- commandArgs(trailingOnly = TRUE)
-errors <- character(); notes <- character()
+errors <- character(); notes <- character(); dead <- 0L
 err <- function(...) errors <<- c(errors, sprintf(...))
 note <- function(...) notes <<- c(notes, sprintf(...))
 blank <- function(x) !nzchar(trimws(x))
@@ -61,16 +62,18 @@ if (length(unused)) note("sources.csv has sources no measure uses: %s", paste(un
 
 if ("--links" %in% args) {
   files <- c(list.files(c("_ballot_text", "elections"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE), "index.qmd", "about.qmd", "privacy.qmd")
-  found <- unlist(lapply(files[file.exists(files)], function(f) regmatches(paste(readLines(f, warn = FALSE), collapse = "\n"), gregexpr("https?://[^\\s)>\"']+", paste(readLines(f, warn = FALSE), collapse = "\n"), perl = TRUE))[[1]]))
+  text <- vapply(files[file.exists(files)], function(f) paste(readLines(f, warn = FALSE), collapse = "\n"), "")
+  found <- unlist(regmatches(text, gregexpr("https?://[^\\s)>\"']+", text, perl = TRUE)))
   urls <- sort(unique(sub("[.,;]+$", "", c(s$url, found))))
   on_github <- identical(Sys.getenv("GITHUB_ACTIONS"), "true")
   for (u in urls) {
     code <- tryCatch(attr(curlGetHeaders(u, redirect = TRUE, timeout = 20), "status"), error = function(x) NA_integer_)
     if (!is.na(code) && (code < 400 || code %in% c(403, 405, 429))) next
+    dead <- dead + 1L
     msg <- sprintf("Dead link (%s): %s", if (is.na(code)) "no response" else paste("HTTP", code), u)
     if (on_github) cat("::warning::", msg, "\n", sep = "") else message("WARNING: ", msg)
   }
-  message("Checked ", length(urls), " links.")
+  message("Checked ", length(urls), " links; ", dead, " dead.")
 }
 
 for (x in notes) message("NOTE: ", x)
@@ -78,4 +81,5 @@ if (length(errors)) {
   for (x in errors) message("ERROR: ", x)
   quit(status = 1)
 }
+if (dead > 0L && "--strict" %in% args) quit(status = 1)
 message("Data validated: ", nrow(m), " measures, ", sum(!blank(m$outcome)), " results.")

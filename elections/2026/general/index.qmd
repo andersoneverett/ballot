@@ -1,13 +1,10 @@
 ---
 title: "2026 General Election"
-toc: true
-toc-title: "On The Ballot"
-toc-depth: 3
 ---
 
 ```{r}
 #| results: asis
 source("R/publication.R")
 cycle_result_note("2026-general")
-measure_sections("2026-general")
+election_cards("2026-general")
 ```
