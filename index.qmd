@@ -12,10 +12,10 @@ Baltimore Ballot brings together plain-language explanations, official wording, 
 ```{r}
 #| results: asis
 source("R/publication.R")
-featured_election()
+featured_ballot()
 ```
 
-[Browse All Election Guides](elections/index.qmd), including the 2024 and 2026 Baltimore City questions. Each guide keeps the explanations, ballot origins, official wording, and results together.
+[Browse All Ballot Guides](ballots/index.qmd), including the 2024 and 2026 Baltimore City questions. Each guide keeps the explanations, ballot origins, official wording, and results together.
 
 ## How Questions Reach The Ballot
 

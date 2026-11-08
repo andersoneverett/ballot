@@ -9,7 +9,7 @@ Baltimore Ballot explains Baltimore City ballot decisions. Everett Anderson make
 
 ## What It Covers
 
-The site covers Baltimore City Questions A–H from the 2024 General Election and Questions A–I from the 2026 General Election. Statewide questions and candidate directories are outside the current scope.
+The site covers Baltimore City Questions A–H from the 2024 ballot and Questions A–I from the 2026 ballot. Statewide questions and candidate directories are outside the current scope.
 
 The guides explain the choices without telling readers how to vote. They bring together plain-language explanations, official wording, measure types, topics, ballot origins, and sourced results.
 

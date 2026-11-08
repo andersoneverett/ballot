@@ -1,0 +1,14 @@
+---
+title: "Ballot Guides"
+subtitle: "The questions, the choices, and the recorded results."
+page-layout: article
+body-classes: top-level
+---
+
+Explore Baltimore City ballot questions, one ballot at a time. Each question has its own page with a plain-language explanation, what a vote meant, the arguments, the official wording, and sources.
+
+```{r}
+#| results: asis
+source("R/publication.R")
+ballot_archive()
+```

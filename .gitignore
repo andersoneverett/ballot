@@ -7,6 +7,6 @@
 
 /docs/
 /charter/
-/elections/*/*/question-*/
+/ballots/*/question-*/
 
 **/*.quarto_ipynb

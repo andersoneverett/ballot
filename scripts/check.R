@@ -8,9 +8,11 @@ note <- function(...) notes <<- c(notes, sprintf(...))
 blank <- function(x) !nzchar(trimws(x))
 bad_date <- function(x) is.na(suppressWarnings(as.Date(x, format = "%Y-%m-%d")))
 
-m <- read_data("measures"); s <- read_data("sources"); e <- read_data("elections")
+m <- read_data("measures"); s <- read_data("sources"); b <- read_data("ballots")
 absent <- setdiff(measure_columns, names(m))
 if (length(absent)) stop("data/measures.csv is missing columns: ", paste(absent, collapse = ", "))
+absent <- setdiff(ballot_columns, names(b))
+if (length(absent)) stop("data/ballots.csv is missing columns: ", paste(absent, collapse = ", "))
 if (!nrow(m)) stop("data/measures.csv has no rows.")
 
 for (f in c("source_id", "title", "publisher", "url", "accessed_date")) if (any(blank(s[[f]]))) err("sources.csv: empty %s for %s", f, paste(s$source_id[blank(s[[f]])], collapse = ", "))
@@ -18,10 +20,14 @@ if (anyDuplicated(s$source_id)) err("sources.csv: duplicate source_id")
 if (any(!grepl("^https?://", s$url))) err("sources.csv: url must start with http(s):// for %s", paste(s$source_id[!grepl("^https?://", s$url)], collapse = ", "))
 if (any(bad_date(s$accessed_date))) err("sources.csv: accessed_date must be YYYY-MM-DD for %s", paste(s$source_id[bad_date(s$accessed_date)], collapse = ", "))
 
-if (anyDuplicated(e$cycle_id)) err("elections.csv: duplicate cycle_id")
-for (i in seq_len(nrow(e))) {
-  if (!file.exists(e$path[i])) err("elections.csv: no page at %s", e$path[i])
-  if (!e$published[i] %in% c("true", "false")) err("elections.csv: published must be true or false for %s", e$cycle_id[i])
+if (anyDuplicated(b$cycle_id)) err("ballots.csv: duplicate cycle_id")
+if (anyDuplicated(b$year)) err("ballots.csv: two ballots share a year, so they would share web addresses")
+for (i in seq_len(nrow(b))) {
+  id <- b$cycle_id[i]
+  for (f in c("cycle_id", "title", "intro")) if (blank(b[[f]][i])) err("ballots.csv: %s is missing %s", id, f)
+  if (!grepl("^[0-9]{4}$", b$year[i])) err("ballots.csv: %s year must be four digits", id)
+  if (bad_date(b$election_date[i])) err("ballots.csv: %s election_date must be YYYY-MM-DD", id)
+  if (!b$published[i] %in% c("true", "false")) err("ballots.csv: published must be true or false for %s", id)
 }
 
 if (anyDuplicated(m[c("cycle_id", "letter")])) err("measures.csv: duplicate cycle_id and letter")
@@ -29,7 +35,7 @@ for (i in seq_len(nrow(m))) {
   r <- m[i, ]; id <- paste(r$cycle_id, r$letter)
   for (f in measure_required) if (blank(r[[f]])) err("%s: missing %s", id, f)
   if (!blank(r$letter) && !grepl("^[A-Z]$", r$letter)) err("%s: letter must be one capital letter", id)
-  if (!blank(r$cycle_id) && !r$cycle_id %in% e$cycle_id) err("%s: cycle_id is not in elections.csv", id)
+  if (!blank(r$cycle_id) && !r$cycle_id %in% b$cycle_id) err("%s: cycle_id is not in ballots.csv", id)
   if (!blank(r$type) && !r$type %in% measure_types) err("%s: type must be one of %s", id, paste(measure_types, collapse = " or "))
   if (!blank(r$proposer) && !r$proposer %in% measure_proposers) err("%s: proposer must be one of %s", id, paste(measure_proposers, collapse = " or "))
   topics <- trimws(strsplit(r$topics, ";", fixed = TRUE)[[1]])
@@ -57,11 +63,16 @@ for (i in seq_len(nrow(m))) {
 }
 
 for (f in measure_recommended) if (any(blank(m[[f]]))) note("%s is empty for %d of %d measures", f, sum(blank(m[[f]])), nrow(m))
+for (f in c("arguments_for", "arguments_against")) {
+  n <- vapply(strsplit(trimws(m[[f]]), "\\s+"), length, 1L)
+  long <- !blank(m[[f]]) & n > 70
+  if (any(long)) note("%s is over 70 words for %s", f, paste(m$cycle_id[long], m$letter[long], collapse = ", "))
+}
 unused <- setdiff(s$source_id, c(m$text_source, m$origin_source, m$result_source))
 if (length(unused)) note("sources.csv has sources no measure uses: %s", paste(unused, collapse = ", "))
 
 if ("--links" %in% args) {
-  files <- c(list.files(c("_ballot_text", "elections"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE), "index.qmd", "about.qmd", "privacy.qmd")
+  files <- c(list.files(c("_ballot_text", "ballots"), pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE), "index.qmd", "about.qmd", "privacy.qmd")
   text <- vapply(files[file.exists(files)], function(f) paste(readLines(f, warn = FALSE), collapse = "\n"), "")
   found <- unlist(regmatches(text, gregexpr("https?://[^\\s)>\"']+", text, perl = TRUE)))
   urls <- sort(unique(sub("[.,;]+$", "", c(s$url, found))))

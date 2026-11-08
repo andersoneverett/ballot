@@ -8,9 +8,8 @@ project:
     - index.qmd
     - about.qmd
     - privacy.qmd
-    - elections/index.qmd
-    - elections/*/*/index.qmd
-    - elections/*/*/question-*/index.qmd
+    - ballots/index.qmd
+    - ballots/*/question-*/index.qmd
     - charter/*.qmd
 website:
   title: "Baltimore Ballot"
@@ -22,7 +21,7 @@ website:
     title: "Baltimore Ballot"
     search: true
     left:
-      - href: elections/index.qmd
+      - href: ballots/index.qmd
         text: Ballot Guides
       - href: charter/index.qmd
         text: Charter
