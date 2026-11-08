@@ -14,8 +14,6 @@ source("R/measure-tags.R")
 cycle_result_note("2026-general")
 ```
 
-## Baltimore City Questions
-
 ### Question A — Affordable Housing {#question-baltimore-a}
 
 ```{r}
