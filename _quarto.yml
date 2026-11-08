@@ -10,6 +10,7 @@ project:
     - privacy.qmd
     - elections/index.qmd
     - elections/*/*/index.qmd
+    - charter/*.qmd
 website:
   title: "Baltimore Ballot"
   site-url: "https://andersoneverett.github.io/ballot/"
@@ -21,9 +22,11 @@ website:
     left:
       - href: elections/index.qmd
         text: Ballot Guides
+      - href: charter/index.qmd
+        text: Charter
       - href: about.qmd
         text: About
-  search: false
+  search: true
   page-footer:
     left: "© `<script>document.write(new Date().getFullYear())</script>`{=html} Baltimore Ballot"
     right:
@@ -32,7 +35,9 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - charter.css
     toc: false
     lang: en
     link-external-newwindow: true

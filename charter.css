@@ -1,0 +1,10 @@
+.charter-note { background:#F8F7FC; padding:.8rem 1rem; border-radius:.35rem; font-size:.88rem; color:var(--bb-gray); margin:1rem 0 1.6rem; }
+.charter-note p { margin:0; }
+.charter-para { margin:.2rem 0; }
+.charter-para .charter-para { margin-left:1.5rem; }
+.charter-para > p { margin-bottom:.6rem; }
+.charter-num { font-weight:700; margin-right:.25rem; }
+.charter-subhead { font-weight:650; }
+.charter-history { font-size:.85rem; color:var(--bb-gray); }
+main:has(.charter-note) h3 { margin-top:2.2rem; font-size:1.3rem; }
+main:has(.charter-note) h2 { margin-top:2.2rem; }
