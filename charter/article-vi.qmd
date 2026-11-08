@@ -1,0 +1,745 @@
+---
+title: "Article VI — Board of Estimates"
+---
+
+
+::: {.charter-note}
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+:::
+
+
+## Sections
+
+- [§ 1. Establishment and organization](#s-1)
+- [§ 2. Powers and duties](#s-2)
+- [§ 3. Fiscal year; Budget schedule](#s-3)
+- [§ 4. Assistance from Finance Director and Planning Commission](#s-4)
+- [§ 5. Preparation of proposed Ordinance of Estimates](#s-5)
+- [§ 6. Adoption of proposed Ordinance of Estimates](#s-6)
+- [§ 7. Enactment of Ordinance of Estimates](#s-7)
+- [§ 8. Deficiencies; Supplementary appropriations](#s-8)
+- [§ 9. Uses of appropriations](#s-9)
+- [§ 10. Salaries](#s-10)
+- [§ 11. Procurement](#s-11)
+- [§ 12. Salary and wage scales; Work conditions](#s-12)
+- [§ 13. Command appearance of municipal officers](#s-13)
+- [§ 14. Bonds of municipal officers](#s-14)
+- [§ 15. Claims against or by City](#s-15)
+- [§ 16. Salaries of State’s Attorney’s Office](#s-16)
+- [§ 17. Expenditures for new improvements](#s-17)
+- [§ 18. Water, sanitary wastewater, and stormwater utilities](#s-18)
+
+
+### § 1. Establishment and organization. {#s-1}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>There shall be a Board of Estimates composed of the Mayor, President of the City Council, Comptroller, City Solicitor, and Director of Public Works, none of whom shall receive any additional salary as members of the Board.</p>
+<p>The President of the City Council shall be President of the Board, and one of the members shall act as Secretary.</p>
+<p>The Board may employ such employees as may be necessary to discharge its duties; their number and compensation shall be fixed in the Ordinance of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Meetings.</span></p>
+<p>The first meeting of the Board in every year shall be called by notice from the Mayor or President of the City Council personally served upon members of the Board.  Subsequent meetings shall be called as the Board may direct.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Representatives.</span></p>
+<p>If a member is unable to attend a Board meeting, that member’s representative, as designated in the Charter, may attend and exercise the powers of the member.  The Mayor may designate a municipal officer or member of the Mayor’s personal staff to represent the Mayor and exercise the Mayor’s power at Board meetings in the Mayor’s absence.</p>
+</div>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/1)
+
+
+### § 2. Powers and duties. {#s-2}
+
+```{=html}
+<p>The Board of Estimates shall formulate and execute the fiscal policy of the City to the extent, and in the manner provided for, in the Charter.  To exercise its powers and perform its duties, the Board may promulgate rules and regulations and summon before it the heads of departments, bureaus or divisions, municipal officers, and members of commissions and boards.</p>
+<p class="charter-history"><strong>Editor's Notes:</strong> For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/2)
+
+
+### § 3. Fiscal year; Budget schedule. {#s-3}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Fiscal year.</span></p>
+<p>The fiscal, budget, and accounting year of the City shall begin on the first day of July and end on the thirtieth day of June in every year unless otherwise provided by law.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Notice and hearing.</span></p>
+<p>At least thirty days prior to the adoption by the Board of Estimates of a proposed Ordinance of Estimates the Board shall make public the Director of Finance’s recommended operating budget, the Planning Commission’s recommended capital budget and long-range capital improvement program, and the reports of the Director of Finance and Planning Commission on these documents.</p>
+<p>Thereafter, the Board shall hold public hearings at which members of the City Council, heads of municipal agencies, and citizens shall have the opportunity to appear before the Board to speak for or against the inclusion of any appropriation in the proposed Ordinance of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Submission to Council.</span></p>
+<p>The Board of Estimates shall submit to the City Council the proposed Ordinance of Estimates for the next fiscal year at least forty-five days before the beginning of that fiscal year.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Adoption by Council.</span></p>
+<p>The City Council shall have at least forty days after receipt of the Board’s proposed Ordinance of Estimates to enact an Ordinance of Estimates.  The City Council shall adopt an Ordinance of Estimates at least five days prior to the beginning of the fiscal year to which it is applicable if the Board of Estimates submits its proposed Ordinance of Estimates within the period prescribed by Section 3(c).</p>
+</div>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/3)
+
+
+### § 4. Assistance from Finance Director and Planning Commission. {#s-4}
+
+```{=html}
+<p>To assist the Board of Estimates in the preparation of the proposed Ordinance of Estimates:</p>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Recommendations on agency estimates.</span></p>
+<p>The Director of Finance shall submit for the consideration of the Board a recommended operating budget, which shall include the estimates submitted by the municipal agencies for the next fiscal year, the recommendations of the Director of Finance thereon, and all other estimates for appropriations to be made in the next fiscal year, other than for capital improvements; provided, however, the estimates for the Fire Department shall include such amounts, if any, as may be determined by a final decision of a board of arbitration convened to arbitrate unresolved negotiations between the City and the certified employee organizations representing the fire fighters and fire officers, as prescribed by existing <a href="article-vii.html#s-53">Section 53 of Article VII</a>.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Recommendations on capital budget, etc.</span></p>
+<p>The Planning Commission shall submit for the consideration of the Board a recommended capital budget, a recommended long-range capital improvement program, and a report on both.  The Director and Board of Finance shall review the recommended capital budget and program, and make a report and recommendations about both to the Board of Estimates.</p>
+</div>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/4)
+
+
+### § 5. Preparation of proposed Ordinance of Estimates. {#s-5}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Contents.</span></p>
+<p>After receiving the recommendations of the Department of Finance and the Planning Commission, the Board shall prepare its proposed Ordinance of Estimates, which shall consist of:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>an operating budget: estimates for the next fiscal year of the appropriations needed for the operation of each municipal agency and for all other purposes, other than for capital improvements.  These estimates shall state the amounts needed by every municipal agency for each particular program, purpose, activity, or project and the source of funds, if other than general funds, for each.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>a capital budget: estimates of the amounts to be appropriated to each municipal agency for capital improvements in the next fiscal year.  The capital budget proposed by the Board also shall include the projects that the Board includes in the first year of its long-range capital improvement program and the source of funds for all capital improvements.  However, no capital project shall be included in the capital budget portion of the proposed Ordinance of Estimates submitted by the Board of Estimates to the City Council unless the Board has received and considered the reports and recommendations of the Planning Commission, the Director of Finance, and the Board of Finance with regard to such capital project.  The Board of Estimates may establish additional procedures for the development of a long-range capital improvement program and a capital budget.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Contingent fund.</span></p>
+<p>The Board may include annually in the proposed Ordinance of Estimates a sum up to one million dollars ($1,000,000.00) of the General Fund appropriations to be used during the next fiscal year as a contingent fund in case of an emergency or necessity for the expenditure of money in excess of or other than the appropriations regularly passed for any municipal agency.</p>
+<p>At least one week before it approves a contingent fund expenditure, the Board shall report to the City Council the reasons for the expenditure.</p>
+</div>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/5)
+
+
+### § 6. Adoption of proposed Ordinance of Estimates. {#s-6}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Adoption, submission, and publication.</span></p>
+<p>After the public notice and hearings prescribed by Section 3(b), the Board shall adopt a proposed Ordinance of Estimates by a majority vote of all the members.  The Board shall deliver the proposed Ordinance of Estimates to the President of the City Council and contemporaneously publish a copy of the proposed ordinance in two daily newspapers in Baltimore City.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Accompanying materials.</span></p>
+<p>The proposed Ordinance of Estimates that the Board submits to the City Council shall be accompanied by the following materials:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>a breakdown of the amounts stated for each program, purpose, activity, or project of each municipal agency in the proposed operating budget by standard categories of expenditure, for</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(a)</span></p>
+<p>personal services,</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(b)</span></p>
+<p>materials, supplies, and equipment,</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(c)</span></p>
+<p>debt service, and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(d)</span></p>
+<p>such other categories as the Board of Estimates may deem advisable.</p>
+<p>The personal services category shall include the compensation of every officer and salaried employee of the City; provided, however, that the salaries for employees in the same classification who have a uniform salary or salary range may be combined into a single entry, which shall indicate the number of such employees, their aggregate salaries, and the name or title of the classification.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>a comparison by standard categories of expenditures of the appropriations contained in the proposed operating budget with</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(a)</span></p>
+<p>the amounts requested by the municipal agencies in their budget submissions</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(b)</span></p>
+<p>the amounts appropriated for the current fiscal year and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(c)</span></p>
+<p>the amounts expended in the prior fiscal year;</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>detailed information about the sources of funds to meet the aggregate total of the appropriations contained in the proposed Ordinance of Estimates;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>the long-range capital improvement program adopted by the Board and for each capital project included in the capital budget, the following:</p>
+<p>a brief description and location,</p>
+<p>the total estimated cost,</p>
+<p>the appropriations authorized to date,</p>
+<p>the appropriations proposed for the next fiscal year,</p>
+<p>the appropriations required thereafter to complete the project, and</p>
+<p>the estimated additional annual maintenance and operation cost.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span></p>
+<p>a statement setting out:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(a)</span></p>
+<p>the revenues which the City can reasonably expect to receive in the next fiscal year from all existing sources of revenue at existing rates other than the full rate property tax but including amounts believed to be collectible from taxes for prior years and including an estimate of the surplus expected at the end of the current fiscal year;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(b)</span></p>
+<p>the difference between the revenues expected under (a) above and the total amount of appropriations provided in the proposed Ordinance of Estimates;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(c)</span></p>
+<p>the estimated taxable basis for the next ensuing fiscal year for the levy of full rate property taxes;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(d)</span></p>
+<p>the rate for the levy of full rate property taxes which, given the revenues expected under (a) above, the total appropriations in the proposed Ordinance of Estimates, and the taxable basis, will be necessary to raise sufficient total revenues to cover total anticipated expenditures;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(e)</span></p>
+<p>new sources of revenue or new rates on existing sources of revenue, and the amounts which can reasonably be expected from each of them, which the Board of Estimates believes should be adopted for the next fiscal year; also the rate for the levy of full rate property taxes which, in view of such new sources of revenue or new rates on existing sources of revenue, will be necessary to bring total expected revenues for the next fiscal year into balance with total anticipated expenditures for the year;</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(6)</span></p>
+<p>a message from the Mayor explaining the major emphasis and objectives of the City’s budget for the next fiscal year;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(7)</span></p>
+<p>such other information as the Board of Estimates may deem advisable.</p>
+</div>
+</div>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/6)
+
+
+### § 7. Enactment of Ordinance of Estimates. {#s-7}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Introduction; authorized cuts.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>On receipt of the proposed Ordinance of Estimates and the accompanying materials, the President of the City Council shall promptly cause it to be introduced in the City Council, and the Council shall hold public hearings on the proposed Ordinance of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>By a majority vote of its members, the City Council may reduce or eliminate any of the amounts in the proposed Ordinance of Estimates, except:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>amounts fixed by state or federal law;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>amounts for the Fire Department established by a board of arbitration and included in the proposed Ordinance of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>amounts for the payment of the interest and principal of the municipal debt.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Increases and additions.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Except as provided in this subsection, the City Council does not have the power to increase the amounts fixed by the Board or to add any amount for any new purpose in the proposed Ordinance of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>By a majority vote of its members, the City Council may increase items of appropriation within the general fund or add items within the general fund for new purposes provided that:</p>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">(A)</span></p>
+<p>the aggregate amount of the increase does not exceed the aggregate amount by which the City Council has reduced or eliminated from the Ordinance of Estimates under <a href="article-vi.html#s-7">subsection (a) of this section</a>;</p>
+</div>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">(B)</span></p>
+<p>the increases authorized by this subsection do not derive from the reduction or elimination of revenue, which by law, contract, or regulation must be used to support appropriations for specific purposes; and</p>
+</div>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">(C)</span></p>
+<p>an item added for a new purpose is or will be authorized by legislation separate and apart from the Ordinance of Estimates.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>In no event, however, may:</p>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">(A)</span></p>
+<p>the total amount of the Operating Budget or the Capital Budget, as amended by the City Council, exceed the total amount of the Operating Budget or Capital Budget, respectively, as proposed by the Board of Estimates; or</p>
+</div>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">(B)</span></p>
+<p>any increase or addition be made to or for any item described in subsection (a)(2)(i), (ii), or (iii) of <a href="article-vi.html#s-7">this section</a>.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>If the carrying out of a particular program, purpose, activity, or project depends on action by a body other than the City, the City Council may insert a specific provision in the proposed Ordinance of Estimates making the appropriation for the particular program, purpose, activity, or project contingent on that action.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Revenue ordinances.</span></p>
+<p>As soon as practicable after the passage of the Ordinance of Estimates, the City Council shall enact such revenue ordinances as are necessary to produce sufficient expected revenues, as estimated by the Board of Estimates, to cover the total anticipated expenditures authorized by the Ordinance of Estimates.  The Council may adopt revenue sources or revenue rates other than those proposed by the Board and in each such instance the estimate of the revenue to be yielded by such a source or rate shall be made by the Board of Estimates.</p>
+<p>The Board of Estimates shall, taking into account any reductions and eliminations made by the City Council in the anticipated expenditures contained in the proposed Ordinance of Estimates and the revenues to be derived from all existing sources and from any new sources or new rates enacted by the City Council, certify to the Council the difference between the anticipated expenditures for the next fiscal year contained in the Ordinance of Estimates and all expected revenues other than from the full rate property tax.  The Board shall then state a rate for the levy of full rate property taxes sufficient to realize the amount required to meet the said difference and the ordinance making the annual levy of full rate property taxes shall fix a rate not less than that stated by the Board so that it shall not be necessary at any time for the City to create a floating debt to meet any deficiency, and it shall not be lawful for the City to create a floating debt for any such purpose.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20-025, ratified Nov. 3, 2020, effective July 1, 2022</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/7)
+
+
+### § 8. Deficiencies; Supplementary appropriations. {#s-8}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Deficiencies.</span></p>
+<p>No temporary loan shall be authorized or made to pay any deficiency arising from a failure to realize sufficient income from all sources to meet the amounts provided in the Ordinance of Estimates, but the City may temporarily borrow money for its use in anticipation of the receipts of taxes levied for any year.  In case of any such deficiency the Board of Estimates shall effect reductions (which need not be pro rata) in appropriations other than those for the payment of the principal and interest of the City debt and such amounts as are fixed by law and contained in the Ordinance of Estimates, except to the extent that the City Council shall, upon the recommendation of the Board of Estimates, enact an ordinance which shall supply revenues to meet all or any part of such deficiency.  No emergency loan shall be made except in accordance with the provisions of <a href="article-xi.html">Article XI of the Constitution of Maryland</a>.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Supplementary appropriations — when authorized.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Except as provided herein, the Ordinance of Estimates shall include all the moneys to be appropriated by the City for all purposes for the fiscal year for which the ordinance is applicable.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>Additional appropriations are permitted during the fiscal year only in the following circumstances and under the following conditions:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span> <span class="charter-subhead">Excess revenues.</span></p>
+<p>Revenues from any source other than the full rate property tax and other taxes imposed under the authority of <a href="article-ii.html">Article II</a>, in excess of or in addition to those relied on by the Board of Estimates in determining the tax levy required to balance the budget, may be made available for expenditure by the municipal agency responsible for the production of those revenues by a supplementary appropriation ordinance recommended to the City Council by the Board of Estimates, duly passed by the City Council by a majority vote of its members and approved by the Mayor.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span> <span class="charter-subhead">Unanticipated grants.</span></p>
+<p>Grants from private or governmental sources that could not be expected with reasonable certainty at the time of the formulation of the proposed Ordinance of Estimates may be made available to the appropriate municipal agency for expenditure by a supplementary appropriation ordinance recommended to the City Council by the Board of Estimates, duly passed by the City Council by a majority vote of its members and approved by the Mayor.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span> <span class="charter-subhead">Material changes; new programs.</span></p>
+<p>Further appropriations for programs included in the proposed Ordinance of Estimates made necessary by a material change in circumstances, or additional appropriations for new programs that could not reasonably be anticipated at the time of the formulation of the proposed Ordinance of Estimates may be made available to the appropriate municipal agency for expenditure by a supplementary appropriation ordinance recommended to the City Council by the Board of Estimates, duly passed by the City Council by a vote of three-fourths of its members and approved by the Mayor.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Supplementary appropriations – Requisites of ordinance.</span></p>
+<p>Every such further or additional appropriation shall be embodied in a separate ordinance limited to a single program, purpose, activity or project therein stated, and each such supplementary appropriation ordinance shall also, anything contained in the Charter to the contrary notwithstanding, provide the revenue necessary to pay the appropriation by a source, other than the full rate property tax, imposed under the authority of <a href="article-ii.html">Article II</a>.  The revenue shall be levied and collected as directed in the ordinance.  The estimate of the revenues to be derived from any source proposed in a supplementary appropriation ordinance shall be made by the Board of Estimates.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20-025, ratified Nov. 3, 2020, effective July 1, 2022</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/8)
+
+
+### § 9. Uses of appropriations. {#s-9}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>Following the passage of the Ordinance of Estimates and the enactment of the revenue measures necessary to achieve a balance between expected revenues and anticipated expenditures for the next fiscal year, the sums contained in the Ordinance of Estimates shall, after the beginning of the fiscal year to which it is applicable, be and become appropriated for the purposes therein named.</p>
+<p>No appropriation provided for in the Ordinance of Estimates shall be used for any purpose other than that named in that ordinance, except:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>the Board of Estimates may increase the amount for a particular program, purpose, activity, or project or introduce an amount for a new program, purpose, activity or project by transferring thereto amounts already appropriated to that agency; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>upon the recommendation of the Board of Estimates, the City Council by ordinance may authorize the transfer of an appropriation contained in the Ordinance of Estimates from one municipal agency to another municipal agency;</p>
+<p>provided, however, that new or different amounts for capital projects from those stated in the capital budget portion of the Ordinance of Estimates shall not be authorized unless the Board of Estimates has received and considered the reports and recommendations thereon of the Planning Commission and the Director of Finance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Expenditure schedule.</span></p>
+<p>Upon the authorization of the Board of Estimates and under procedures established by the Board, the Director of Finance shall establish an expenditure schedule, applicable to any or all municipal agencies whenever, in the opinion of the Board, financial conditions warrant such budgetary allotments.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Carry-overs; Lapses.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Appropriations contained in the Ordinance of Estimates for a particular program, purpose, activity, or project may, upon the recommendation of the head of the municipal agency concerned and the Director of Finance, and with the approval of the Board of Estimates, be carried over to fiscal years subsequent to the one for which the appropriation is initially made if necessary to accomplish that program, purpose, activity, or project.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>Funds encumbered for contracts, projects or other actual commitments and funds dedicated by any act of Congress or by State law or by the terms of any private grant to some specific purpose shall be carried over to the next fiscal year.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>All appropriations not so carried over shall lapse at the end of the fiscal year from which made, except as provided in paragraph (4) of this subsection.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>Any balance remaining in the fund of the water, sanitary wastewater, or stormwater utility (under <a href="article-vi.html#s-18">Section 18 of this article</a>) at the end of the fiscal year shall remain to the credit of that utility and an estimate of that balance shall be included in that utility’s budget for the next year as an estimated receipt.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Surpluses.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>In case of any surplus arising in any fiscal year by reason of an excess of revenue over the expenditures (including any appropriation carried over) for that year, the surplus shall become a part of the general revenue of the City and shall be available for the general expenditures of the City for the next fiscal year, in accordance with the Ordinance of Estimates for that year.  An estimate of the surplus shall be made by the Board of Estimates and included in expected revenues for the next year.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>However, any surplus or retained earnings of the water, sanitary wastewater, or stormwater utility fund (under <a href="article-vi.html#s-18">§ 18 of this article</a>) at the end of the fiscal year shall remain to the credit of that utility and the estimate of that balance shall be included in that utility’s budget for the next year as an estimated receipt.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 10-019, ratified Nov. 2, 2010; Res. 12-004, ratified Nov. 6, 2012</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/9)
+
+
+### § 10. Salaries. {#s-10}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In-term increases or decreases — in general.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>In preparing the Ordinance of Estimates, the Board of Estimates may increase or decrease the salaries of all municipal officers, except:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>the elected officials subject to <a href="article-vii.html">Article VII</a>, §§ <a href="article-vii.html#s-117">117</a> through <a href="article-vii.html#s-125">125</a> of this Charter; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>the appointed municipal officers who serve as  members of the Board of Estimates,</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>If the salary of an appointed municipal officer is so increased or decreased, it may not again be increased or decreased, as the case may be, during that officer’s term.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">In-term increases or decreases — Board members.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>The Mayor and City Council may, by ordinance, increase or decrease the salaries of the appointed municipal officers who serve as members of the Board of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>If the salary of an appointed municipal officer on the Board is so increased or decreased, it may not again be increased or decreased, as the case may be, during that officer’s term.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Employment contingent on appropriation.</span></p>
+<p>No person shall be appointed or employed as a paid municipal officer or employee unless an appropriation to cover that person’s compensation is included in the Ordinance of Estimates;</p>
+<p>provided, however, that this provision shall not apply to:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>appointments or employments approved by resolution of the Board of Estimates, where funds are available for payment of the designated compensation; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>persons whose appointment or employment is to be made and whose compensation is to be fixed by the Board of School Commissioners as provided in <a href="article-vii.html#s-63">Section 63 of Article VII</a>.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Increases beyond Ordinance of Estimates.</span></p>
+<p>Except in cases of promotion, the salary or compensation of no officer or employee of the City shall be increased beyond that set forth in the materials accompanying the proposed Ordinance of Estimates unless the increase be approved by the Board of Estimates upon the recommendation of the head of the agency concerned, and funds therefor are available in the appropriation allotted in the Ordinance of Estimates to the agency in question;</p>
+<p>provided, however, that the Board of Estimates may adopt rules and regulations governing increments to be granted to employees whose classifications call for an annual increment until the maximum of such classification is reached;</p>
+<p>provided, further, that nothing in this provision shall affect the power conferred by <a href="article-vii.html#s-63">Section 63 of Article VII</a> upon the Board of School Commissioners.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Payment intervals.</span></p>
+<p>The salaries of all municipal officers and employees, whether or not fixed by the Charter, shall be paid at such intervals, but not less frequently than semi-monthly, as the Board of Estimates may determine from time to time.</p>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 05-009, ratified Nov. 7, 2006; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/10)
+
+
+### § 11. Procurement. {#s-11}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Board of Estimates responsible.</span></p>
+<p>The Board of Estimates shall be responsible for awarding contracts and supervising all purchasing by the City as provided in <a href="article-vi.html#s-11">this section</a> and elsewhere in the Charter.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Authority of  City Council.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>By ordinance passed by two-thirds of the City Council members, the Mayor and City Council shall set the dollar thresholds for:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>contracts that must be formally advertised; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>contracts that must be approved by the Board of Estimates.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>Pending enactment of an Ordinance under this subsection, the Board of Estimates shall set initial threshold amounts.  Those initial amounts shall remain in effect until different amounts have been set by Ordinance under this subsection.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Formal advertisement.</span></p>
+<p>In contracting for any public work, or the purchase of any supplies (unless otherwise provided by ordinance for foodstuffs and related perishables), materials, equipment, or services other than professional services, for the City or by any municipal agency, involving an expenditure of greater than the threshold set under <a href="article-vi.html#s-11">subsection (b) of this section</a>, advertisements for proposals shall first be published at least twice in two or more newspapers of general circulation published in Baltimore City, and published electronically to the public, unless otherwise provided by the Charter.  The first publication shall be made not less than 10 nor more than 90 days prior to the day set for opening the bids.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Professional services.</span></p>
+<p>All professional services contracted for by the City shall be engaged in the manner prescribed by resolution of the Board of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Emergencies, etc.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(i)</span></p>
+<p>When any supplies, materials, equipment, services, or public works are of such a nature that no advantage will result in seeking, or it is not practicable to obtain, competitive bids, or when the need for supplies, materials, equipment, services, or public works is of an emergency nature and the using agency certifies this in writing to the Board of Estimates, with written notice to the Department of Finance, the provisions of <a href="article-vi.html#s-11">subsection (c) of this section</a> may be dispensed with.  However, the purchase may not be made, nor may the City incur any obligation for it, until approved by the Board of Estimates after considering the recommendation of the Department of Finance.  When practicable, the City’s intent to make a purchase under this exception shall be posted electronically to the public for comment prior to the approval of the purchase by the Board of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(ii)</span></p>
+<p>In the event of an emergency of such a nature that the public welfare would be adversely affected by awaiting the approval of the Board of Estimates, the Department of Finance, upon application by the head of the municipal agency involved, may proceed to obtain the supplies, materials, equipment, services, or public works required without reference to the provisions of <a href="article-vi.html#s-11">subsection (c) of this section</a>.  A full report of any this action shall be promptly submitted to the Board of Estimates.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(f)</span> <span class="charter-subhead">Contracts subject to Board of Estimates approval.</span></p>
+<p>All purchases of services other than professional services, of property other than real estate or interests therein (except as may be otherwise provided by ordinance for foodstuffs and related perishables), and all other contracts involving an expenditure greater than an amount set under <a href="article-vi.html#s-11">subsection (b) of this section</a>, except those awarded by the Board of Estimates pursuant to the provisions of <a href="article-vi.html#s-11">subsection (h) of this section</a>, made by any municipal agency, in addition to compliance with other applicable provisions of the Charter, shall be submitted to the Board of Estimates for its approval and shall be binding upon the City only when so approved.</p>
+<p>The Board of Estimates may adopt rules and regulations governing the procedures and requirements to be followed by any municipal agency in making purchases or other contracts involving an expenditure that does not require formal advertising under <a href="article-vi.html#s-11">subsection (c) of this section</a>.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(g)</span> <span class="charter-subhead">Prequalification of bidders.</span></p>
+<p>In contracting for any public work or the purchase of any supplies, materials, equipment, or services for the City or by any municipal agency, the Board of Estimates may establish, maintain, and modify rules, regulations, and standards for the prequalification of bidders.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(h)</span> <span class="charter-subhead">Bid awards.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>All bids made to the City in response to the formal advertising procedures contained in <a href="article-vi.html#s-11">this section</a>, for materials, supplies, equipment, services, or public works, or for any other purpose, unless otherwise provided in the Charter, shall be opened by the Board of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>After opening the bids, the Board of Estimates shall award the contract, as an entirety to the lowest responsive and responsible bidder or by items to the respective lowest responsive and responsible bidders, or in the case of Requests for Proposals to the highest scoring responsive and responsible bidder, or shall reject all bids.  However, whenever alternative bids are invited for two or more different things, then, after all bids have been opened, the Board may select the particular item that will be procured, and shall award the contract to the lowest responsive and responsible bidder or in the case of Requests for Proposals to the highest scoring responsive and responsible bidder for that particular item.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>In the event of tie bids, the using agency, with written notice to the Department of Finance, shall make a written recommendation and report to the Board of Estimates setting forth all pertinent considerations and the reasons for its recommendation.  The Board, after also considering the recommendation of the Department of Finance, may then award the contract in its discretion, as long as the total cost to the City does not exceed the amount of the tie bid.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>Once filed, bids are irrevocable.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>Any recommendation that is made by any municipal agency to the Board of Estimates as to the appropriate award to be made by the Board is advisory only and not binding on the Board.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(vi)</span></p>
+<p>Notwithstanding the competitive bid provisions of this Charter, the Board of Estimates may adopt rules and regulations that establish uniform procedures for providing, on a neighborhood service, neighborhood public work, or neighborhood public improvement contract, limited bid preferences to responsive and responsible bidders who are residents of, or have their principal places of business in, that neighborhood.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>All bids for construction contracts let for the Department of Public Works, the Department of General Services, and the Department of Transportation and any other contracts for public works shall be accompanied by a check or bid bond.  For all other contracts, the Director of Finance shall implement policies and procedures to determine whether a bid bond is required for a contract, the term and face value of the bond, and the manner in which the bond shall be provided and refunded.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>Except as otherwise provided in this paragraph (2), the check shall be a certified check of the bidder, a bank cashier’s check, or a bank treasurer’s check, drawn on a clearing house bank.  The check shall be in an amount provided by ordinance, by the bid specifications, or by an order or regulation of the using agency.  In the case of bid checks of $5,000 or less, the check may be of any type drawn on any banking institution of the United States.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>The bid bond shall be in the form and amount provided by the rules and regulations of the Board of Estimates, and shall be filed by the bidder with the Department of Finance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>The successful bidder promptly shall execute a formal contract, to be approved as to its form, terms, and conditions by the City Solicitor.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>For all construction contracts let for the Department of Public Works, the Department of General Services, and the Department of Transportation and any other contracts for public works , the bidder shall execute and deliver to the Mayor a good and sufficient performance bond, irrevocable letter of credit, or certification that the successful bidder meets the requirements under the City’s self-insurance program for performance coverage.  For all other contracts, the Director of Finance shall implement policies and procedures to determine whether a performance bond is required for a contract, the term and face value of the bond, and the manner in which the bond shall be provided.</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>The bond, letter of credit, or certification shall be:</p>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">1.</span></p>
+<p>in an amount equal to the full contract price;  or</p>
+</div>
+<div class="charter-para charter-depth-4">
+<p><span class="charter-num">2.</span></p>
+<p>for each year in a multi-year contract (other than a construction contract), in an amount equal to the estimated contract price for that year, as determined by the Director of Finance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>Any successful bidder who fails to execute promptly and properly the required contract, performance bond, irrevocable letter of credit, or certification, as applicable, shall forfeit the amount deposited, or an equivalent amount under the bid bond.  This amount shall be taken and considered as liquidated damages and not as penalty for the bidder’s failure.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>When the successful bidder executes the contract and, if required, the performance bond, the bid checks shall be returned to all bidders or the equivalent amounts charged against their bid bond shall be released.  If the City has deposited bid checks, the City shall reimburse these bidders in the amounts of the bid checks.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span></p>
+<p>If a bidder is not required to file a bid bond under the policies and procedures adopted by the Director of Finance and the bidder  fails to execute and perform any contract awarded to that bidder, the exempted bidder shall forfeit the right to bid on any future City contract for a period of time determined by the Board of Estimates, and shall be liable for any costs incurred by the City as a result of the default.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(i)</span> <span class="charter-subhead">Local, small, and disadvantaged business enterprise programs.</span></p>
+<p>The Mayor and City Council may, by ordinance, establish programs that grant purchasing preferences to local, small, or disadvantaged businesses and, for that purpose, waive or modify the application of <a href="article-vi.html#s-11">this section</a> (with the exception of subsection (a)) to certain transactions.</p>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 07-031, ratified Nov. 6, 2007; Res. 10-024, ratified Nov. 2, 2010; Res. 16-030, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.; Initial threshold amounts were set by Board of Estimates Resolution adopted December 22, 2010, as follows:  § 11(c), which requires formal advertisements, applies to procurements involving expenditures of more than $50,000.  § 11(f), which requires contracts to be approved by the Board of Estimates, applies to contracts involving expenditures of more than $25,000.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/11)
+
+
+### § 12. Salary and wage scales; Work conditions. {#s-12}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>The Board shall fix the salary or wage scales for the several classifications of the City employee in the Classified Civil Service, and such scales, so far as practicable, shall be uniform for all like classifications except that where a final decision of a board of arbitration convened to arbitrate unresolved negotiations between the City and the certified employee organization representing the fire fighters and fire officers has been rendered in any year, the amounts as determined shall be adopted by the Board of Estimates as the salary and wage scales for employees of the Fire Department.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>The Board shall also adopt such rules and regulations as it may deem appropriate to insure, so far as practicable, like working conditions for the employees in the several municipal agencies, including vacation and sick leave.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Multi-year collective bargaining agreements.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>The Board of Estimates may approve a collective bargaining agreement between the City and one or more of the Baltimore Fire Fighters, IAFF Local 734, the Baltimore Fire Officers, IAFF Local 964, the American Federation of State, County and Municipal Employees, AFL-CIO, Council 67 (AFSCME Locals 44, 558, and 2202), the City Union of Baltimore, and the Baltimore City Lodge No. 3, Fraternal Order of Police, Inc., Units I and II, for a term of not less than 1 fiscal year and not more than 3 consecutive fiscal years, so long as the term of the collective bargaining agreement does not extend beyond the fiscal year in which the current Mayor’s term of office ends.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>The Board shall annually include in the Ordinance of Estimates submitted to the City Council an amount sufficient to fund the salaries provided for in any collective bargaining agreement between the City and the local unions listed in paragraph (1) of this subsection.</p>
+</div>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 06-016, ratified Nov. 7, 2006; Res. 14-014, ratified Nov. 4, 2014; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/12)
+
+
+### § 13. Command appearance of municipal officers. {#s-13}
+
+```{=html}
+<p>The Board shall have power at any time to summon before it the heads of departments and their respective bureaus or divisions, all municipal officers, and members of commissions, and boards.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/13)
+
+
+### § 14. Bonds of municipal officers. {#s-14}
+
+```{=html}
+<p>Except as otherwise provided by State law, the Board of Estimates shall determine which officials of the City shall be bonded for the faithful performance of their duties and the form and amount of such bonds.  All premiums on official bonds shall be paid by the City.  All bonds executed in favor of the City shall be approved by the Mayor.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/14)
+
+
+### § 15. Claims against or by City. {#s-15}
+
+```{=html}
+<p>No private claims against the City shall be paid nor shall any claims held by the City be compromised or released except in accordance with procedures established by the Board of Estimates.  Nothing contained in <a href="article-vi.html#s-15">this section</a> shall be held to apply to claims against the City or held by the City in any case where, by the express terms of any contract, an engineer, architect or other agent or representative of the City is authorized to decide as to such claims.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/15)
+
+
+### § 16. Salaries of State’s Attorney’s Office. {#s-16}
+
+```{=html}
+<p>The Board of Estimates is hereby authorized and empowered to fix the salaries of the State’s Attorney, the Deputy State’s Attorney, and Assistant State’s Attorneys of Baltimore City, in amounts not less than those prescribed by the Constitution of Maryland.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/16)
+
+
+### § 17. Expenditures for new improvements. {#s-17}
+
+```{=html}
+<p>Except as provided in <a href="article-vii.html#s-61">Section 61 of Article VII</a>, no expenditure for any new improvement shall be made out of any appropriation in the Ordinance of Estimates unless the plans for such improvement are first submitted to and approved by the Board of Estimates.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/17)
+
+
+### § 18. Water, sanitary wastewater, and stormwater utilities. {#s-18}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">To be separate enterprises.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Water, sanitary wastewater, and stormwater utilities each shall be conducted as a separate enterprise.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>Each of the utilities shall be financially self-sustaining and shall be operated without profit or loss to the other funds or programs of the City.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Utility budgets; Agency budget estimates.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Separate budgets, which shall include estimates of revenue and expense for the ensuing fiscal year, shall be prepared annually for the water, sanitary wastewater, and stormwater utilities.   The actions of the Board of Estimates and the City Council on the utilities’ budgets are subject to <a href="article-vi.html#s-18">this section</a>.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>The budget estimates of each agency of the City shall include items for the use of services provided by the water, sanitary wastewater, and stormwater utilities, as applicable.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Interfund and other borrowing.</span></p>
+<p>Nothing in <a href="article-vi.html#s-18">this section</a> prevents the following, if otherwise in accordance with law:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>interfund cash borrowings between the water, sanitary wastewater, and stormwater utilities to meet temporary cash requirements; or</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>borrowings by these utilities from the General Fund or any other fund of the City.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Transfer of employees.</span></p>
+<p>Nothing in <a href="article-vi.html#s-18">this section</a> prevents:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>the transfer or assignment of employees from one utility to another utility or to any department, board, commission, or agency of the City; or</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>the division of employees’ time among the utilities or between a utility and any department, board, commission, or agency of the City.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Supplemental legislation.</span></p>
+<p>The Mayor and City Council may enact, from time to time, ordinances not inconsistent with this Charter, as necessary or desirable to implement the provisions of <a href="article-vi.html#s-18">this section</a>.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 12-004, ratified Nov. 6, 2012</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/VI/18)

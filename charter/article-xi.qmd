@@ -1,0 +1,156 @@
+---
+title: "Article XI — Charter Review Commission"
+---
+
+
+::: {.charter-note}
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+:::
+
+
+## Sections
+
+- [§ 1. Commission established](#s-1)
+- [§ 2. Term](#s-2)
+- [§ 3. Composition](#s-3)
+- [§ 4. Duties](#s-4)
+- [§ 5. Report to the Mayor and City Council](#s-5)
+- [§ 6. Dissolution](#s-6)
+
+
+### § 1. Commission established. {#s-1}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>A Charter Review Commission shall be established decennially in accordance with <a href="article-xi.html">this article</a> by resolution of the Mayor and City Council no later than May 1 in the first odd-numbered year of each decade.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Interim commissions.</span></p>
+<p>Notwithstanding <a href="article-xi.html#s-1">subsection (a) of this section</a>, a Charter Review Commission may be established in accordance with <a href="article-xi.html">this article</a> by resolution of the Mayor and City Council no later than May 1 in any year that precedes a congressional election.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Initial commission.</span></p>
+<p>The first Commission under <a href="article-xi.html">this article</a> shall be established no later than May 1, 2021.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/1)
+
+
+### § 2. Term. {#s-2}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>A Charter Review Commission established in accordance with <a href="article-xi.html">this article</a> shall complete its duties and submit its work to the Mayor and City Council no later than May 31 in the year following its establishment.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Dissolution.</span></p>
+<p>On completion and submission of its work to the Mayor and City Council, the Commission shall be deemed dissolved.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/2)
+
+
+### § 3. Composition. {#s-3}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>The Commission shall be composed as specified in <a href="article-xi.html#s-3">this section</a> of registered voters of the City appointed without regard to political affiliation.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Manner of appointment.</span></p>
+<p>The Mayor, the President of the City Council, and the Comptroller shall each appoint 3 members to the Commission.  Each member of the City Council shall appoint 1 member to the Commission.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Ineligibility of elected officials .</span></p>
+<p>No person holding elective office may be appointed to the Commission.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Chair and vice chair.</span></p>
+<p>The Commission shall elect a chair and a vice chair from among its members.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Advisory committees; Staff.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Advice and technical assistance shall be provided to the Commission by:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>the City Solicitor or the Solicitor’s designee;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>the Director of Legislative Reference or the Director’s designee;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>the General Counsel to the City Council;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>the Director of the Office of Council Services or the Director’s designee; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>the Deputy Comptroller or the Deputy Comptroller’s designee.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>At the discretion of the Commission, advisory committees may be appointed to assist the Commission in its duties.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/3)
+
+
+### § 4. Duties. {#s-4}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>The Commission shall review the Charter, undertake a comprehensive study of its contents, and make findings and recommendations as to the necessity for deleting, adding, or amending its provisions in order to improve the efficiency and operations of City government.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Public hearing and testimony.</span></p>
+<p>Prior to delivering its report to the Mayor and the City Council, the Commission shall hold at least 1 public hearing to receive public testimony about the work of the Commission.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/4)
+
+
+### § 5. Report to the Mayor and City Council. {#s-5}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">In general.</span></p>
+<p>The Commission shall deliver a written report of its findings and recommendations to the Mayor and the City Council.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Public hearing.</span></p>
+<p>The City Council shall hold a public hearing at which the Commission shall present its report and recommendations.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/5)
+
+
+### § 6. Dissolution. {#s-6}
+
+```{=html}
+<p>On completing the activities required in §5 of <a href="article-xi.html">this article</a>, the Commission shall be deemed dissolved and its work completed.</p>
+<p class="charter-history"><strong>History:</strong> Res. 20--018, ratified Nov. 3, 2020</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/XI/6)

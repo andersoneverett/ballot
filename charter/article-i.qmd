@@ -1,0 +1,1034 @@
+---
+title: "Article I — General Provisions"
+---
+
+
+::: {.charter-note}
+Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I), October 15, 2026 release (publication 2026-09-28). This copy is for reading and searching and is not the official version. Charter amendments adopted after this release, including the November 2026 ballot questions, may not appear yet.
+:::
+
+
+## Sections
+
+- [§ 1. Corporate entity](#s-1)
+- [§ 2. Definitions](#s-2)
+- [§ 3. Property rights; Trusts; Gifts](#s-3)
+- [§ 4. Condemnation interests](#s-4)
+- [§ 5. Uniform application throughout City; Public ways](#s-5)
+- [§ 6. Uniform taxation](#s-6)
+- [§ 7. Records; Reports](#s-7)
+- [§ 8. Official time](#s-8)
+- [§ 9. Inner Harbor Park](#s-9)
+- [§ 10. Affordable housing funds](#s-10)
+- [§ 11. Sustainability and related funds](#s-11)
+- [§ 12. Special funds for education](#s-12)
+- [§ 13. Children and Youth Fund](#s-13)
+- [§ 14. Affordable housing trust fund](#s-14)
+- [§ 15. Special fund for fair elections](#s-15)
+- [§ 16. Special fund for equity assistance](#s-16)
+- [§ 17. Supplementary criminal apprehension and conviction fund](#s-17)
+- [§ 19. Dante Barksdale career technology apprenticeship fund](#s-19)
+
+
+### § 1. Corporate entity. {#s-1}
+
+```{=html}
+<p>The inhabitants of the City of Baltimore are a corporation, by the name of the “Mayor and City Council of Baltimore,” and by that name shall have perpetual succession, may sue and be sued, may purchase and hold real, personal and mixed property and dispose of the same for the benefit of the City, as herein provided, and may have and use a common seal, which may be altered at pleasure.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/1)
+
+
+### § 2. Definitions. {#s-2}
+
+```{=html}
+<p>As used in this Charter, unless the context otherwise requires:</p>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">City.</span></p>
+<p>“City” means the Mayor and City Council of Baltimore, the body corporate as established by <a href="article-i.html#s-1">Section 1 of this Article I</a>.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Voter.</span></p>
+<p>“Voter” means any person whose name appears on the election records kept by the Board of Supervisors of Elections of Baltimore City, as a qualified voter in the City.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Charter.</span></p>
+<p>“Charter” means this Charter, composed of Articles <a href="article-i.html">I</a> to <a href="article-ix.html">IX</a>, inclusive, and any amendments and additions thereto which may hereafter be duly adopted; reference herein to articles and sections by number are references to articles and sections of the Charter.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Person.</span></p>
+<p>“Person” means any individual, firm, partnership, corporation, company, association, or body politic except the City; and includes any personal representative, agent, trustee, receiver, assignee or other similar representative thereof.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Number; Gender.</span></p>
+<p>Except where such construction would be unreasonable, the singular always includes the plural, and vice versa, and the masculine includes all genders.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(f)</span> <span class="charter-subhead">Officer; Municipal officer.</span></p>
+<p>“Officer” and “municipal officer” shall include, but shall not be limited to, the City Administrator, the heads of all departments and bureaus, the members of all commissions and boards, and persons who exercise authority comparable to that of heads of departments or bureaus.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(g)</span> <span class="charter-subhead">Term of office.</span></p>
+<p>“Term of office” means the period of time for which any person shall have been elected or appointed to hold office, and in addition such time as shall elapse after the expiration of his term until his successor shall have been elected or appointed and qualified.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(h)</span> <span class="charter-subhead">Ordinance of Estimates.</span></p>
+<p>“Ordinance of Estimates” and “annual Ordinance of Estimates” shall include supplementary appropriation ordinances.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(i)</span> <span class="charter-subhead">Subject to the authority.</span></p>
+<p>“Subject to the authority” shall mean that the person or body possessed of such authority may amend or revoke the action or decision subject to such authority or reserve to himself or itself such action or decision.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(j)</span> <span class="charter-subhead">Municipal agency.</span></p>
+<p>“Municipal agency” shall include all departments, bureaus, boards and commissions and persons not embraced in a department who exercise authority comparable to that of heads of departments or bureaus.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(k)</span> <span class="charter-subhead">Street.</span></p>
+<p>“Street”, unless the contrary clearly appears from the context, shall include any public street, boulevard, road, alley, lane, sidewalk, footway or other public way owned by the city or habitually used as such by the public.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(l)</span> <span class="charter-subhead">Members.</span></p>
+<p>Wherever provision is made in the Charter that the City Council shall act by a majority or other proportion of its members, the term “members” in the phrase “of its members” shall mean the total number of members provided for by law, including the President, whether or not any vacancies due to death, resignation, disqualification or other cause may then exist.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(m)</span> <span class="charter-subhead">Headings.</span></p>
+<p>Any headings preceding the text of the several articles and sections hereof are inserted solely for convenience of reference, and shall not constitute a part of the Charter, nor shall they affect its meaning, construction or effect.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(n)</span> <span class="charter-subhead">Acting.</span></p>
+<p>“Acting” status authorizes one who is substituting for another to exercise the powers and perform the duties of the other’s office.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(o)</span> <span class="charter-subhead">Law.</span></p>
+<p>“Law” consists of those rules that bind or control the actions of Baltimore City and its officers and agents, including, when applicable, federal law, state law and city ordinances.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/2)
+
+
+### § 3. Property rights; Trusts; Gifts. {#s-3}
+
+```{=html}
+<p>All the property and franchises of every kind belonging to, in the possession of, or hereafter acquired by the City are vested in it and it may dispose of any property belonging to it in the manner and upon the terms provided in the Charter.</p>
+<p>The City may receive in trust, and may control for the purposes of such trust, all moneys and assets which may have been or shall be bestowed upon it by will, deed or any other form of gift or conveyance in trust for any corporate purpose, or in aid of the indigent poor, or for the general purposes of education or for charitable purposes of any description.  All trust funds now held or subsequently received shall be administered with respect to investment and reinvestment, subject to any limitations in the trust, by the Board of Finance.</p>
+<p>The City may also accept grants for its corporate purposes from any government, governmental agency or person.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/3)
+
+
+### § 4. Condemnation interests. {#s-4}
+
+```{=html}
+<p>Whenever the City shall condemn any land for any public or municipal purpose, in all cases the absolute and unqualified fee simple title to such land, or, when the proceeding is in personam, all the right, title and interest of the owner or owners who are made parties to the proceeding, if they should not be the owners of the entire fee simple title, shall be condemned and acquired; so that neither the land nor any interest therein, shall under any circumstances revert to the person or persons who shall be the owners thereof at the time of the condemnation, or who shall be parties to the proceeding in personam, nor to any person or persons claiming under him, her or them; provided, however, that when the condemnation shall be provided for by ordinance, the City may determine, and in the ordinance providing for the condemnation declare, that an interest, less than the fee simple interest, for a fixed and limited period of time, or some other limited interest, will suffice for the purpose or purposes for which the property is to be acquired, and under such circumstances, only such interest shall be condemned and acquired.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/4)
+
+
+### § 5. Uniform application throughout City; Public ways. {#s-5}
+
+```{=html}
+<p>The Charter shall apply in every section of Baltimore City without distinction because of the date at which it became a part of the City, and all existing streets, avenues, roads, alleys and bridges within the City, heretofore dedicated and accepted or condemned or otherwise established as roads or streets by any then proper public authority, are in all respects validly constituted public streets and highways of the City.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/5)
+
+
+### § 6. Uniform taxation. {#s-6}
+
+```{=html}
+<p>The taxes levied by the City with respect to ownership of the same class of property or property rights, shall be uniform in rate throughout the entire City.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/6)
+
+
+### § 7. Records; Reports. {#s-7}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Required maintenance; Admissibility; Public inspection.</span></p>
+<p>A suitable record of all the proceedings, financial transactions and official acts of all municipal agencies, shall be kept, and a certified copy of the record, or any part thereof, under the corporate seal of the City shall be admissible in evidence in any court of this State as proof of such record, or a part thereof.  A record shall be available for public inspection unless otherwise expressly ordered by the head of the agency or the municipal officer by or on behalf of whom the record is kept; and in the event that written demand shall be made for the public disclosure of any matter deemed confidential by the head of an agency or by a municipal officer, the demand shall at once be referred to the Board of Estimates and the Board, after consultation with the City Solicitor as to the legal propriety of its action, may order the demanded disclosure to be made in whole or in part.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Microfilm, etc.</span></p>
+<p>The City may provide by ordinance for the making and keeping of all or some records on microfilm or by other method of reproduction and, when so made, for the destruction of the original records.  Any such reproduction or print therefrom shall be in all respects the equivalent of the original from which made, and when authenticated as above provided shall be admissible in evidence in any court of this State as proof of that record, or part thereof.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Annual report; Other information.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>Unless otherwise directed by the Board of Estimates, every municipal agency of the City shall prepare annually a written report of its work and proceedings.  A copy of each report shall be filed with the Mayor and the City Administrator, and a copy shall also be filed with the Department of Legislative Reference; additional copies of each report, or parts thereof, shall be prepared and made available as from time to time may be directed by the Board of Estimates.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>Upon request of the Mayor, the City Administrator, or Board of Estimates every municipal agency shall promptly supply the Mayor, the City Administrator, or the Board with all requested information with respect to the practice and proceedings of the agency; provided, however, that this information need not be given with respect to any undetermined policy or opinion, nor shall the Board of Municipal and Zoning Appeals make any disclosure as to any pending appeal other than to furnish a copy of the testimony and papers filed with it pertaining to that appeal.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/7)
+
+
+### § 8. Official time. {#s-8}
+
+```{=html}
+<p>The official time of the City of Baltimore shall conform to standard time based upon the time of the seventy-fifth meridian, except that, from two o’clock a.m. of the last Sunday in April until two o’clock a.m. of the last Sunday in September of each year, the official time throughout the City of Baltimore shall be advanced one hour, and all courts, public offices, legal and official proceedings, insofar as the same are subject to or under the control of the Mayor and City Council of Baltimore, shall be regulated thereby, and all time shown by the public clocks shall agree therewith.  Provided, however, that the Mayor and City Council by ordinance passed not less than fifteen days before the change would become effective, may extend the period during which the one hour variation from standard time shall be effective in any year or years.  The extension may be to change the advance in time up to two o’clock a.m. on the last Sunday in March, or back to two o’clock a.m. on the last Sunday in October, or both such changes, or any portion or portions of either.  Any such extension may be provided only if other municipalities or sections of the United States shall have made such a change, and in the opinion of the Mayor and City Council thereby have caused inconvenience and annoyance to the commercial, economic, industrial or social affairs of the residents of Baltimore City.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/8)
+
+
+### § 9. Inner Harbor Park. {#s-9}
+
+```{=html}
+<p>There is hereby dedicated to public park uses for the benefit of this and future generations of the City of Baltimore and the State of Maryland the portion of the City that lies along the north, west and south shores of the Inner Harbor, south of Pratt Street to the water’s edge, east of Light Street to the water’s edge and north of Key Highway to the water’s edge, from the World Trade Center around the shoreline of the Inner Harbor to and including Rash Field, except that, in order to provide eating places and other commercial uses, areas totalling not more than 3.2 acres plus access thereto, within the dedicated space and north of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that in order to provide outdoor eating places for the areas known as West Shore Park and Rash Field, areas totalling not more than 0.5 acres within the dedicated space and south of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that an area of not more than 3.4 acres shall be set aside for use by the Maryland Science Center, plus access thereto.</p>
+<p class="charter-history"><strong>History:</strong> Res. 16-029, ratified Nov. 8, 2016</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/9)
+
+
+### § 10. Affordable housing funds. {#s-10}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Authorization.</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish 1 or more continuing, nonlapsing funds for purposes of promoting economically diverse housing in City neighborhoods, including:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>providing assistance, by loan, grant, or otherwise, for the planning, production, maintenance, or expansion of affordable housing in the City;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>providing assistance, by loan, grant, or otherwise, to persons unable to obtain affordable housing; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>otherwise increasing housing opportunities for working families and other persons of low and moderate income.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>A fund established under <a href="article-i.html#s-10">this section</a> may comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund  in the annual Ordinances of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of a fund established under <a href="article-i.html#s-10">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 06-015, ratified Nov. 7, 2006</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/10)
+
+
+### § 11. Sustainability and related funds. {#s-11}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Authorization.</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish 1 or more continuing, nonlapsing funds for purposes of promoting sustainability, maintaining and establishing parks and other open spaces, and cleaning and preserving the natural environment within the City of Baltimore, including:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>supporting the activities of a City office of sustainability and of other offices necessary or appropriate for these purposes and goals;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>performing educational outreach on these purposes and goals;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>providing assistance by loan, grant, or otherwise to individuals and organizations undertaking activities to further these purposes and goals; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>conducting research to advance theses purposes and goals.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>A fund established under <a href="article-i.html#s-11">this section</a> may comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund  in the annual Ordinances of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of a fund established under <a href="article-i.html#s-11">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 10-021, ratified Nov. 2, 2010</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/11)
+
+
+### § 12. Special funds for education. {#s-12}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Authorization.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish 1 or more continuing, nonlapsing funds for purposes of enhancing the educational environment in Baltimore City by creating modern, state-of-the-art schools.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>These purposes include supporting and augmenting programs and activities of the Baltimore City Public School System that are designed to:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>increase new school construction;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>renovate and improve existing City school building;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>renew athletic facilities and provide recreational equipment and supplies; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>modernize education-related equipment and supplies.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>A fund established under <a href="article-i.html#s-12">this section</a> may comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund  in the annual Ordinances of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of a fund established under <a href="article-i.html#s-12">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 11-032, ratified Nov. 9, 2011</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/12)
+
+
+### § 13. Children and Youth Fund. {#s-13}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Fund established; Scope.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>There is a continuing, nonlapsing Baltimore City Children and Youth Fund, to be used exclusively for purposes of establishing new and augmenting existing programs for and services to the children and youth of this City.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>These programs and services must be from among those designed to:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>ensure that Baltimore’s children and youth are healthy, are ready to learn and succeed in school, and live in stable, safe, and supportive families and communities;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>ensure that Baltimore City supports families as an important part of the City population and civic culture;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>focus on the prevention of problems and on supporting and enhancing the strengths of children, youth, and their families;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>complement the City’s community development efforts;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>strengthen community-based networks of recreation and after-school services in all neighborhoods; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(vi)</span></p>
+<p>ensure that children and youth with the highest needs receive maximum benefit from the Fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>The Fund shall be administered in accordance with the following standards:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>programs and services shall be provided and funds allocated based on best practices and successful and innovative models;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>to the maximum extent feasible, funds shall be allocated equitably among services for all age groups – from infancy to transitional-aged youth;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>programs and services shall be gender-responsive and culturally competent; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>programs and services shall be designed to strengthen collaboration among service providers for children, youth, and their families, including collaboration among public agencies and non-profit organizations.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Limitations on use.</span></p>
+<p>The Children and Youth Fund may not be used to substitute for or replace funding for children and youth programs or services provided in the Ordinance of Estimates for Fiscal Year 2017, except to the extent that federal, state, or private agency funds for those programs or services have since been discontinued.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>The Children and Youth Fund shall comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>a mandatory annual appropriation in the Ordinance of Estimates of an amount  equal to at least $0.03 on every $100 of assessed or assessable value of all property in the City of Baltimore (except property exempt by law); and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants and donations made to the Fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Continuing nature of Fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of the Children and Youth Fund:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the Fund, to be used exclusively for its specified purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Implementation.</span></p>
+<p>By Ordinance, the Mayor and City Council shall provide for the oversight, governance, and administration of the Children and Youth Fund, including:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>methods and criteria for identifying specific program and services eligible for funding by the Fund;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>methods and criteria for allocating available funds among eligible programs and services; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>the establishment of any other legislative or administrative rules, regulations, or standards, consistent with <a href="article-i.html#s-13">this section</a>, governing the Fund, its operations, and programs and services funded by it.</p>
+</div>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 16-026, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/13)
+
+
+### § 14. Affordable housing trust fund. {#s-14}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Fund established: scope.</span></p>
+<p>There is a continuing, nonlapsing fund to be used to promote fair housing in neighborhoods throughout Baltimore, develop and preserve affordable housing for renters and homeowners, and increase affordable housing opportunities for low-income working families and other persons of low income, including:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>providing assistance, by loan, grant, rental subsidy, or otherwise, for the planning, production, maintenance, or expansion of affordable housing, including inclusionary housing;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>providing predevelopment activities for the acquisition, development, new construction, rehabilitation, and/or restoration of affordable housing;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>providing capital and operating assistance for the creation of community land trusts that will develop, own, or operate permanently affordable rental housing and assist low income residents to build a path to homeownership;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>providing affordable and fair-housing related services to low income households to assist them in obtaining housing and remaining stably housed, provided such uses shall not exceed 30% of the funds allocated in a given fiscal year; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span></p>
+<p>providing administrative and planning costs for the operation of the trust fund, provided such uses may not exceed 5% of the funds allocated each fiscal year.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>A fund established under <a href="article-i.html#s-14">this section</a> may comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund in the annual Ordinance of Estimates;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>mandatory or voluntary payments made pursuant to the development policies established by ordinance;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>a portion of the tax increment financing revenue from increased property tax receipts for the development of affordable housing inside the project area and special taxing district, or in other locations as permitted by law; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span></p>
+<p>other sources as established by ordinance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of a fund established under <a href="article-i.html#s-14">this section</a>, repayments of principal and interest on loans provided from the fund, and interest earned from the deposit or investment of monies from the fund:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>shall remain in the fund, to be used exclusively for the purposes set forth in <a href="article-i.html#s-14">section 14(a) of this article</a> {<a href="article-i.html#s-14">subsection (a) of this section</a>};</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>any appropriations do not lapse.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Administration and oversight.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span> <span class="charter-subhead">In general.</span></p>
+<p>The trust fund shall be:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>administered by {the} Baltimore City {Department of} Housing and Community Development; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>overseen by a Commission, the members of which shall be appointed, must be confirmed, and shall serve pursuant to <a href="article-iv.html#s-6">Article IV, Section 6</a>{, of this Charter}.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span> <span class="charter-subhead">Commission composition - in general.</span></p>
+<p>The Commission shall include:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>a member appointed by the Mayor with experience in the fields of housing, community development, planning, social services, or public health;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>a member of the lending community with experience in community development and affordable housing finance;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>the Baltimore City Housing Commissioner or his/her designee;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>a resident who rents his/her home and who lives in a household that is extremely low income (i.e., no more than 30% of Area Median Income);</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>a resident who owns his/her home and who lives in a household that is very low income (i.e., no more than 50% of Area Median Income);</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(vi)</span></p>
+<p>a homeowner who received assistance through an affordable homeownership program;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(vii)</span></p>
+<p>a resident who has received rental assistance;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(viii)</span></p>
+<p>a social service provider;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ix)</span></p>
+<p>a representative of the Homeless Services Board;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(x)</span></p>
+<p>a low-income-housing and/or fair-housing advocate;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(xi)</span></p>
+<p>a nonprofit affordable housing developer;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(xii)</span></p>
+<p>a representative of a homebuilders or realtors association of Baltimore; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(xiii)</span></p>
+<p>such different or additional members as may be designated by ordinance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span> <span class="charter-subhead">Commission composition - income requirements for at least 4 of members.</span></p>
+<p>Notwithstanding any provision to the contrary, the composition of the Commission shall be comprised of {shall comprise} at least 4 residents of Baltimore City whose incomes are reflective of those individuals who will be assisted by the expenditures of this trust fund.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span> <span class="charter-subhead">Commission President.</span></p>
+<p>The Mayor shall designate one member of the Board as its President and may withdraw that designation and so designate another member.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span> <span class="charter-subhead">Commission duties.</span></p>
+<p>The Commission shall:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>make recommendations, advise, and consult with the Department of Housing and Community Development regarding the establishment of essential policies, rules, and regulations relating to the implementation, expenditures, and ongoing operation of the trust fund;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>submit an annual report to the Mayor and City Council on the activities and usage of the funds in the trust fund, including tenure (rental and homeownership), income level served, {and} unit size (number of bedrooms), and make the report available to the public;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>if necessary, recommend changes to the trust fund to maximize affordability outcomes of the trust fund, to the Mayor and City Council;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>ensure an audit of the fund every four years by a certified public accounting firm; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>exercise any additional duty related to the trust fund as directed by the Mayor and City Council.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Income targeting.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>All assistance provided by the trust fund shall serve very low income households.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>At least half of the assistance in any three-year period must serve extremely low income households.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(f)</span> <span class="charter-subhead">Minimum affordability periods.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>All rental housing assisted by the trust fund must have a minimum affordability period of at least 30 years.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>All homeownership housing assisted by the trust fund must meet affordability criteria based in part on the amount of trust fund monies invested in the unit.</p>
+</div>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Initiative “Question J”, ratified Nov. 8, 2016; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/14)
+
+
+### § 15. Special fund for fair elections. {#s-15}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Authorization.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish a continuing, nonlapsing fund for purposes of encouraging fair elections by administering a public financing option for political campaigns for Baltimore City elected offices.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>These purposes include:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>providing direct funding to candidates for public office who meet certain qualifications;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>providing technical assistance and training to individuals seeking to make use of public campaign funding;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>publicizing the availability of public campaign funding; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>administering a public campaign funding program.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Baltimore City Fair Election Fund Commission.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>The fund is administered by the Baltimore City Fair Election Fund Commission, and no funds may be dispersed from the fund without authorization by that Commission.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>The  Baltimore City Fair Election Fund Commission consists of 11 members, including:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>2 members appointed by the Mayor;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>3 members representing organizations focused on government reform, appointed by the Mayor;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>1 member representing an organization advocating for the interests of City business owners, appointed by the Mayor; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>5 members appointed by the President of the City Council.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>Each member of the Commission must:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>be a resident of the City of Baltimore;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>not be a candidate for public office;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>not be a lobbyist required to register with the City;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>not be the chair or treasurer for an open campaign account;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(v)</span></p>
+<p>be a registered voter; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(vi)</span></p>
+<p>be confirmed by the City Council.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span></p>
+<p>The term of a member of the Commission is:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>for the members of the initial Commission appointed by the President of the City Council, 6 years beginning on May 1, 2019;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>for all other members of the initial Commission, 4 years beginning on May 1, 2019; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>for all members appointed to a full term after May 1, 2019, 4 years from the expiration of their predecessor’s appointment.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(5)</span></p>
+<p>A vacancy arising during a term shall be filled in the same manner as the original appointment and shall be filled for the remainder of the  predecessor’s term.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(6)</span></p>
+<p>The Commission shall elect a Chairperson and a Vice Chairperson from its members.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(7)</span></p>
+<p>A Commission member shall not receive compensation for service on the Commission, but may be reimbursed for reasonable and necessary expenses as provided in the Ordinance of Estimates.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>The fund established under <a href="article-i.html#s-15">this section</a> may consist of:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund in the annual Ordinances of Estimates;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>proceeds from fines, fees, surcharges, or other revenues dedicated to the fund by Ordinance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of the fund established under <a href="article-i.html#s-15">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Implementation.</span></p>
+<p>By Ordinance, the Mayor and City Council shall provide for the oversight, governance, and administration of the Fair Election Fund, including:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>qualifications of candidates eligible for funding from the Fund;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>methods and criteria for allocating available funds among eligible programs or candidates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>the establishment of any other legislative or administrative rules, regulations, or standards, consistent with <a href="article-i.html#s-15">this section</a>, governing the Fund, its operations, and programs, services, and candidates funded by it.</p>
+</div>
+</div>
+<p class="charter-history"><strong>Editor's Notes, History:</strong> Res. 18-009, ratified Nov. 6, 2018; For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/15)
+
+
+### § 16. Special fund for equity assistance. {#s-16}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Authorization.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish a continuing, nonlapsing fund for purposes of assisting efforts that reduce inequity based on race, gender, or economic status in Baltimore.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>These purposes include supporting and augmenting programs and activities that are designed to:</p>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(i)</span></p>
+<p>provide equity in housing;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(ii)</span></p>
+<p>provide equitable access to education;</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iii)</span></p>
+<p>assist efforts to redress past inequities in City capital budget spending; and</p>
+</div>
+<div class="charter-para charter-depth-3">
+<p><span class="charter-num">(iv)</span></p>
+<p>eliminating structural and institutional racism and other forms of discrimination based on immutable characteristics.</p>
+</div>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>The fund established under <a href="article-i.html#s-16">this section</a> may consist of:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund in the annual Ordinance of Estimates;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>proceeds from fines, fees, surcharges, or other revenues dedicated to the fund by ordinance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of the fund established under <a href="article-i.html#s-16">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 18-014, ratified Nov. 6, 2018</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/16)
+
+
+### § 17. Supplementary criminal apprehension and conviction fund. {#s-17}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Fund established; Scope.</span></p>
+<p>There is a continuing, nonlapsing  Supplementary Criminal Apprehension and Conviction Fund, to be used exclusively for purposes of supplementing rewards offered to the public from time to time by the Baltimore Police Department or a non-profit organization for the successful apprehension, arrest, and conviction of criminal suspects.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Limitations on use.</span></p>
+<p>The  Supplementary Criminal Apprehension and Conviction Fund:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>shall only be used to supplement rewards; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>may not be used to substitute for or replace existing funding for rewards provided by the Baltimore Police Department or any non-profit organizations as described in <a href="article-i.html#s-17">subsection (a) of this section</a>.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>The fund established under <a href="article-i.html#s-17">this section</a> may consist of:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund in the annual Ordinance of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of the fund established under <a href="article-i.html#s-17">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(e)</span> <span class="charter-subhead">Implementation.</span></p>
+<p>By Ordinance, the Mayor and City Council may provide for the oversight, governance, and administration of the fund described in <a href="article-i.html#s-17">this section</a>.</p>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 22-001, ratified Nov. 8, 2022</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/17)
+
+
+### § 19. Dante Barksdale career technology apprenticeship fund. {#s-19}
+
+```{=html}
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(a)</span> <span class="charter-subhead">Definitions.</span></p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span> <span class="charter-subhead">In general.</span></p>
+<p>In <a href="article-i.html#s-19">this section</a>, the following terms have the meanings indicated.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span> <span class="charter-subhead">Apprenticeship training program.</span></p>
+<p>“Apprenticeship training program” means an apprenticeship training program located in Baltimore City that is registered with and approved by the Maryland Apprenticeship and Training Council or the U.S. Department of Labor.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span> <span class="charter-subhead">Covered craft.</span></p>
+<p>“Covered craft” means a classification of workers listed in the prevailing wage determination applicable to the covered project.</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(4)</span> <span class="charter-subhead">Covered project.</span></p>
+<p>“Covered project” means a project for the construction of a public work that is valued at $500,000 or more.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(b)</span> <span class="charter-subhead">Authorization.</span></p>
+<p>By Ordinance, the Mayor and City Council of Baltimore may establish a continuing, nonlapsing fund for purposes of promoting Baltimore City pre-apprenticeship programs and other workforce development programs in Baltimore City's public secondary schools and community colleges that assist students in preparing for and entering apprenticeship training programs.</p>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(c)</span> <span class="charter-subhead">Revenue sources.</span></p>
+<p>The fund established under <a href="article-i.html#s-19">this section</a> shall comprise:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>money appropriated to the fund in the annual Ordinance of Estimates; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>grants or donations made to the fund; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>proceeds from fines, fees, surcharges, or other revenues dedicated to the fund by Ordinance.</p>
+</div>
+</div>
+<div class="charter-para charter-depth-1">
+<p><span class="charter-num">(d)</span> <span class="charter-subhead">Continuing nature of fund.</span></p>
+<p>Notwithstanding any other provision of this Charter, unspent portions of the fund established under <a href="article-i.html#s-19">this section</a>:</p>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(1)</span></p>
+<p>remain in the fund, to be used exclusively for their ordained purposes;</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(2)</span></p>
+<p>do not revert to the general revenues of the City; and</p>
+</div>
+<div class="charter-para charter-depth-2">
+<p><span class="charter-num">(3)</span></p>
+<p>their appropriations do not lapse.</p>
+</div>
+</div>
+<p class="charter-history"><strong>History:</strong> Res. 22-002, ratified Nov. 8, 2022</p>
+```
+
+[View this section on the City site](https://codes.baltimorecity.gov/us/md/cities/baltimore/charter/I/19)
