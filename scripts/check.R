@@ -17,6 +17,7 @@ if (!nrow(m)) stop("data/measures.csv has no rows.")
 
 for (f in c("source_id", "title", "publisher", "url", "accessed_date")) if (any(blank(s[[f]]))) err("sources.csv: empty %s for %s", f, paste(s$source_id[blank(s[[f]])], collapse = ", "))
 if (anyDuplicated(s$source_id)) err("sources.csv: duplicate source_id")
+if (anyDuplicated(s$url)) err("sources.csv: two sources share a url")
 if (any(!grepl("^https?://", s$url))) err("sources.csv: url must start with http(s):// for %s", paste(s$source_id[!grepl("^https?://", s$url)], collapse = ", "))
 if (any(bad_date(s$accessed_date))) err("sources.csv: accessed_date must be YYYY-MM-DD for %s", paste(s$source_id[bad_date(s$accessed_date)], collapse = ", "))
 
@@ -43,7 +44,9 @@ for (i in seq_len(nrow(m))) {
   words <- trimws(strsplit(r$keywords, ";", fixed = TRUE)[[1]])
   if (!blank(r$keywords) && (length(words) < 2L || length(words) > 8L || any(!nzchar(words)) || anyDuplicated(tolower(words)))) err("%s: keywords must be 2 to 8 different phrases separated by semicolons", id)
   for (f in c("text_source", "origin_source")) if (!blank(r[[f]]) && !r[[f]] %in% s$source_id) err("%s: %s '%s' is not in sources.csv", id, f, r[[f]])
-  if (!file.exists(file.path("_ballot_text", r$cycle_id, paste0("baltimore-", tolower(r$letter), ".qmd")))) err("%s: official wording file not found in _ballot_text", id)
+  for (f in c("arguments_for", "arguments_against")) for (u in markdown_urls(r[[f]])) if (!u %in% s$url) err("%s: %s links to %s, which is not in sources.csv (add it with a title and accessed date)", id, f, u)
+  wording <- file.path("_ballot_text", r$cycle_id, paste0("baltimore-", tolower(r$letter), ".qmd"))
+  if (!file.exists(wording)) err("%s: official wording file not found in _ballot_text", id) else if (!length(official_narrative(wording)$paras)) err("%s: no question text could be read from %s", id, wording)
   if (any(!blank(unlist(r[c("outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")])))) {
     for (f in c("outcome", "status", "results_checked", "result_source")) if (blank(r[[f]])) err("%s: result is partly filled in; missing %s", id, f)
     if (!blank(r$outcome) && !r$outcome %in% c("Passed", "Failed")) err("%s: outcome must be Passed or Failed", id)
@@ -63,12 +66,8 @@ for (i in seq_len(nrow(m))) {
 }
 
 for (f in measure_recommended) if (any(blank(m[[f]]))) note("%s is empty for %d of %d measures", f, sum(blank(m[[f]])), nrow(m))
-for (f in c("arguments_for", "arguments_against")) {
-  n <- vapply(strsplit(trimws(m[[f]]), "\\s+"), length, 1L)
-  long <- !blank(m[[f]]) & n > 70
-  if (any(long)) note("%s is over 70 words for %s", f, paste(m$cycle_id[long], m$letter[long], collapse = ", "))
-}
-unused <- setdiff(s$source_id, c(m$text_source, m$origin_source, m$result_source))
+cited <- unlist(lapply(c(m$arguments_for, m$arguments_against), markdown_urls))
+unused <- setdiff(s$source_id, c(m$text_source, m$origin_source, m$result_source, s$source_id[s$url %in% cited]))
 if (length(unused)) note("sources.csv has sources no measure uses: %s", paste(unused, collapse = ", "))
 
 if ("--links" %in% args) {

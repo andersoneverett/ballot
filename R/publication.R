@@ -7,12 +7,16 @@ html_escape <- function(x) {
 }
 format_votes <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
 first_sentence <- function(x) sub("^(.+?[.!?])\\s.*$", "\\1", x, perl = TRUE)
+markdown_urls <- function(x) {
+  hits <- regmatches(x, gregexpr("\\]\\(https?://[^)[:space:]]+\\)", x))[[1]]
+  sub("\\)$", "", sub("^\\]\\(", "", hits))
+}
 
 # data/measures.csv: one row per ballot question, and the only place measure facts are entered.
 # data/ballots.csv: one row per ballot (a set of questions), with its short narrative.
-measure_columns <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "effective", "fiscal_impact", "proposer", "arguments_for", "arguments_against", "topics", "keywords", "text_source", "origin_source", "outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")
-measure_required <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "proposer", "topics", "keywords", "text_source", "origin_source")
-measure_recommended <- c("effective", "fiscal_impact", "arguments_for", "arguments_against")
+measure_columns <- c("cycle_id", "letter", "type", "title", "if_approved", "proposer", "arguments_for", "arguments_against", "topics", "keywords", "text_source", "origin_source", "outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")
+measure_required <- c("cycle_id", "letter", "type", "title", "if_approved", "proposer", "topics", "keywords", "text_source", "origin_source")
+measure_recommended <- c("arguments_for", "arguments_against")
 ballot_columns <- c("cycle_id", "year", "election_type", "election_date", "title", "intro", "published")
 measure_types <- c("Bond", "Charter Change")
 measure_proposers <- c("City Council", "Citizen Petition")
@@ -28,6 +32,18 @@ read_measures <- function(cycle_id = NULL) {
 published_ballots <- function() {
   b <- read_data("ballots"); b <- b[b$published == "true", , drop = FALSE]
   b[order(b$election_date, decreasing = TRUE), , drop = FALSE]
+}
+
+# The central narrative of the official question, taken word for word from _ballot_text:
+# headings, the "Voting for/against" lines, and the For/Against choices are left out.
+official_narrative <- function(path) {
+  x <- readLines(path, encoding = "UTF-8", warn = FALSE)
+  q <- sub("^> ?", "", x[startsWith(x, ">")])
+  groups <- cumsum(!nzchar(trimws(q)))
+  paras <- vapply(split(q, groups), function(p) trimws(paste(trimws(p[nzchar(trimws(p))]), collapse = " ")), "")
+  paras <- unname(paras[nchar(paras) > 60 & !grepl("^Voting (for|against)", paras) & !grepl("^\\s*\\*", paras)])
+  caption <- x[grepl("^\\[", x)]
+  list(paras = paras, caption = if (length(caption)) caption[1] else "")
 }
 
 measure_tags <- function(m) {
@@ -47,42 +63,52 @@ measure_keywords <- function(m) {
   cat(sprintf('<p class="measure-origin">Also known as: %s</p>\n', html_escape(paste(keywords, collapse = " · "))))
 }
 
+# The side with more votes is gold; the other side is purple with stripes, so color is never the only cue.
 measure_result <- function(m) {
   if (!nzchar(m$outcome)) return(cat('<p class="result-pending">Results not yet recorded.</p>\n'))
   cat(sprintf('<div class="result-card" data-outcome="%s"><p class="result-label"><strong class="result-outcome">%s</strong><span class="result-status">%s Results</span></p>', html_escape(m$outcome), html_escape(m$outcome), html_escape(m$status)))
   if (nzchar(m$for_votes)) {
     f <- as.numeric(m$for_votes); a <- as.numeric(m$against_votes)
     fp <- 100 * f / (f + a); ap <- 100 - fp
-    cat(sprintf('<div class="result-counts"><span>For <strong>%.1f%%</strong> · %s votes</span><span>Against <strong>%.1f%%</strong> · %s votes</span></div>', fp, format_votes(f), ap, format_votes(a)))
-    cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="vote-for" style="width:%.8f%%"></span><span class="vote-against" style="width:%.8f%%"></span></div><p class="result-margin">Margin: %.1f percentage points</p>', fp, ap, fp, ap, abs(fp - ap)))
+    side <- if (f >= a) c("side-win", "side-lose") else c("side-lose", "side-win")
+    cat(sprintf('<div class="result-counts"><span class="%s">For <strong>%.1f%%</strong> · %s votes</span><span class="%s">Against <strong>%.1f%%</strong> · %s votes</span></div>', side[1], fp, format_votes(f), side[2], ap, format_votes(a)))
+    cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="%s" style="width:%.8f%%"></span><span class="%s" style="width:%.8f%%"></span></div><p class="result-margin">Margin: %.1f percentage points</p>', fp, ap, side[1], fp, side[2], ap, abs(fp - ap)))
   }
   cat('</div>\n')
 }
 
-fact_grid <- function(items) {
-  items <- items[nzchar(items)]
-  if (!length(items)) return(invisible(NULL))
-  cat('<div class="decision-grid">')
-  for (i in seq_along(items)) cat(sprintf('<div><strong>%s</strong><p>%s</p></div>', html_escape(names(items)[i]), html_escape(items[[i]])))
-  cat('</div>\n')
+measure_question <- function(m) {
+  o <- official_narrative(m$text_path)
+  cat("\n## The Question\n\n::: {.official-quote}\n\n")
+  cat(paste(o$paras, collapse = "\n\n"), "\n\n", sep = "")
+  if (nzchar(o$caption)) cat(sprintf("[%s]{.official-source}\n\n", o$caption))
+  cat(":::\n\n")
 }
 
-# Source links, then the official wording (the toggle kept in each _ballot_text file).
+# Arguments are markdown, so they can carry links; every link must be registered in sources.csv.
+measure_arguments <- function(m) {
+  if (!nzchar(m$arguments_for) && !nzchar(m$arguments_against)) return(invisible(NULL))
+  col <- function(label, text) if (nzchar(text)) sprintf("::: {.arg}\n**%s**\n\n%s\n\n:::\n\n", label, text) else ""
+  cat("\n## Arguments\n\n:::: {.decision-grid}\n\n", col("Argument For", m$arguments_for), col("Argument Against", m$arguments_against), "::::\n\n", sep = "")
+}
+
 measure_sources <- function(m) {
   s <- read_data("sources")
-  roles <- c(text_source = "Explanation and wording", origin_source = "How it reached the ballot", result_source = "Results")
+  roles <- c(text_source = "Official wording", origin_source = "How it reached the ballot", result_source = "Results")
   items <- character()
   for (col in names(roles)) {
     if (!nzchar(m[[col]])) next
     x <- s[s$source_id == m[[col]], , drop = FALSE]
     items <- c(items, sprintf('<li>%s: <a href="%s">%s</a>, %s</li>', roles[[col]], html_escape(x$url), html_escape(x$title), html_escape(x$publisher)))
   }
+  for (u in unique(c(markdown_urls(m$arguments_for), markdown_urls(m$arguments_against)))) {
+    x <- s[s$url == u, , drop = FALSE]
+    if (nrow(x) == 1L) items <- c(items, sprintf('<li>Cited in the arguments: <a href="%s">%s</a>, %s</li>', html_escape(x$url), html_escape(x$title), html_escape(x$publisher)))
+  }
   cat("\n## Sources\n\n<ul>", paste(items, collapse = ""), "</ul>\n\n", sep = "")
-  cat(readLines(m$text_path, encoding = "UTF-8", warn = FALSE), sep = "\n")
-  cat("\n")
 }
 
-# One full page for one measure, in priority order: result, summary, what the vote meant, arguments, sources.
+# One full page for one measure, in priority order: result, official question, what it would do, arguments, sources.
 # Called from the generated ballots/<year>/question-<letter>/index.qmd.
 measure_page <- function(cycle_id, letter) {
   m <- read_measures(cycle_id); m <- m[m$letter == letter, , drop = FALSE]
@@ -92,12 +118,9 @@ measure_page <- function(cycle_id, letter) {
   cat(sprintf('<p><a href="../../#ballot-%s">← %s</a></p>\n', b$year, html_escape(b$title)))
   measure_tags(m)
   measure_result(m)
-  cat(sprintf('<p>%s</p>\n', html_escape(m$summary)))
-  fact_grid(c("If Approved" = m$if_for, "If Rejected" = m$if_against, "Fiscal Impact" = m$fiscal_impact, "Takes Effect" = m$effective))
-  if (nzchar(m$arguments_for) || nzchar(m$arguments_against)) {
-    cat("\n## Arguments\n\n")
-    fact_grid(c("Argument For" = m$arguments_for, "Argument Against" = m$arguments_against))
-  }
+  measure_question(m)
+  cat(sprintf("\n## If Approved\n\n<p>%s</p>\n", html_escape(m$if_approved)))
+  measure_arguments(m)
   measure_sources(m)
   measure_keywords(m)
 }
@@ -121,7 +144,7 @@ ballot_archive <- function() {
     cat(x$intro, "\n\n", sep = "")
     cards <- vapply(seq_len(nrow(ms)), function(j) {
       r <- ms[j, ]
-      sprintf('<a class="charter-card" href="%s/question-%s/"><small>Question %s · %s</small><b>%s</b><small>%s</small></a>', x$year, tolower(r$letter), r$letter, html_escape(r$type), html_escape(r$title), html_escape(first_sentence(r$summary)))
+      sprintf('<a class="charter-card" href="%s/question-%s/"><small>Question %s · %s</small><b>%s</b><small>%s</small></a>', x$year, tolower(r$letter), r$letter, html_escape(r$type), html_escape(r$title), html_escape(first_sentence(r$if_approved)))
     }, "")
     cat("```{=html}\n<div class=\"charter-grid\">\n", paste(cards, collapse = "\n"), "\n</div>\n```\n", sep = "")
   }

@@ -8,7 +8,7 @@ for (i in seq_len(nrow(m))) {
   stopifnot(nrow(x) == 1L)
   dir <- file.path("ballots", x$year, paste0("question-", tolower(r$letter)))
   dir.create(dir, recursive = TRUE, showWarnings = FALSE)
-  page <- c("---", sprintf('title: "Question %s: %s"', r$letter, gsub('"', "'", r$title)), sprintf('subtitle: "%s"', gsub('"', "'", x$title)), "---", "", "```{r}", "#| results: asis", 'source("R/publication.R")', sprintf('measure_page("%s", "%s")', r$cycle_id, r$letter), "```")
+  page <- c("---", sprintf('title: "Question %s: %s"', r$letter, gsub('"', "'", r$title)), sprintf('subtitle: "%s"', gsub('"', "'", x$title)), "body-classes: measure-page", "---", "", "```{r}", "#| results: asis", 'source("R/publication.R")', sprintf('measure_page("%s", "%s")', r$cycle_id, r$letter), "```")
   writeLines(page, file.path(dir, "index.qmd"), useBytes = TRUE)
 }
 cat(sprintf("Wrote %d measure pages\n", nrow(m)))

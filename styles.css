@@ -1,5 +1,5 @@
-/* Black and gold brand. Gold only on black surfaces, as a highlight fill behind black text, as a decorative rule, and on the main button. Green and red mean passed and failed. Every color is named here once; R/theme.R reads these names for charts. */
-:root { --bb-black:#20272B; --bb-gold:#FCB826; --bb-gray:#52616B; --bb-white:#FFFFFF; --bb-pass:#1B6B3A; --bb-fail:#A33D32; --bb-surface:#F3F4F5; --bb-line:#8A949B; --bs-body-bg:#FFFFFF; --bs-link-color:#20272B; --bs-link-hover-color:#20272B; }
+/* Black and gold brand. Gold marks the majority side and passed measures, as a highlight fill behind black text, as a decorative rule, and on the main button. Ravens purple marks the other side and failed measures. Every color is named here once; R/theme.R reads these names for charts. */
+:root { --bb-black:#20272B; --bb-gold:#FCB826; --bb-purple:#241773; --bb-gray:#52616B; --bb-white:#FFFFFF; --bb-surface:#F3F4F5; --bb-line:#8A949B; --bs-body-bg:#FFFFFF; --bs-link-color:#20272B; --bs-link-hover-color:#20272B; }
 
 /* Base */
 body { background:var(--bb-white); color:var(--bb-black); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:1.03rem; line-height:1.75; }
@@ -53,26 +53,27 @@ h2.ballot-heading { font-size:1.55rem; margin-top:3.2rem; padding-bottom:.45rem;
 .ballot-heading + .result-pending { margin:.7rem 0 1rem; }
 .decision-grid { display:grid; grid-template-columns:1fr 1fr; gap:1.8rem; margin:1.3rem 0; }
 .decision-grid div { border:0; padding-left:0; }
-.decision-grid strong { display:block; font-size:.82rem; letter-spacing:.02em; margin-bottom:.35rem; }
-.decision-grid p { color:var(--bb-gray); font-size:.95rem; margin:0; }
-.official-text { border:0; margin:1.2rem 0 2.3rem; padding:.4rem 0; font-size:.94rem; }
-.official-text summary { cursor:pointer; font-size:.85rem; font-weight:650; color:var(--bb-black); }
-.official-text[open] summary { margin-bottom:1.2rem; }
-.official-text blockquote { border:0; color:var(--bb-gray); padding:.3rem 0; }
-.official-text > p { display:none; }
+.decision-grid strong { display:block; font-size:.82rem; letter-spacing:.02em; margin-bottom:.35rem; color:var(--bb-black); }
+.decision-grid p { color:var(--bb-gray); font-size:.95rem; margin:0 0 .7rem; }
 
-/* Results */
+/* Measure pages */
+.measure-page h2 { font-size:1.35rem; margin-top:2.2rem; margin-bottom:.6rem; }
+.official-quote { border-left:4px solid var(--bb-black); margin:1rem 0 1.4rem; padding:.1rem 0 .1rem 1.1rem; }
+.official-quote p { margin-bottom:.8rem; }
+.official-source { display:block; font-size:.8rem; color:var(--bb-gray); }
+
+/* Results: gold is the side with more votes, purple (striped) is the other side */
 .result-pending { font-size:.85rem; color:var(--bb-gray); margin:1.3rem 0; }
 .result-card { background:var(--bb-surface); border:0; padding:1.2rem 1.3rem; margin:1.2rem 0 1.6rem; border-radius:.35rem; box-shadow:none; }
 .result-label { display:flex; align-items:baseline; flex-wrap:wrap; gap:.4rem 1rem; margin:0 0 .8rem; }
 .result-outcome { font-size:1.7rem; line-height:1.2; font-weight:750; }
-.result-card[data-outcome="Passed"] .result-outcome,.result-card[data-outcome="Failed"] .result-outcome { color:var(--bb-white); padding:.1rem .6rem; border-radius:.2rem; }
-.result-card[data-outcome="Passed"] .result-outcome { background:var(--bb-pass); }
-.result-card[data-outcome="Failed"] .result-outcome { background:var(--bb-fail); }
+.result-card[data-outcome="Passed"] .result-outcome,.result-card[data-outcome="Failed"] .result-outcome { padding:.1rem .6rem; border-radius:.2rem; }
+.result-card[data-outcome="Passed"] .result-outcome { background:var(--bb-gold); color:var(--bb-black); }
+.result-card[data-outcome="Failed"] .result-outcome { background:var(--bb-purple); color:var(--bb-white); }
 .result-status { font-size:.8rem; color:var(--bb-gray); }
-.vote-bar { display:flex; height:1rem; width:100%; overflow:hidden; margin:.8rem 0; border:0; border-radius:.15rem; }
-.vote-for,.result-counts span:first-child::before { background:var(--bb-pass); }
-.vote-against,.result-counts span:last-child::before { background:repeating-linear-gradient(45deg,var(--bb-fail) 0 5px,var(--bb-white) 5px 7px); }
+.vote-bar { display:flex; height:1.15rem; width:100%; overflow:hidden; margin:.8rem 0; border:1px solid var(--bb-black); border-radius:.15rem; }
+.vote-bar .side-win,.result-counts .side-win::before { background:var(--bb-gold); }
+.vote-bar .side-lose,.result-counts .side-lose::before { background:repeating-linear-gradient(45deg,var(--bb-purple) 0 5px,var(--bb-white) 5px 7px); }
 .result-margin { font-size:.82rem; color:var(--bb-gray); margin:.6rem 0 0; overflow-wrap:anywhere; }
 .result-counts { display:flex; justify-content:space-between; flex-wrap:wrap; gap:.3rem 1rem; font-size:.9rem; }
 .result-counts span::before { content:""; display:inline-block; width:.8rem; height:.8rem; margin-right:.45rem; vertical-align:-.1rem; border:1px solid var(--bb-black); }

@@ -26,9 +26,10 @@ theme_ballot <- function(base_size = 12, colors = bb_colors()) {
     )
 }
 
+# The majority side (or a passed measure) is gold; the other side (or a failed measure) is purple.
 scale_fill_ballot <- function(colors = bb_colors()) {
   ggplot2::scale_fill_manual(values = c(
-    For = colors[["pass"]], Against = colors[["fail"]],
-    Passed = colors[["pass"]], Failed = colors[["fail"]]
+    Majority = colors[["gold"]], Minority = colors[["purple"]],
+    Passed = colors[["gold"]], Failed = colors[["purple"]]
   ))
 }

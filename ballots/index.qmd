@@ -5,7 +5,7 @@ page-layout: article
 body-classes: top-level
 ---
 
-Explore Baltimore City ballot questions, one ballot at a time. Each question has its own page with a plain-language explanation, what a vote meant, the arguments, the official wording, and sources.
+Explore Baltimore City ballot questions, one ballot at a time. Each question has its own page with the official question, what it would do if approved, the arguments on both sides, and sources.
 
 ```{r}
 #| results: asis
