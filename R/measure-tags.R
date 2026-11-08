@@ -22,8 +22,6 @@ measure_tags <- function(id) {
   validate_measure_tags(tags, read_data("measures")$id, sources$source_id)
   row <- tags[tags$measure_id == id, , drop = FALSE]
   if (nrow(row) != 1L) stop("Missing tag record: ", id)
-  evidence <- sources[sources$source_id == row$origin_source_id, , drop = FALSE]
-  if (nrow(evidence) != 1L) stop("Missing or duplicate origin source: ", row$origin_source_id)
   topics <- trimws(strsplit(row$topics, ";", fixed = TRUE)[[1]])
   type_class <- if (row$measure_type == "Bond") "measure-kind-bond" else "measure-kind-charter"
   origin_text <- if (row$ballot_origin == "City Council–Referred") "City Council" else "Citizen Petition"
@@ -32,6 +30,6 @@ measure_tags <- function(id) {
   cat('<ul class="measure-topics" aria-label="Topics">')
   for (topic in topics) cat(sprintf('<li>%s</li>', html_escape(topic)))
   cat('</ul>')
-  cat(sprintf('<p class="measure-origin">Placed On The Ballot By: <a href="%s" aria-label="%s: View Ballot Origin Source">%s</a></p>', html_escape(evidence$url), html_escape(row$ballot_origin), html_escape(origin_text)))
+  cat(sprintf('<p class="measure-origin">Placed On The Ballot By: %s</p>', html_escape(origin_text)))
   cat('</div>\n')
 }

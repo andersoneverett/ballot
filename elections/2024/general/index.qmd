@@ -96,9 +96,3 @@ ballot_explanation("2024-general-baltimore-h")
 ```
 
 {{< include ../../../_ballot_text/2024-general/baltimore-h.qmd >}}
-
-## Sources & Results
-
-Counts come from the [final official election returns](https://elections.maryland.gov/elections/archive/2024/General_Results/gen_qresults_2024_1_ALL.html), checked November 5, 2026. They include the Baltimore City Total columns across reported voting methods. Percentages use For plus Against votes and are rounded to one decimal place. The checked date is not a certification date.
-
-Each expandable question identifies its official transcription source. The Archives page contains older vote counts; those are not used here. Origin links identify how measures reached the ballot. Implementation has not yet been assessed for this backfill.

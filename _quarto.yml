@@ -24,14 +24,7 @@ website:
         text: About
   search: false
   page-footer:
-    left: "Baltimore Ballot · Baltimore City ballot guides."
-    right:
-      - text: Home
-        href: index.qmd
-      - text: Ballot Guides
-        href: elections/index.qmd
-      - text: About
-        href: about.qmd
+    center: "© <script>document.write(new Date().getFullYear())</script> Baltimore Ballot"
 format:
   html:
     theme: cosmo
