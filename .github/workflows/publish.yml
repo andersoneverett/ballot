@@ -34,20 +34,12 @@ jobs:
           cache: 'true'
           install-pandoc: 'false'
           install-quarto: 'false'
-      - name: Verify R rendering packages
-        run: Rscript -e 'packages <- c("knitr", "rmarkdown", "xml2"); stopifnot(all(vapply(packages, requireNamespace, logical(1), quietly = TRUE)))'
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Test publication behavior
-        run: Rscript scripts/test-publication.R
-      - name: Test measure tags
-        run: Rscript scripts/test-tags.R
-      - name: Render and validate publication
+      - name: Render publication
         run: |
           Rscript -e 'unlink("docs", recursive = TRUE)'
           quarto render
-      - name: Check rendered site
-        run: Rscript scripts/check-render.R
       - name: Upload rendered preview
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v7.0.2

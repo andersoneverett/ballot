@@ -35,8 +35,3 @@ These are the questions we want to keep in view:
 - Where is there a specific opportunity for residents to ask questions or take part?
 
 The guides are the foundation for that work, not a claim that every implementation step has already been investigated. We do not have to agree on how we voted to care about what follows.
-
-```{r}
-#| results: asis
-latest_articles()
-```
