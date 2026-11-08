@@ -25,12 +25,15 @@ jobs:
           packages: |
             any::knitr
             any::rmarkdown
+            any::xml2
           dependencies: '"hard"'
           cache: 'true'
           install-pandoc: 'false'
           install-quarto: 'false'
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+      - name: Build charter pages
+        run: Rscript scripts/build_charter.R
       - name: Render publication
         run: |
           Rscript -e 'unlink("docs", recursive = TRUE)'

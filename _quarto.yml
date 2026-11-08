@@ -34,21 +34,9 @@ website:
       title: "Baltimore City Charter"
       style: docked
       search: true
-      collapse-level: 1
       contents:
-        - text: "Charter Home"
-          href: charter/index.qmd
-        - charter/article-i.qmd
-        - charter/article-ii.qmd
-        - charter/article-iii.qmd
-        - charter/article-iv.qmd
-        - charter/article-v.qmd
-        - charter/article-vi.qmd
-        - charter/article-vii.qmd
-        - charter/article-viii.qmd
-        - charter/article-ix.qmd
-        - charter/article-x.qmd
-        - charter/article-xi.qmd
+        - charter/index.qmd
+        - charter/article-*.qmd
   page-footer:
     left: "© `<script>document.write(new Date().getFullYear())</script>`{=html} Baltimore Ballot"
     right:

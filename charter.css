@@ -3,17 +3,12 @@
 .charter-para { margin:.2rem 0; }
 .charter-para .charter-para { margin-left:1.5rem; }
 .charter-para > p { margin-bottom:.6rem; }
-.charter-num { font-weight:700; margin-right:.25rem; }
-.charter-subhead { font-weight:650; }
-.charter-history { font-size:.85rem; color:var(--bb-gray); }
-main:has(.charter-note) h3 { margin-top:2.2rem; font-size:1.3rem; }
 main:has(.charter-note) h2 { margin-top:2.2rem; }
+main:has(.charter-note) h3 { margin-top:2.2rem; font-size:1.3rem; }
 #quarto-sidebar .sidebar-item { font-size:.88rem; line-height:1.4; }
 #quarto-sidebar .sidebar-title a { font-family:Georgia,"Times New Roman",serif; color:var(--bb-black); }
 .charter-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:1rem; margin:1.2rem 0 2rem; }
 .charter-card { display:flex; flex-direction:column; gap:.3rem; padding:1rem 1.1rem; border:1px solid #DDD8EE; border-radius:.35rem; background:#FFFFFF; text-decoration:none; color:var(--bb-black); }
-.charter-card:hover { border-color:var(--bb-purple); background:#F8F7FC; color:var(--bb-black); }
-.charter-card-kicker { font-size:.75rem; font-weight:750; letter-spacing:.06em; text-transform:uppercase; color:var(--bb-gray); }
-.charter-card-title { font-family:Georgia,"Times New Roman",serif; font-size:1.15rem; font-weight:700; line-height:1.25; }
-.charter-card-text { font-size:.9rem; color:var(--bb-gray); line-height:1.5; }
-.charter-card-meta { font-size:.8rem; color:var(--bb-teal); font-weight:650; margin-top:auto; }
+.charter-card:hover { border-color:var(--bb-gold); background:#FFF8E1; color:var(--bb-black); }
+.charter-card b { font-family:Georgia,"Times New Roman",serif; font-size:1.15rem; line-height:1.25; }
+.charter-card small { color:var(--bb-gray); }

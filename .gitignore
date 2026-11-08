@@ -6,5 +6,6 @@
 .DS_Store
 
 /docs/
+/charter/
 
 **/*.quarto_ipynb
