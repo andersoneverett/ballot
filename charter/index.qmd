@@ -9,16 +9,32 @@ Source: [City of Baltimore Law Library](https://codes.baltimorecity.gov/us/md/ci
 :::
 
 
-Read and search the full City Charter. Pick an article:
+The Charter is Baltimore's governing document, often described as the City's constitution. Browse by article below, or use the search box in the left menu to find a word or phrase, such as "lowest bidder" or "Board of Estimates".
 
-- [Article I — General Provisions](article-i.html) (18 sections)
-- [Article II — General Powers](article-ii.html) (76 sections)
-- [Article III — City Council](article-iii.html) (15 sections)
-- [Article IV — Mayor](article-iv.html) (8 sections)
-- [Article V — Comptroller](article-v.html) (15 sections)
-- [Article VI — Board of Estimates](article-vi.html) (18 sections)
-- [Article VII — Executive Departments](article-vii.html) (134 sections)
-- [Article VIII — Franchises](article-viii.html) (9 sections)
-- [Article IX — Transition Provisions](article-ix.html) (8 sections)
-- [Article X — Office of the Inspector General](article-x.html) (7 sections)
-- [Article XI — Charter Review Commission](article-xi.html) (6 sections)
+## Browse by article
+
+```{=html}
+<div class="charter-grid">
+<a class="charter-card" href="article-i.html"><span class="charter-card-kicker">Article I</span><span class="charter-card-title">General Provisions</span><span class="charter-card-text">Definitions, how the City holds property, and special funds such as the Children and Youth Fund and Inner Harbor Park.</span><span class="charter-card-meta">18 sections</span></a>
+<a class="charter-card" href="article-ii.html"><span class="charter-card-kicker">Article II</span><span class="charter-card-title">General Powers</span><span class="charter-card-text">The long list of powers the City has, starting with regulating buildings.</span><span class="charter-card-meta">76 sections</span></a>
+<a class="charter-card" href="article-iii.html"><span class="charter-card-kicker">Article III</span><span class="charter-card-title">City Council</span><span class="charter-card-text">The City Council and its work, including its General Counsel.</span><span class="charter-card-meta">15 sections</span></a>
+<a class="charter-card" href="article-iv.html"><span class="charter-card-kicker">Article IV</span><span class="charter-card-title">Mayor</span><span class="charter-card-text">The Mayor, including how the Mayor approves or vetoes legislation.</span><span class="charter-card-meta">8 sections</span></a>
+<a class="charter-card" href="article-v.html"><span class="charter-card-kicker">Article V</span><span class="charter-card-title">Comptroller</span><span class="charter-card-text">The Comptroller's office.</span><span class="charter-card-meta">15 sections</span></a>
+<a class="charter-card" href="article-vi.html"><span class="charter-card-kicker">Article VI</span><span class="charter-card-title">Board of Estimates</span><span class="charter-card-text">The City budget and the Board of Estimates, including how contracts are bid and awarded.</span><span class="charter-card-meta">18 sections</span></a>
+<a class="charter-card" href="article-vii.html"><span class="charter-card-kicker">Article VII</span><span class="charter-card-title">Executive Departments</span><span class="charter-card-text">The City's executive departments, such as Public Works, Law, the Fire Department and Legislative Reference.</span><span class="charter-card-meta">134 sections</span></a>
+<a class="charter-card" href="article-viii.html"><span class="charter-card-kicker">Article VIII</span><span class="charter-card-title">Franchises</span><span class="charter-card-text">Franchises: how the City lets outside parties use public property.</span><span class="charter-card-meta">9 sections</span></a>
+<a class="charter-card" href="article-ix.html"><span class="charter-card-kicker">Article IX</span><span class="charter-card-title">Transition Provisions</span><span class="charter-card-text">Transition rules from the 1994 revision of the charter.</span><span class="charter-card-meta">8 sections</span></a>
+<a class="charter-card" href="article-x.html"><span class="charter-card-kicker">Article X</span><span class="charter-card-title">Office of the Inspector General</span><span class="charter-card-text">The Office of the Inspector General.</span><span class="charter-card-meta">7 sections</span></a>
+<a class="charter-card" href="article-xi.html"><span class="charter-card-kicker">Article XI</span><span class="charter-card-title">Charter Review Commission</span><span class="charter-card-text">The Charter Review Commission.</span><span class="charter-card-meta">6 sections</span></a>
+</div>
+```
+
+## The 2026 ballot questions and the charter
+
+This copy of the charter is current through October 1, 2026, so it does not yet include the amendments from the November 3, 2026 election. These are the places in the charter that we have confirmed the questions change:
+
+- **Question E (contract bidding):** [Article VI](article-vi.html#s-11), § 11, which covers bid awards, tie bids and bonds. Those rules are removed on November 7, 2028 unless the city replaces them sooner. [Read the guide](../elections/2026/general/index.qmd#question-baltimore-e).
+
+- **Question F (budget, vetoes and the Board of Estimates):** [Article III](article-iii.html#s-15) § 15, [Article IV](article-iv.html#s-5) § 5, and the budget and Board of Estimates sections of [Article VI](article-vi.html). Most changes start December 3, 2026. [Read the guide](../elections/2026/general/index.qmd#question-baltimore-f).
+
+The exact wording of the amendments is in the [State Board of Elections amendment text (PDF)](https://elections.maryland.gov/elections/2026/Baltimore_City_Proposed_Charter_Amendment_Text.pdf). Section references for Questions G, H and I are not listed here yet.
