@@ -33,6 +33,8 @@ for (i in seq_len(nrow(m))) {
   if (!blank(r$proposer) && !r$proposer %in% measure_proposers) err("%s: proposer must be one of %s", id, paste(measure_proposers, collapse = " or "))
   topics <- trimws(strsplit(r$topics, ";", fixed = TRUE)[[1]])
   if (!blank(r$topics) && (length(topics) > 3L || anyDuplicated(topics) || !all(topics %in% measure_topics))) err("%s: topics must be 1 to 3 different known topics separated by semicolons", id)
+  words <- trimws(strsplit(r$keywords, ";", fixed = TRUE)[[1]])
+  if (!blank(r$keywords) && (length(words) < 2L || length(words) > 8L || any(!nzchar(words)) || anyDuplicated(tolower(words)))) err("%s: keywords must be 2 to 8 different phrases separated by semicolons", id)
   for (f in c("text_source", "origin_source")) if (!blank(r[[f]]) && !r[[f]] %in% s$source_id) err("%s: %s '%s' is not in sources.csv", id, f, r[[f]])
   if (!file.exists(file.path("_ballot_text", r$cycle_id, paste0("baltimore-", tolower(r$letter), ".qmd")))) err("%s: official wording file not found in _ballot_text", id)
   if (any(!blank(unlist(r[c("outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")])))) {

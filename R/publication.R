@@ -8,8 +8,8 @@ html_escape <- function(x) {
 format_votes <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
 
 # data/measures.csv: one row per ballot question, and the only place measure facts are entered.
-measure_columns <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "effective", "fiscal_impact", "proposer", "arguments_for", "arguments_against", "topics", "text_source", "origin_source", "outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")
-measure_required <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "proposer", "topics", "text_source", "origin_source")
+measure_columns <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "effective", "fiscal_impact", "proposer", "arguments_for", "arguments_against", "topics", "keywords", "text_source", "origin_source", "outcome", "status", "for_votes", "against_votes", "results_checked", "result_source")
+measure_required <- c("cycle_id", "letter", "type", "title", "summary", "if_for", "if_against", "proposer", "topics", "keywords", "text_source", "origin_source")
 measure_recommended <- c("effective", "fiscal_impact", "arguments_for", "arguments_against")
 measure_types <- c("Bond", "Charter Change")
 measure_proposers <- c("City Council", "Citizen Petition")
@@ -26,12 +26,14 @@ read_measures <- function(cycle_id = NULL) {
 measure_tags <- function(m) {
   type_class <- if (m$type == "Bond") "measure-kind-bond" else "measure-kind-charter"
   topics <- trimws(strsplit(m$topics, ";", fixed = TRUE)[[1]])
+  keywords <- trimws(strsplit(m$keywords, ";", fixed = TRUE)[[1]])
   cat('<div class="measure-meta" role="group" aria-label="Measure Type, Origin, And Topics">')
   cat(sprintf('<span class="measure-kind %s"><span class="visually-hidden">Measure Type: </span>%s</span>', type_class, html_escape(m$type)))
   cat('<ul class="measure-topics" aria-label="Topics">')
   for (topic in topics) cat(sprintf('<li>%s</li>', html_escape(topic)))
   cat('</ul>')
   cat(sprintf('<p class="measure-origin">Placed On The Ballot By: %s</p>', html_escape(m$proposer)))
+  cat(sprintf('<p class="measure-origin">Also known as: %s</p>', html_escape(paste(keywords, collapse = " · "))))
   cat('</div>\n')
 }
 
