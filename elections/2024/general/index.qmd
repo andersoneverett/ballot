@@ -5,91 +5,11 @@ toc-title: "On The Ballot"
 toc-depth: 3
 ---
 
-Eight questions asked us to decide on borrowing, police governance, Inner Harbor land use, a reinvestment fund, and the size of City Council. Questions A–G passed. Question H, which proposed reducing Council districts from 14 to 8, failed. Vote counts come from the [final official election returns](https://elections.maryland.gov/elections/archive/2024/General_Results/gen_qresults_2024_1_ALL.html), checked November 5, 2026.
+Eight questions asked us to decide on borrowing, police governance, Inner Harbor land use, a reinvestment fund, and the size of City Council.
 
 ```{r}
 #| results: asis
 source("R/publication.R")
-source("R/measure-tags.R")
 cycle_result_note("2024-general")
+measure_sections("2024-general")
 ```
-
-### Question A — Affordable Housing Loan {#question-baltimore-a}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-a")
-ballot_explanation("2024-general-baltimore-a")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-a.qmd >}}
-
-### Question B — School Loan {#question-baltimore-b}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-b")
-ballot_explanation("2024-general-baltimore-b")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-b.qmd >}}
-
-### Question C — Community And Economic Development Loan {#question-baltimore-c}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-c")
-ballot_explanation("2024-general-baltimore-c")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-c.qmd >}}
-
-### Question D — Public Infrastructure {#question-baltimore-d}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-d")
-ballot_explanation("2024-general-baltimore-d")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-d.qmd >}}
-
-### Question E — Baltimore City Police Department {#question-baltimore-e}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-e")
-ballot_explanation("2024-general-baltimore-e")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-e.qmd >}}
-
-### Question F — Inner Harbor Park {#question-baltimore-f}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-f")
-ballot_explanation("2024-general-baltimore-f")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-f.qmd >}}
-
-### Question G — Community Reinvestment And Reparations Fund {#question-baltimore-g}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-g")
-ballot_explanation("2024-general-baltimore-g")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-g.qmd >}}
-
-### Question H — Reducing The Size Of The City Council {#question-baltimore-h}
-
-```{r}
-#| results: asis
-measure_tags("2024-general-baltimore-h")
-ballot_explanation("2024-general-baltimore-h")
-```
-
-{{< include ../../../_ballot_text/2024-general/baltimore-h.qmd >}}
