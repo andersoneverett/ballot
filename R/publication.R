@@ -35,15 +35,14 @@ published_ballots <- function() {
 }
 
 # The central narrative of the official question, taken word for word from _ballot_text:
-# headings, the "Voting for/against" lines, and the For/Against choices are left out.
+# headings, the "Voting for/against" lines, the For/Against choices, and the source line are left out.
 official_narrative <- function(path) {
   x <- readLines(path, encoding = "UTF-8", warn = FALSE)
   q <- sub("^> ?", "", x[startsWith(x, ">")])
   groups <- cumsum(!nzchar(trimws(q)))
   paras <- vapply(split(q, groups), function(p) trimws(paste(trimws(p[nzchar(trimws(p))]), collapse = " ")), "")
   paras <- unname(paras[nchar(paras) > 60 & !grepl("^Voting (for|against)", paras) & !grepl("^\\s*\\*", paras)])
-  caption <- x[grepl("^\\[", x)]
-  list(paras = paras, caption = if (length(caption)) caption[1] else "")
+  list(paras = paras)
 }
 
 measure_tags <- function(m) {
@@ -81,7 +80,6 @@ measure_question <- function(m) {
   o <- official_narrative(m$text_path)
   cat("\n## The Question\n\n::: {.official-quote}\n\n")
   cat(paste(o$paras, collapse = "\n\n"), "\n\n", sep = "")
-  if (nzchar(o$caption)) cat(sprintf("[%s]{.official-source}\n\n", o$caption))
   cat(":::\n\n")
 }
 
