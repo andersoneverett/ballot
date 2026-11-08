@@ -23,12 +23,6 @@ result_record <- function(id) {
   x
 }
 format_votes <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
-source_link <- function(id) {
-  s <- read_data("sources")
-  s <- s[s$source_id == id, , drop = FALSE]
-  if (nrow(s) != 1L) stop("Missing or duplicate source: ", id)
-  sprintf('<a href="%s">%s</a>', html_escape(s$url), html_escape(s$title))
-}
 measure_vote_share <- function(id) {
   x <- result_record(id)
   if (is.null(x)) {
@@ -40,7 +34,7 @@ measure_vote_share <- function(id) {
     cat(sprintf('<div class="result-counts"><span>For <strong>%.1f%%</strong> · %s votes</span><span>Against <strong>%.1f%%</strong> · %s votes</span></div>', x$for_pct, format_votes(x$for_votes), x$against_pct, format_votes(x$against_votes)))
     cat(sprintf('<div class="vote-bar" role="img" aria-label="For %.1f percent; Against %.1f percent"><span class="vote-for" style="width:%.8f%%"></span><span class="vote-against" style="width:%.8f%%"></span></div><p class="result-margin">Margin: %.1f percentage points</p>', x$for_pct, x$against_pct, x$for_pct, x$against_pct, abs(x$margin_pp)))
   }
-  cat(sprintf('<p class="result-detail">Checked %s · %s</p></div>\n', html_escape(x$checked_date), source_link(x$source_id)))
+  cat('</div>\n')
 }
 ballot_explanation <- function(id) {
   m <- read_data("measures"); x <- m[m$id == id, , drop = FALSE]
@@ -70,7 +64,7 @@ election_index <- function() {
   cat('<ul class="cycle-list">')
   for (i in seq_len(nrow(d))) {
     x <- d[i, ]; path <- sub("^elections/", "", html_path(x$path))
-    cat(sprintf('<li><h2><a href="%s">%s</a></h2><p>Baltimore City Ballot Questions</p></li>', html_escape(path), html_escape(x$title)))
+    cat(sprintf('<li><h2><a href="%s">%s</a></h2></li>', html_escape(path), html_escape(x$title)))
   }
   cat('</ul>\n')
 }

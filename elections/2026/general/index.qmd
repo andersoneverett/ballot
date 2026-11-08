@@ -1,6 +1,5 @@
 ---
 title: "2026 General Election"
-subtitle: "Baltimore City · November 3, 2026"
 toc: true
 toc-title: "On The Ballot"
 toc-depth: 3

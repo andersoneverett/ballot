@@ -29,9 +29,8 @@ a:hover { color:var(--bb-purple); text-decoration-thickness:2px; }
 .guide-button { display:inline-block; background:var(--bb-gold); color:var(--bb-black); padding:.75rem 1.2rem; text-decoration:none; font-size:.9rem; font-weight:750; border:2px solid var(--bb-gold); border-radius:.2rem; }
 .guide-button:hover { background:var(--bb-purple); color:var(--bb-white); border-color:var(--bb-purple); }
 .cycle-list { list-style:none; padding:0; margin:2rem 0; }
-.cycle-list li { padding:1.5rem 0; border:0; }
-.cycle-list h2 { font-size:1.7rem; margin:0 0 .5rem; }
-.cycle-list p { color:var(--bb-gray); margin:0; }
+.cycle-list li { padding:1rem 0; border:0; }
+.cycle-list h2 { font-size:1.7rem; margin:0; }
 .decision-grid { display:grid; grid-template-columns:1fr 1fr; gap:1.8rem; margin:1.3rem 0; }
 .decision-grid div { border:0; padding-left:0; }
 .decision-grid strong { display:block; font-size:.82rem; letter-spacing:.02em; margin-bottom:.35rem; }
@@ -51,7 +50,7 @@ a:hover { color:var(--bb-purple); text-decoration-thickness:2px; }
 .vote-bar { display:flex; height:1rem; width:100%; overflow:hidden; margin:.8rem 0; border:0; border-radius:.15rem; }
 .vote-for { background:var(--bb-gold); }
 .vote-against { background:var(--bb-gray); }
-.result-detail,.result-margin { font-size:.82rem; color:var(--bb-gray); margin:.6rem 0 0; overflow-wrap:anywhere; }
+.result-margin { font-size:.82rem; color:var(--bb-gray); margin:.6rem 0 0; overflow-wrap:anywhere; }
 .result-counts { display:flex; justify-content:space-between; flex-wrap:wrap; gap:.3rem 1rem; font-size:.9rem; }
 .measure-meta { display:flex; flex-wrap:wrap; align-items:center; gap:.65rem 1rem; margin:.7rem 0 1.1rem; }
 .measure-kind { display:inline-block; border:1px solid transparent; border-radius:.2rem; padding:.25rem .65rem; font-size:.8rem; font-weight:750; line-height:1.5; }

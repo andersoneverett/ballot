@@ -1,12 +1,11 @@
 ---
 title: "2024 General Election"
-subtitle: "Baltimore City · November 5, 2024"
 toc: true
 toc-title: "On The Ballot"
 toc-depth: 3
 ---
 
-Eight questions asked us to decide on borrowing, police governance, Inner Harbor land use, a reinvestment fund, and the size of City Council. Questions A–G passed. Question H, which proposed reducing Council districts from 14 to 8, failed.
+Eight questions asked us to decide on borrowing, police governance, Inner Harbor land use, a reinvestment fund, and the size of City Council. Questions A–G passed. Question H, which proposed reducing Council districts from 14 to 8, failed. Vote counts come from the [final official election returns](https://elections.maryland.gov/elections/archive/2024/General_Results/gen_qresults_2024_1_ALL.html), checked November 5, 2026.
 
 ```{r}
 #| results: asis
