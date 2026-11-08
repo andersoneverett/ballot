@@ -1,0 +1,39 @@
+---
+title: "Privacy Policy"
+subtitle: "What this site collects and why."
+page-layout: article
+body-classes: top-level
+---
+
+Last updated November 8, 2026.
+
+Baltimore Ballot is a personal project by Everett Anderson. The site has no accounts, forms, or comments, and it never asks for your name, email address, or any other personal information.
+
+## What The Site Collects
+
+To see which guides people read, the site uses two free analytics tools from other companies.
+
+- **Google Analytics** counts visits and shows which pages are read, roughly where visitors are (such as city or country), what device and browser they use, and how they found the site. It uses cookies or similar technology.
+- **Microsoft Clarity** records how visitors use a page: clicks, taps, scrolling, and mouse movement. It can replay a visit as an animation and build heatmaps. It also uses cookies. Clarity hides sensitive text by default, and this site has no place to type personal information.
+
+Both tools can see technical details your browser sends, such as your device, browser, and approximate location.
+
+## How It Is Used
+
+The information is used to understand which guides are useful and whether the pages are easy to use. It is not used for advertising and it is not sold.
+
+## Who Else Sees It
+
+Google and Microsoft receive this information directly from your browser and handle it under their own policies. Read how [Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites), the [Google Privacy Policy](https://policies.google.com/privacy), and the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement).
+
+The site is hosted on GitHub Pages. GitHub may keep technical records of visits, such as IP addresses, under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Your Choices
+
+- Block or delete cookies in your browser settings. The site works the same without them.
+- Install the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout) to stop Google Analytics from collecting data about your visits.
+- Use a browser or extension that blocks trackers.
+
+## Changes
+
+If this policy changes, the date at the top will change with it.
