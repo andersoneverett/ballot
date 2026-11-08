@@ -1,0 +1,27 @@
+name: Build charter pages (R)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out publication
+        uses: actions/checkout@v6
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::xml2
+      - name: Build charter pages
+        run: Rscript scripts/build_charter.R charter-r
+      - name: Upload charter pages
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: charter-r
+          path: charter-r/
