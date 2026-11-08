@@ -8,3 +8,5 @@
 .charter-history { font-size:.85rem; color:var(--bb-gray); }
 main:has(.charter-note) h3 { margin-top:2.2rem; font-size:1.3rem; }
 main:has(.charter-note) h2 { margin-top:2.2rem; }
+#quarto-sidebar .sidebar-item { font-size:.88rem; line-height:1.4; }
+#quarto-sidebar .sidebar-title a { font-family:Georgia,"Times New Roman",serif; color:var(--bb-black); }

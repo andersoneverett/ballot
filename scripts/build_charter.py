@@ -9,6 +9,7 @@ OUT = pathlib.Path("charter")
 NS = "{https://open.law/schemas/library}"
 CITY = "https://codes.baltimorecity.gov/us/md/cities/baltimore/charter"
 RELEASE = "October 15, 2026 release (publication 2026-09-28)"
+ARTICLE_META = 'toc: true\ntoc-title: "In This Article"\ntoc-depth: 3\npage-navigation: true\n'
 
 def tag(el):
     return el.tag.replace(NS, "") if isinstance(el.tag, str) else ""
@@ -115,12 +116,7 @@ def main():
         title = ("%s %s" % (pre, num)).strip() + (" \u2014 " + head if head else "")
         secs = list(collect(art))
         total += len(secs)
-        page = [front(title), disclaimer(num)]
-        page.append("## Sections\n")
-        for trail, s in secs:
-            sn, sh = label(s)
-            page.append("- [\u00a7 %s. %s](#s-%s)" % (sn, sh.rstrip("."), slug(sn)))
-        page.append("")
+        page = [front(title, ARTICLE_META), disclaimer(num)]
         last = None
         for trail, s in secs:
             if trail != last and trail:
@@ -133,7 +129,7 @@ def main():
         name = "article-%s.qmd" % slug(num)
         (OUT / name).write_text("\n".join(page), encoding="utf-8")
         index_rows.append((title, name.replace(".qmd", ".html"), len(secs)))
-    idx = [front("Charter of Baltimore City"), disclaimer(),
+    idx = [front("Charter of Baltimore City", "page-navigation: true\n"), disclaimer(),
            "Read and search the full City Charter. Pick an article:\n"]
     for title, href, n in index_rows:
         idx.append("- [%s](%s) (%d sections)" % (title, href, n))
