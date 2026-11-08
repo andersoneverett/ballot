@@ -56,9 +56,7 @@ website:
 format:
   html:
     theme: cosmo
-    css:
-      - styles.css
-      - charter.css
+    css: styles.css
     toc: false
     lang: en
     link-external-newwindow: true
