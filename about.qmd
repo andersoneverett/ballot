@@ -1,34 +1,28 @@
 ---
 title: "About Baltimore Ballot"
-subtitle: "Scope, sources, and responsibility."
+subtitle: "Scope, sources, and results."
 page-layout: article
 body-classes: top-level
 ---
 
-Baltimore Ballot is an independent publication about Baltimore City ballot decisions and what happens afterward. Everett Anderson makes and maintains the site. It is independent of city government and political campaigns.
+Baltimore Ballot explains Baltimore City ballot decisions. Everett Anderson makes and maintains the site. It is independent of city government and political campaigns.
 
-## What We Cover
+## What It Covers
 
-The publication currently covers Baltimore City Questions A–H from the 2024 General Election and Questions A–I from the 2026 General Election. Historical guides remain available alongside the latest election. Statewide questions and candidate directories are outside the current scope.
+The site covers Baltimore City Questions A–H from the 2024 General Election and Questions A–I from the 2026 General Election. Statewide questions and candidate directories are outside the current scope.
 
-The guides explain the choices without telling readers how to vote. They bring together plain-language explanations, official wording, measure types, topics, ballot origins, and sourced results. Implementation reporting is separate work; a guide's existence does not mean every action after passage has been assessed.
+The guides explain the choices without telling readers how to vote. They bring together plain-language explanations, official wording, measure types, topics, ballot origins, and sourced results.
 
 ## Sources And Standards {#editorial-standards}
 
-We link to the records behind factual explanations and results, preserve quoted official wording, and keep meaningful uncertainties beside the work. Ballot origin identifies the formal route to the ballot, not endorsements or implementation responsibility. Source notes describe relevant transcription differences and limitations.
-
-Where we identify a way to participate, we connect it to a specific decision or next step. We do not invent interviews, community perspectives, spending records, or implementation findings.
+Factual explanations and results link to the records behind them, and official wording is preserved as published. Ballot origin identifies the formal route to the ballot, not an endorsement.
 
 ## Understanding Results
 
-Unofficial and Certified describe the status of the source. Neither label means a measure has been implemented. The 2024 City records use final official returns and are recorded as Certified; the 2026 records retain an Unofficial snapshot.
+Unofficial and Certified describe the status of the source. Neither label means a measure has been implemented. The 2024 City records use final official returns and are recorded as Certified; the 2026 records are an Unofficial snapshot.
 
 Checked dates identify when a source was reviewed, not when results were certified. When counts are supplied, displayed vote shares use For plus Against votes, not all ballots. Missing counts are not zero. Passage does not establish bond issuance, spending, or completed projects.
 
-## Corrections And Limitations
+## Corrections
 
-When a substantive factual mistake is corrected, the affected page will explain what changed and when. Results and source records are maintained manually; they are not a live election feed. Unverified implementation is described as not assessed rather than inferred from a vote.
-
-## Who Is We?
-
-We means neighbors and voters with a shared interest in understanding these decisions—not a newsroom or a group with a single political view. The invitation is to check the evidence and follow through together.
+Results and source records are maintained manually; they are not a live election feed. If a substantive mistake is corrected, the affected page will say what changed and when.
