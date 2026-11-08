@@ -35,8 +35,19 @@ website:
       style: docked
       search: true
       contents:
-        - charter/index.qmd
-        - charter/article-*.qmd
+        - text: "Charter Home"
+          href: charter/index.qmd
+        - charter/article-01.qmd
+        - charter/article-02.qmd
+        - charter/article-03.qmd
+        - charter/article-04.qmd
+        - charter/article-05.qmd
+        - charter/article-06.qmd
+        - charter/article-07.qmd
+        - charter/article-08.qmd
+        - charter/article-09.qmd
+        - charter/article-10.qmd
+        - charter/article-11.qmd
   page-footer:
     left: "© `<script>document.write(new Date().getFullYear())</script>`{=html} Baltimore Ballot"
     right:
