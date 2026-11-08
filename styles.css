@@ -60,7 +60,6 @@ h2.ballot-heading { font-size:1.55rem; margin-top:3.2rem; padding-bottom:.45rem;
 .measure-page h2 { font-size:1.35rem; margin-top:2.2rem; margin-bottom:.6rem; }
 .official-quote { border-left:4px solid var(--bb-black); margin:1rem 0 1.4rem; padding:.1rem 0 .1rem 1.1rem; }
 .official-quote p { margin-bottom:.8rem; }
-.official-source { display:block; font-size:.8rem; color:var(--bb-gray); }
 
 /* Results: gold is the side with more votes, purple (striped) is the other side */
 .result-pending { font-size:.85rem; color:var(--bb-gray); margin:1.3rem 0; }
