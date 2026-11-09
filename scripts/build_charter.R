@@ -34,12 +34,34 @@ articles <- as.list(xml_find_all(root, "/document/container"))
 if (!length(articles)) stop("No articles found in data/charter.xml")
 nums <- vapply(articles, txt, "", "./num")
 
+sections <- function(node, trail = character()) {
+  out <- list()
+  for (n in kids(node)) {
+    nm <- xml_name(n)
+    if (nm == "section") {
+      out[[length(out) + 1]] <- list(trail = trail, node = n)
+    } else if (nm == "container") {
+      out <- c(out, sections(n, c(trail, title_of(n))))
+    }
+  }
+  out
+}
+article_sections <- lapply(articles, sections)
+section_targets <- lapply(article_sections, function(ss) vapply(ss, function(s) slug(txt(s$node, "./num")), ""))
+
 cite_href <- function(path) {
-  p <- trimws(strsplit(path %||% "", "|", fixed = TRUE)[[1]])
+  path <- path %||% ""
+  if (!nzchar(trimws(path))) return(NA_character_)
+  p <- trimws(strsplit(path, "|", fixed = TRUE)[[1]])
   i <- match(p[1], nums)
   if (is.na(i)) return(NA_character_)
-  paste0(sprintf("article-%02d.html", i),
-         if (length(p) > 1 && nzchar(p[2])) paste0("#s-", slug(sub("\u00a7", "", p[2], fixed = TRUE))))
+  href <- sprintf("article-%02d.html", i)
+  if (length(p) > 1 && nzchar(p[2])) {
+    target <- slug(sub("\u00a7", "", p[2], fixed = TRUE))
+    if (!nzchar(target) || !target %in% section_targets[[i]]) return(NA_character_)
+    href <- paste0(href, "#s-", target)
+  }
+  href
 }
 
 inline <- function(el) {
@@ -76,19 +98,6 @@ blocks <- function(el) {
   paste(out[nzchar(out)], collapse = "\n")
 }
 
-sections <- function(node, trail = character()) {
-  out <- list()
-  for (n in kids(node)) {
-    nm <- xml_name(n)
-    if (nm == "section") {
-      out[[length(out) + 1]] <- list(trail = trail, node = n)
-    } else if (nm == "container") {
-      out <- c(out, sections(n, c(trail, title_of(n))))
-    }
-  }
-  out
-}
-
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 unlink(list.files(out_dir, "[.]qmd$", full.names = TRUE))
 meta <- 'toc: true\ntoc-title: "In This Article"\ntoc-depth: 3\npage-navigation: true\n'
@@ -96,9 +105,16 @@ counts <- integer(length(articles))
 
 for (i in seq_along(articles)) {
   a <- articles[[i]]
-  secs <- sections(a)
+  secs <- article_sections[[i]]
   counts[i] <- length(secs)
   note <- info$note[match(nums[i], info$num)] %||% ""
+  cites <- unique(xml_attr(xml_find_all(a, ".//cite"), "path"))
+  cites <- cites[!is.na(cites) & nzchar(trimws(cites))]
+  unresolved <- cites[vapply(cites, function(path) is.na(cite_href(path)), logical(1))]
+  if (length(unresolved)) {
+    note <- paste(note, "Some source cross-references have no matching local target in this release and are preserved as plain text rather than linked. Consult the official source when following those references.")
+    message("Unresolved source citations in Article ", nums[i], ": ", paste(unresolved, collapse = ", "))
+  }
   page <- c(front(title_of(a), meta), source_note(paste0(CITY, "/", nums[i]), note))
   last <- character()
   for (s in secs) {
