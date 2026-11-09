@@ -2,15 +2,20 @@
 
 Plain-language guides to Baltimore City ballot questions, built with Quarto and R and published with GitHub Pages. Readers are residents, so clarity and neutrality matter more than cleverness. The site tracks sets of ballot measures (a "ballot"), not elections.
 
+## Workflow
+
+- Commit changes directly to `main`. Do not create branches or pull requests for this project.
+- Keep changes focused and verify the data checks, regression checks, and rendered build. State clearly when a check could not be run.
+
 ## Where things live
 
 - `data/measures.csv` is the only place measure facts are entered: one row per ballot question. Pages are generated from it by `R/publication.R`. Never type measure facts into a `.qmd` page.
 - `data/ballots.csv` has one row per ballot (title like "2026 Ballot", date, and a short narrative paragraph). The narrative is shown on the Ballot Guides page; write it from the data in `measures.csv` and update it if the data changes.
 - `scripts/build_measures.R` writes one page per measure (`ballots/<year>/question-<letter>/`) and `scripts/build_charter.R` writes the charter pages. Both run before `quarto render`, and their output is not committed. Run them before `quarto preview`.
 - `data/sources.csv` holds each source once (title, publisher, URL, dates, notes). Any link used in the arguments must be registered here; `check.R` enforces it, and the measure page lists those sources under Sources.
-- `_ballot_text/` holds the official question wording, copied exactly from the official source, including apparent errors. Do not edit or "fix" it. The measure page shows only its central narrative (headings, the "Voting for/against" lines, and the For/Against choices are left out).
+- `_ballot_text/` holds the official question wording, copied exactly from the official source, including apparent errors. Do not edit or "fix" it. The measure page preserves every quoted source line, including headings, voting consequences, effective dates, and choices. Explain material source anomalies outside the quotation; never silently correct them.
 - `styles.css` is the only stylesheet. Colors are named once at the top (`--bb-*`); do not type hex colors elsewhere.
-- Run `Rscript scripts/check.R` before committing. Errors must be fixed; notes about empty fields are reminders, not failures. Links are checked weekly by `.github/workflows/links.yml`.
+- Run `Rscript scripts/check.R` and `Rscript scripts/test_publication.R` before committing. Errors must be fixed; notes about empty fields are reminders, not failures. Both checks run before rendering. Links are checked weekly by `.github/workflows/links.yml`.
 - Search is site-wide (top menu). Pages are searchable by default.
 - Page addresses are permanent. Never rename or reuse a measure's address; if a page must move, leave a redirect.
 
@@ -33,6 +38,7 @@ Plain-language guides to Baltimore City ballot questions, built with Quarto and 
 
 - Vote counts come from the State Board of Elections results page named in `sources.csv`. When refreshing, update every affected row and the source's refresh time in `sources.csv`.
 - `status` is Unofficial until certified results are published. The Ballot Guides page shows each ballot's status line from these values.
+- Each result card displays `results_checked` as the source-review date, not a certification date. A zero-total snapshot displays no outcome or vote percentages.
 - The side with more votes is gold; the other side is purple. Passed is gold; Failed is purple.
 
 ## Keywords

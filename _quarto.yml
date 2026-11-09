@@ -4,6 +4,7 @@ project:
   execute-dir: project
   pre-render:
     - Rscript scripts/check.R
+    - Rscript scripts/test_publication.R
   render:
     - index.qmd
     - about.qmd

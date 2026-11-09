@@ -34,15 +34,17 @@ published_ballots <- function() {
   b[order(b$election_date, decreasing = TRUE), , drop = FALSE]
 }
 
-# The central narrative of the official question, taken word for word from _ballot_text:
-# headings, the "Voting for/against" lines, the For/Against choices, and the source line are left out.
+# Preserve every quoted source line, including headings, voting effects, and choices.
+# Separate uppercase source headings from the narrative without changing their wording.
 official_narrative <- function(path) {
   x <- readLines(path, encoding = "UTF-8", warn = FALSE)
   q <- sub("^> ?", "", x[startsWith(x, ">")])
+  q <- unlist(lapply(q, function(line) {
+    if (grepl("^[A-Z][A-Z ,&/-]+$", trimws(line))) c(line, "") else line
+  }), use.names = FALSE)
   groups <- cumsum(!nzchar(trimws(q)))
-  paras <- vapply(split(q, groups), function(p) trimws(paste(trimws(p[nzchar(trimws(p))]), collapse = " ")), "")
-  paras <- unname(paras[nchar(paras) > 60 & !grepl("^Voting (for|against)", paras) & !grepl("^\\s*\\*", paras)])
-  list(paras = paras)
+  paras <- vapply(split(q, groups), function(p) trimws(paste(p[nzchar(trimws(p))], collapse = "\n")), "")
+  list(paras = unname(paras[nzchar(paras)]))
 }
 
 measure_tags <- function(m) {
@@ -65,9 +67,16 @@ measure_keywords <- function(m) {
 # The side with more votes is gold; the other side is purple with stripes, so color is never the only cue.
 measure_result <- function(m) {
   if (!nzchar(m$outcome)) return(cat('<p class="result-pending">Results not yet recorded.</p>\n'))
-  cat(sprintf('<div class="result-card" data-outcome="%s"><p class="result-label"><strong class="result-outcome">%s</strong><span class="result-status">%s Results</span></p>', html_escape(m$outcome), html_escape(m$outcome), html_escape(m$status)))
-  if (nzchar(m$for_votes)) {
-    f <- as.numeric(m$for_votes); a <- as.numeric(m$against_votes)
+  has_counts <- nzchar(m$for_votes) && nzchar(m$against_votes)
+  f <- if (has_counts) as.numeric(m$for_votes) else NA_real_
+  a <- if (has_counts) as.numeric(m$against_votes) else NA_real_
+  zero_total <- has_counts && is.finite(f + a) && f + a == 0
+  outcome <- if (zero_total) "No votes reported" else m$outcome
+  cat(sprintf('<div class="result-card" data-outcome="%s"><p class="result-label"><strong class="result-outcome">%s</strong><span class="result-status">%s Results</span></p>', html_escape(outcome), html_escape(outcome), html_escape(m$status)))
+  if (nzchar(m$results_checked)) {
+    cat(sprintf('<p class="result-margin">Snapshot checked <time datetime="%s">%s</time>. This is a source-review date, not a certification date.</p>', html_escape(m$results_checked), html_escape(m$results_checked)))
+  }
+  if (has_counts && is.finite(f + a) && f + a > 0) {
     fp <- 100 * f / (f + a); ap <- 100 - fp
     side <- if (f >= a) c("side-win", "side-lose") else c("side-lose", "side-win")
     cat(sprintf('<div class="result-counts"><span class="%s">For <strong>%.1f%%</strong> · %s votes</span><span class="%s">Against <strong>%.1f%%</strong> · %s votes</span></div>', side[1], fp, format_votes(f), side[2], ap, format_votes(a)))
@@ -78,7 +87,11 @@ measure_result <- function(m) {
 
 measure_question <- function(m) {
   o <- official_narrative(m$text_path)
-  cat("\n## The Question\n\n::: {.official-quote}\n\n")
+  cat("\n## The Question\n\n")
+  if (identical(m$cycle_id, "2026-general") && identical(m$letter, "G")) {
+    cat("Source note: The official source repeats the preceding question's heading, LEGISLATION, BUDGET, AND BOARD OF ESTIMATES. That heading is preserved below; Question G concerns franchises and minor privileges.\n\n")
+  }
+  cat("::: {.official-quote}\n\n")
   cat(paste(o$paras, collapse = "\n\n"), "\n\n", sep = "")
   cat(":::\n\n")
 }
