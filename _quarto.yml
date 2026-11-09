@@ -8,6 +8,7 @@ project:
     - index.qmd
     - about.qmd
     - privacy.qmd
+    - posts/*/index.qmd
     - ballots/index.qmd
     - ballots/*/question-*/index.qmd
     - charter/*.qmd

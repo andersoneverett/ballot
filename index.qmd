@@ -3,6 +3,15 @@ title: "Understand The Vote. Follow What Comes Next."
 subtitle: "Baltimore City ballot questions, explained and kept in view."
 page-layout: article
 body-classes: top-level
+listing:
+  id: latest
+  contents: posts
+  type: default
+  sort: "date desc"
+  max-items: 5
+  fields: [date, title, description]
+  categories: false
+  feed: true
 ---
 
 Baltimore Ballot brings together plain-language explanations, official wording, and sourced election results. We start with what we were asked to decide—and keep asking what those decisions mean for our city.
@@ -16,6 +25,11 @@ featured_ballot()
 ```
 
 [Browse All Ballot Guides](ballots/index.qmd), including the 2024 and 2026 Baltimore City questions. Each guide keeps the explanations, ballot origins, official wording, and results together.
+
+## Latest Updates {#latest-updates}
+
+::: {#latest}
+:::
 
 ## How Questions Reach The Ballot
 

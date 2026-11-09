@@ -1,0 +1,15 @@
+---
+title: "2026 results so far: all nine City questions passed"
+description: "An unofficial snapshot of Baltimore City Questions A–I, and what the numbers do and don't show."
+date: 2026-11-08
+page-layout: article
+body-classes: top-level
+---
+
+All nine Baltimore City questions on the 2026 ballot passed in the unofficial returns the State Board of Elections had posted as of November 7.
+
+Support ran from about 63% on Question E (contract bidding and awards) to about 86% on Question B (school facilities). The four bond questions, A through D, each drew roughly 83% to 86%. The five charter amendments, E through I, ranged from about 63% to 77%, with Question I (the Baltimore Baby Fund) at about 70%.
+
+These shares count For and Against votes only, and the results are unofficial. They are not a certification. Passing also does not mean anything has been built, borrowed, or spent; it means voters authorized the next steps.
+
+The numbers come from the [Maryland State Board of Elections unofficial results](https://elections.maryland.gov/elections/2026/general_Results/gen_qresults_2026_by_county_3.html), last checked November 8, 2026. Read each question's official wording, what it would do, and the arguments on both sides in the [Ballot Guides](../../ballots/index.qmd).
