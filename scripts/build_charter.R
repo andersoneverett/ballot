@@ -23,6 +23,10 @@ front <- function(title, extra = "") {
 
 if (!file.exists("data/charter.xml")) stop("Missing data/charter.xml")
 release <- readLines("data/charter-release.txt", warn = FALSE, encoding = "UTF-8")
+if (!length(release) || !nzchar(trimws(release[1]))) stop("Missing Charter release identification")
+source_note <- function(url, note = "") {
+  sprintf("::: {.charter-note}\nSource: [City of Baltimore Law Library](%s), %s. This copy is for reading and searching and is not the official version. %s %s\n:::\n", url, release[1], release[2] %||% "", note)
+}
 info <- read.csv("data/charter.csv", colClasses = "character", na.strings = "", encoding = "UTF-8")
 root <- read_xml("data/charter.xml")
 xml_ns_strip(root)
@@ -95,8 +99,7 @@ for (i in seq_along(articles)) {
   secs <- sections(a)
   counts[i] <- length(secs)
   note <- info$note[match(nums[i], info$num)] %||% ""
-  page <- c(front(title_of(a), meta),
-            sprintf("::: {.charter-note}\nSource: [City of Baltimore Law Library](%s/%s), %s. %s\n:::\n", CITY, nums[i], release[1], note))
+  page <- c(front(title_of(a), meta), source_note(paste0(CITY, "/", nums[i]), note))
   last <- character()
   for (s in secs) {
     if (length(s$trail) && !identical(s$trail, last)) {
@@ -104,8 +107,9 @@ for (i in seq_along(articles)) {
     }
     last <- s$trail
     num <- txt(s$node, "./num")
+    level <- if (length(s$trail)) "###" else "##"
     page <- c(page,
-              sprintf("\n### \u00a7 %s. %s {#s-%s}\n", num, txt(s$node, "./heading"), slug(num)),
+              sprintf("\n%s \u00a7 %s. %s {#s-%s}\n", level, num, txt(s$node, "./heading"), slug(num)),
               paste0("```{=html}\n", blocks(s$node), "\n```\n"))
   }
   writeLines(page, sprintf("%s/article-%02d.qmd", out_dir, i), useBytes = TRUE)
@@ -118,8 +122,8 @@ cards <- vapply(seq_along(articles), function(i) {
 }, "")
 landing <- c(
   front("Charter of Baltimore City", "page-navigation: true\n"),
-  sprintf("::: {.charter-note}\nSource: [City of Baltimore Law Library](%s), %s. This copy is for reading and searching and is not the official version. %s\n:::\n", CITY, release[1], release[2] %||% ""),
-  "The Charter is Baltimore's governing document, often described as the City's constitution. Browse by article below, or use the search box in the left menu to find a word or phrase, such as lowest bidder or Board of Estimates.\n",
+  source_note(CITY),
+  "The Charter is Baltimore's governing document, often described as the City's constitution. Browse by article below, or use search in the top menu to find a word or phrase, such as lowest bidder or Board of Estimates.\n",
   "## Browse by article\n",
   paste0('```{=html}\n<div class="charter-grid">\n', paste(cards, collapse = "\n"), "\n</div>\n```\n")
 )
