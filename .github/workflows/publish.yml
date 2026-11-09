@@ -40,6 +40,10 @@ jobs:
         run: |
           Rscript -e 'unlink("docs", recursive = TRUE)'
           quarto render
+      - name: Check rendered site before publication
+        run: |
+          Rscript scripts/check_site.R --self-test
+          Rscript scripts/check_site.R docs /ballot/
       - name: Upload rendered preview
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v7.0.2
